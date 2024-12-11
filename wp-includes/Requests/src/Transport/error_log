@@ -1,0 +1,8 @@
+[23-Aug-2023 19:33:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Transport' not found in /home/europea8/public_html/euyws/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[24-Aug-2023 14:49:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Transport' not found in /home/europea8/public_html/euyws/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/Requests/src/Transport/Curl.php on line 25

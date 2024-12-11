@@ -1,0 +1,48 @@
+[23-Aug-2023 09:34:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[23-Aug-2023 19:27:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[25-Aug-2023 04:47:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[25-Aug-2023 12:56:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[25-Aug-2023 21:59:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[26-Aug-2023 05:21:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[27-Aug-2023 07:40:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[27-Aug-2023 08:56:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[27-Aug-2023 11:25:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Media_Control' not found in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[27-Aug-2023 12:22:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[27-Aug-2023 12:52:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[27-Aug-2023 13:40:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/customize/class-wp-customize-date-time-control.php on line 17

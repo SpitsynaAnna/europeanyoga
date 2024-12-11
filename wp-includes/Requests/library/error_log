@@ -1,0 +1,4 @@
+[26-Aug-2023 19:16:25 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/europea8/public_html/euyws/wp-includes/Requests/library/Requests.php on line 12
+[26-Aug-2023 19:16:25 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/europea8/public_html/euyws/wp-includes/Requests/library/Requests.php on line 12
+[26-Aug-2023 19:16:25 UTC] PHP Warning:  include_once(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/europea8/public_html/euyws/wp-includes/Requests/library/Requests.php on line 12
+[26-Aug-2023 19:16:25 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHWPINC/class-requests.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/europea8/public_html/euyws/wp-includes/Requests/library/Requests.php on line 12

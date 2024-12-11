@@ -1,0 +1,52 @@
+[23-Aug-2023 20:44:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[23-Aug-2023 21:48:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[24-Aug-2023 09:02:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[25-Aug-2023 04:33:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Aug-2023 14:26:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[25-Aug-2023 23:46:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[26-Aug-2023 04:28:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[26-Aug-2023 05:42:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[27-Aug-2023 03:47:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[27-Aug-2023 13:25:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[27-Aug-2023 21:28:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[27-Aug-2023 21:44:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-text.php on line 17
+[27-Aug-2023 21:58:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/widgets/class-wp-widget-calendar.php on line 17

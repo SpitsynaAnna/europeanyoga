@@ -1,0 +1,64 @@
+[23-Aug-2023 01:41:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php on line 17
+[24-Aug-2023 12:59:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php on line 17
+[25-Aug-2023 09:03:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php on line 17
+[25-Aug-2023 21:44:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Terms_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php on line 17
+[26-Aug-2023 09:17:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 17
+[26-Aug-2023 09:31:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php on line 17
+[26-Aug-2023 18:51:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Posts_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php on line 20
+[26-Aug-2023 22:07:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php on line 17
+[26-Aug-2023 22:53:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Posts_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php on line 17
+[27-Aug-2023 03:49:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17
+[27-Aug-2023 05:54:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Posts_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php on line 17
+[27-Aug-2023 10:31:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php on line 17
+[27-Aug-2023 14:20:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php on line 17
+[27-Aug-2023 18:48:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php on line 17
+[28-Aug-2023 00:11:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php on line 17
+[28-Aug-2023 07:08:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php on line 17

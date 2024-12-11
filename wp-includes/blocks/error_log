@@ -1,0 +1,4 @@
+[25-Aug-2023 09:24:12 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/europea8/public_html/euyws/wp-includes/blocks/index.php on line 8
+[25-Aug-2023 09:24:12 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/europea8/public_html/euyws/wp-includes/blocks/index.php on line 8
+[25-Aug-2023 09:24:12 UTC] PHP Warning:  require(ABSPATHWPINC/blocks/legacy-widget.php): failed to open stream: No such file or directory in /home/europea8/public_html/euyws/wp-includes/blocks/index.php on line 11
+[25-Aug-2023 09:24:12 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/legacy-widget.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/europea8/public_html/euyws/wp-includes/blocks/index.php on line 11

@@ -1,0 +1,5433 @@
+# Translation of Plugins - Unlimited Elements For Elementor (Free Widgets, Addons, Templates) - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Unlimited Elements For Elementor (Free Widgets, Addons, Templates) - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-20 17:05:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Unlimited Elements For Elementor (Free Widgets, Addons, Templates) - Development (trunk)\n"
+
+#: provider/provider_settings.class.php:2242
+msgid "Enable Sync and Remote"
+msgstr "Включить синхронизацию и удаленный доступ"
+
+#: provider/provider_settings.class.php:1468
+msgid "Include by Meta Value 2"
+msgstr "Включить по мета-значению 2"
+
+#: provider/provider_settings.class.php:1472
+msgid "Include by Meta Value 3"
+msgstr "Включить по мета-значению 3"
+
+#: provider/provider_settings.class.php:2127
+msgid "Sync slide run with other widgets"
+msgstr "Синхронизировать слайд с другими виджетами"
+
+#: provider/provider_helper.class.php:153
+msgid "Sync Group 10"
+msgstr "Группа синхронизации 10"
+
+#: provider/provider_helper.class.php:149
+msgid "Sync Group 6"
+msgstr "Группа синхронизации 6"
+
+#: provider/provider_helper.class.php:150
+msgid "Sync Group 7"
+msgstr "Группа синхронизации 7"
+
+#: provider/provider_helper.class.php:151
+msgid "Sync Group 8"
+msgstr "Группа синхронизации 8"
+
+#: provider/provider_helper.class.php:152
+msgid "Sync Group 9"
+msgstr "Группа синхронизации 9"
+
+#: inc_php/unitecreator_dialog_param.class.php:858
+msgid "Remote Background"
+msgstr "Удаленный фон"
+
+#: provider/provider_settings.class.php:2156
+#: provider/provider_settings.class.php:2216
+#: provider/provider_settings.class.php:2282
+msgid "Show Debug"
+msgstr "Показать отладку"
+
+#: provider/provider_settings.class.php:2142
+#: provider/provider_settings.class.php:2257
+msgid "Sync Group"
+msgstr "Группа синхронизации"
+
+#: provider/provider_helper.class.php:144
+msgid "Sync Group 1"
+msgstr "Группа синхронизации 1"
+
+#: provider/provider_helper.class.php:145
+msgid "Sync Group 2"
+msgstr "Группа синхронизации 2"
+
+#: provider/provider_helper.class.php:146
+msgid "Sync Group 3"
+msgstr "Группа синхронизации 3"
+
+#: provider/provider_helper.class.php:147
+msgid "Sync Group 4"
+msgstr "Группа синхронизации 4"
+
+#: provider/provider_helper.class.php:148
+msgid "Sync Group 5"
+msgstr "Группа синхронизации 5"
+
+#: provider/provider_settings.class.php:2137
+msgid "Choose the sync group"
+msgstr "Выбрать группу синхронизации"
+
+#: inc_php/unitecreator_dialog_param.class.php:797
+msgid "Has Filter Option"
+msgstr "Имеет параметр фильтра"
+
+#: inc_php/unitecreator_dialog_param.class.php:819
+msgid "Posts Filter Options"
+msgstr "Параметры фильтра записей"
+
+#: provider/provider_settings.class.php:2208
+msgid "Custom Parent Name"
+msgstr "Настраиваемое имя родителя"
+
+#: provider/provider_settings.class.php:2177
+#: provider/provider_settings.class.php:2198
+#: provider/provider_settings.class.php:2273
+msgid "Remote Parent Name"
+msgstr "Удаленное имя родителя"
+
+#: provider/provider_settings.class.php:2173
+msgid "Select the name of the parent for connetion"
+msgstr "Выбрать имя родителя для подключения"
+
+#: provider/provider_settings.class.php:2129
+msgid "Sync"
+msgstr "Синхронизация"
+
+#: provider/provider_settings.class.php:2154
+msgid "Show information about remote widgets that connected to this widget. Please turn off this option before release"
+msgstr "Показать информацию об удаленных виджетах, подключенных к этому виджету. Пожалуйста, отключите эту опцию перед релизом"
+
+#: provider/provider_settings.class.php:2106
+msgid "Widget Name for Connection"
+msgstr "Название виджета для подключения"
+
+#: provider/provider_settings.class.php:2101
+msgid "This name will be used to connect and control this widget by other widgets"
+msgstr "Это название будет использоваться для подключения и управления этим виджетом другими виджетами"
+
+#: provider/provider_settings.class.php:2093
+msgid "Enable Remote Connection"
+msgstr "Включить удаленное подключение"
+
+#: provider/provider_settings.class.php:2091
+msgid "Enable the remote connection functionality for this widget"
+msgstr "Включить функцию удаленного подключения для этого виджета"
+
+#: provider/provider_helper.class.php:133
+#: provider/provider_settings.class.php:2112
+msgid "Custom Name"
+msgstr "Настраиваемое название"
+
+#: provider/provider_helper.class.php:130
+msgid "Fourth"
+msgstr "Четвертый"
+
+#: provider/provider_helper.class.php:129
+msgid "Third"
+msgstr "Третий"
+
+#: provider/provider_helper.class.php:128
+msgid "Second"
+msgstr "Второй"
+
+#: provider/provider_helper.class.php:125
+msgid "Auto Detectable"
+msgstr "Автоопределение"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:391
+msgid "%, PX"
+msgstr "%, PX"
+
+#: inc_php/unitecreator_helperhtml.class.php:1004
+msgid "Add Condition"
+msgstr "Добавить условие"
+
+#: inc_php/unitecreator_dialog_param.class.php:1796
+msgid "Tab"
+msgstr "Вкладка"
+
+#: inc_php/unitecreator_dialog_param.class.php:857
+msgid "Remote Controller"
+msgstr "Дистанционный контроллер"
+
+#: inc_php/unitecreator_dialog_param.class.php:856
+msgid "Remote Parent"
+msgstr "Удаленный родитель"
+
+#: inc_php/unitecreator_dialog_param.class.php:849
+msgid "Remote"
+msgstr "Удаленный"
+
+#: provider/provider_settings.class.php:2603
+msgid "Image Items"
+msgstr "Элементы изображения"
+
+#: provider/provider_settings.class.php:466
+msgid "Children Of Current Term"
+msgstr "Дочерние текущего термина"
+
+#: provider/provider_settings.class.php:465
+msgid "Children Of"
+msgstr "Дочерние"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2778
+msgid "Instagram Source"
+msgstr "Источник Instagram"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:218
+msgid "Item Link"
+msgstr "Ссылка элемента"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:176
+msgid "This image will be used for gallery thumbnail and video placeholder"
+msgstr "Это изображение будет использоваться для эскиза галереи и заполнителя видео"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:145
+msgid "Enter url of the mp4 video in current or external site. Example: http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+msgstr "Введите url mp4 видео на текущем или внешнем сайте. Напр: http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:396
+msgid "PX, VH, %"
+msgstr "PX, VH, %"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:395
+msgid "PX, VH"
+msgstr "PX, VH"
+
+#: inc_php/unitecreator_dialog_param.class.php:876
+msgid "Enable Video Items"
+msgstr "Включить видео элементы"
+
+#: inc_php/unitecreator_dialog_param.class.php:407
+msgid "Enter Text"
+msgstr "Введите текст"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:235
+msgid "Gallery Items"
+msgstr "Элементы галереи"
+
+#: inc_php/unitecreator_dialog_param.class.php:183
+msgid "Heading"
+msgstr "Заголовок"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:78
+msgid "Item Type"
+msgstr "Тип элемента"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:66
+msgid " Items"
+msgstr " Элементы"
+
+#: provider/provider_settings.class.php:2601
+msgid "Image And Video Items"
+msgstr "Изображения и видео элементы"
+
+#: provider/provider_settings.class.php:1280
+msgid "Products From Post Content (woo)"
+msgstr "Товары из контента записи (woo)"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:202
+msgid "Item Description"
+msgstr "Описание элемента"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:187
+msgid "Item Title"
+msgstr "Заголовок элемента"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:142
+msgid "MP4 Video Url"
+msgstr "URL MP4 видео"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:130
+msgid "For example: 9oedgxuciv"
+msgstr "Напр: 9oedgxuciv"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:127
+msgid "Wistia Video ID"
+msgstr "Wistia видео ID"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:115
+msgid "For example: 581014653, or https://vimeo.com/581014653"
+msgstr "Напр: 581014653 или https://vimeo.com/581014653"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:112
+msgid "Vimeo Video ID or Url"
+msgstr "Vimeo видео ID или URL"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:97
+msgid "Youtube Url or ID"
+msgstr "Youtube ID или URL"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:86
+msgid "HTML5 Video"
+msgstr "HTML5 видео"
+
+#: inc_php/unitecreator_dialog_param.class.php:629
+msgid "Write a json file, from assets folder. Important to specify it that the widget will not look empty."
+msgstr "Запишите json-файл из папки assets. Важно указать его, чтобы виджет не выглядел пустым."
+
+#: inc_php/unitecreator_dialog_param.class.php:623
+msgid "Default Json File"
+msgstr "Json файл по умолчанию"
+
+#: inc_php/unitecreator_dialog_param.class.php:601
+msgid "Media Type"
+msgstr "Тип медиа"
+
+#: inc_php/unitecreator_dialog_param.class.php:181
+msgid "Image (media)"
+msgstr "Изображение (медиа)"
+
+#: inc_php/unitecreator_dialog_param.class.php:1446
+msgid "Filter Name"
+msgstr "Название фильтра"
+
+#: views/objects/addon_view.class.php:121
+msgid "Section Heading"
+msgstr "Заголовок раздела"
+
+#: views/objects/addon_view.class.php:113
+msgid "Section Label"
+msgstr "Ярлык раздела"
+
+#: views/objects/addon_view.class.php:110
+msgid "Default is 'Items'"
+msgstr "По умолчанию - 'Элементы'"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:406
+msgid "Show When Has Those Terms"
+msgstr "Показать, когда есть эти термины"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:380
+msgid "Hide When Has Those Terms"
+msgstr "Скрыть, когда есть эти термины"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:371
+msgid "This hide by archive terms works only when current page is ARCHIVE type and current the term match the seleced"
+msgstr "Это скрытие по архивным терминам работает только тогда, когда текущая страница имеет тип АРХИВ и текущий термин совпадает с выбранным"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:355
+msgid "This section will be hidden by default if no other condition is chosen"
+msgstr "Этот раздел будет скрыт по умолчанию, если не выбрано никакое другое условие"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:342
+msgid "Hide By Default"
+msgstr "Скрыть по умолчанию"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:338
+msgid "Hide By"
+msgstr "Скрыть по"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:327
+msgid "Enable Visibility Conditions"
+msgstr "Включить условия видимости"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:895
+msgid "Special Attribute Type"
+msgstr "Тип специального атрибута"
+
+#: inc_php/unitecreator_dialog_param.class.php:1789
+msgid "Label Block"
+msgstr "Блок ярлыков"
+
+#: inc_php/unitecreator_dialog_param.class.php:1461
+msgid "Write every filter name that could be run by apply_filters php function"
+msgstr "Напишите все имена фильтров, которые могут быть запущены php-функцией apply_filters"
+
+#: inc_php/unitecreator_dialog_param.class.php:1455
+msgid "Filter Parameter"
+msgstr "Параметр фильтра"
+
+#: inc_php/unitecreator_client_text.php:78
+#: inc_php/unitecreator_dialog_param.class.php:232
+msgid "Special Attribute"
+msgstr "Специальный атрибут"
+
+#: inc_php/unitecreator_dialog_param.class.php:211
+msgid "By Filter Hook"
+msgstr "По хуку фильтра"
+
+#: provider/provider_settings.class.php:2627
+#: provider/provider_settings_multisource.class.php:729
+#: provider/provider_settings_multisource.class.php:850
+msgid "Source"
+msgstr "Источник"
+
+#: views/objects/addon_view.class.php:149
+msgid "load as module"
+msgstr "загрузить как модуль"
+
+#: views/objects/addon_view.class.php:691
+msgid "Include as ES6 module"
+msgstr "Включить как модуль ES6"
+
+#: views/objects/addon_view.class.php:674
+msgid "leave empty for auto"
+msgstr "оставить пустым для авто"
+
+#: views/objects/addon_view.class.php:669
+msgid "Handle"
+msgstr "Хэндл"
+
+#: provider/provider_settings.class.php:1833
+msgid "Avoid duplicate posts, that fetched by another post widgets in the page, and have this option seleted (avoid duplicates)"
+msgstr "Избегайте дубликатов записей, которые подхватываются виджетами других записей на странице, и выберите эту опцию (избегать дубликатов)."
+
+#: provider/provider_settings.class.php:1820
+msgid "Exclude Posts by Dynamic Field"
+msgstr "Исключать записи по динамическому полю"
+
+#: provider/provider_settings.class.php:1760
+#: provider/provider_settings.class.php:1789
+msgid "Avoid Duplicates"
+msgstr "Избегать дубликатов"
+
+#: provider/provider_settings.class.php:1592
+msgid "Include Posts by Dynamic Field"
+msgstr "Включить записи по динамическому полю"
+
+#: provider/provider_settings.class.php:1587
+#: provider/provider_settings.class.php:1815
+msgid "Enter post id's like 45,65,76, or select from dynamic tag"
+msgstr "Введите ID записи, например 45,65,76, или выберите из динамического тега"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:573
+#: provider/provider_settings.class.php:69
+msgid "Choose Template"
+msgstr "Выберите шаблон"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:567
+#: provider/provider_settings.class.php:61
+msgid "[No Template Selected]"
+msgstr "[Шаблон не выбран]"
+
+#: provider/provider_settings.class.php:2378
+msgid "Choose Images"
+msgstr "Выбрать изображения"
+
+#: inc_php/unitecreator_dialog_param.class.php:848
+#: provider/provider_settings.class.php:2598
+#: provider/provider_settings_multisource.class.php:222
+msgid "Gallery"
+msgstr "Галерея"
+
+#: provider/provider_settings.class.php:2335
+#: provider/provider_settings.class.php:2355
+#: provider/provider_settings_multisource.class.php:166
+msgid "Image Caption"
+msgstr "Подпись к изображению"
+
+#: provider/provider_settings.class.php:2352
+#: provider/provider_settings_multisource.class.php:167
+msgid "Image Description"
+msgstr "Описание изображения"
+
+#: provider/provider_helper.class.php:69
+msgid "Next Month"
+msgstr "Следующий месяц"
+
+#: provider/provider_settings.class.php:2585
+msgid " Item Template"
+msgstr " Шаблон элемента"
+
+#: provider/provider_settings.class.php:2334
+#: provider/provider_settings.class.php:2354
+#: provider/provider_settings_multisource.class.php:165
+msgid "Image Alt"
+msgstr "Alt изображения"
+
+#: provider/provider_settings.class.php:2616
+msgid "Current Post Metafield"
+msgstr "Метаполе текущей записи"
+
+#: provider/provider_settings.class.php:2580
+msgid "Gallery Items "
+msgstr "Элементы галереи "
+
+#: provider/provider_settings.class.php:2497
+msgid "Big Image Size"
+msgstr "Размер большого изображения"
+
+#: provider/provider_settings.class.php:2485
+msgid "Thumb Image Size"
+msgstr "Размер миниатюры"
+
+#: provider/provider_settings.class.php:2432
+#: provider/provider_settings_multisource.class.php:356
+msgid "Debug - Show Meta Fields"
+msgstr "Отладка - Показывать метаполя"
+
+#: provider/provider_settings.class.php:2429
+msgid "Show the current post meta fields, turn off it after choose the right one"
+msgstr "Показывать текущие мета поля записи, отключать их после выбора правильного"
+
+#: provider/provider_settings.class.php:2413
+#: provider/provider_settings.class.php:2468
+msgid "Image Description Source"
+msgstr "Источник описания изображения"
+
+#: provider/provider_settings.class.php:2402
+#: provider/provider_settings.class.php:2456
+msgid "Image Title Source"
+msgstr "Источник заголовка изображения"
+
+#: provider/provider_settings.class.php:2349
+#: provider/provider_settings_multisource.class.php:51
+msgid "Post Content"
+msgstr "Контент записи"
+
+#: provider/provider_settings.class.php:2333
+#: provider/provider_settings.class.php:2353
+#: provider/provider_settings_multisource.class.php:164
+msgid "Image Title"
+msgstr "Заголовок (title) изображения"
+
+#: provider/provider_settings.class.php:2332
+msgid "Image Auto (title or alt or caption)"
+msgstr "Авто изображения (заголовок или alt или подпись)"
+
+#: provider/provider_settings.class.php:2329
+#: provider/provider_settings.class.php:2347
+msgid "Post Excerpt"
+msgstr "Отрывок записи"
+
+#: provider/provider_settings.class.php:1372
+msgid "Date by Meta Field"
+msgstr "Дата по метаполю"
+
+#: provider/provider_settings.class.php:1369
+msgid "Optional, Select custom field (like ACF) with date format 20210310 (Ymd). For example: event_date"
+msgstr "Необязательно. Выберите пользовательское поле (например, ACF) с форматом даты 20210310 (Ymd). Например: event_date"
+
+#: provider/provider_helper.class.php:68
+msgid "This Month"
+msgstr "Этот месяц"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2632
+msgid "Gallery "
+msgstr "Галерея "
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2630
+#: provider/provider_settings.class.php:2578
+msgid "Items "
+msgstr "Элементы "
+
+#: inc_php/unitecreator_client_text.php:71
+msgid "Grouped Settings"
+msgstr "Сгруппированные настройки"
+
+#: inc_php/unitecreator_dialog_param.class.php:865
+msgid "Use For"
+msgstr "Использовать для"
+
+#: inc_php/unitecreator_dialog_param.class.php:847
+msgid "Template Loop"
+msgstr "Цикл шаблона"
+
+#: inc_php/unitecreator_dialog_param.class.php:196
+msgid "Dynamic Grouped Settings"
+msgstr "Динамические сгруппированные настройки"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:473
+msgid "Show Debug Text"
+msgstr "Показать отладочный текст"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:393
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:419
+msgid "Or Their Children"
+msgstr "Или их дочерние"
+
+#: inc_php/unitecreator_client_text.php:76
+#: inc_php/unitecreator_dialog_param.class.php:178
+msgid "Multiple Select"
+msgstr "Множественный выбор"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:343
+msgid "Archive Terms"
+msgstr "Термины архива"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:314
+msgid "UE Visibility Conditions"
+msgstr "Условия видимости UE"
+
+#: views/objects/addon_view.class.php:683
+msgid "Include after elementor-frontend.js"
+msgstr "Включить после elementor-frontend.js"
+
+#: provider/provider_settings.class.php:1577
+#: provider/provider_settings_multisource.class.php:477
+msgid "Meta Field Name"
+msgstr "Название мета поля"
+
+#: provider/provider_settings.class.php:1574
+msgid "Choose meta field name that has the post id's on it. Good for acf relationship for example"
+msgstr "Выберите название мета-поля, в котором есть ID записи. Хорошо подходит, например, для acf"
+
+#: provider/provider_settings.class.php:1564
+msgid "Select Post (leave empty for current post)"
+msgstr "Выбрать запись (оставьте пустым для текущей записи)"
+
+#: provider/provider_settings.class.php:1560
+msgid "PHP Function Argument"
+msgstr "Аргумент функции PHP"
+
+#: provider/provider_settings.class.php:1557
+msgid "Optional. Some argument to be passed to this function. For some \"IF\" statement."
+msgstr "Необязательно. Некоторый аргумент, который будет передан этой функции. Для некоторого оператора \"ЕСЛИ (IF)\"."
+
+#: provider/provider_settings.class.php:1556
+msgid "yourtext"
+msgstr "ваштекст"
+
+#: provider/provider_settings.class.php:1550
+msgid "PHP Function Name"
+msgstr "Название функции PHP"
+
+#: provider/provider_settings.class.php:1547
+msgid ""
+"Get post id's array from php function. \n"
+" For example: function getMyIDs($arg){return(array(\"32\",\"58\")). This function MUST begin with 'get'. }"
+msgstr ""
+"Получите массив id записей из php функции. . \n"
+"Напр: фнукция getMyIDs($arg){return(array(\"32\",\"58\")). Эта функция ДОЛЖНА начинаться с 'get'. }"
+
+#: provider/provider_settings.class.php:1546
+msgid "getMyIDs"
+msgstr "getMyIDs"
+
+#: provider/provider_settings.class.php:1270
+msgid "IDs from Post Meta"
+msgstr "ID из мета записи"
+
+#: provider/provider_settings.class.php:1269
+msgid "IDs from PHP function"
+msgstr "ID из PHP функции"
+
+#: inc_php/unitecreator_dialog_param.class.php:813
+msgid "For WooCommerce Terms"
+msgstr "Для WooCommerce терминов"
+
+#: provider/functions_wordpress.class.php:1319
+msgid "Preserve Posts In Order"
+msgstr "Сохранить записи по порядку"
+
+#: provider/provider_settings.class.php:1648
+msgid "Most Viewed Time Range"
+msgstr "Наиболее просматриваемый диапазон времени"
+
+#: provider/provider_settings.class.php:1625
+msgid "'WordPress Popular Posts' plugin activated."
+msgstr "Плагин 'WordPress Popular Posts' активирован."
+
+#: provider/provider_settings.class.php:1622
+msgid "Select most viewed posts, integration with plugin: 'WordPress Popular Posts' that should be installed"
+msgstr "Выбор наиболее просматриваемых постов, интеграция с плагином: 'WordPress Popular Posts', который должен быть установлен"
+
+#: provider/provider_settings.class.php:1268
+msgid "Most Viewed"
+msgstr "Самые просматриваемые"
+
+#: provider/provider_settings.class.php:1264
+msgid "Post Meta"
+msgstr "Мета записи"
+
+#: provider/core/plugins/unlimited_elements/elementor/dynamic_tags/tag_current_timestamp.php:18
+msgid "Current Time Stamp"
+msgstr "Текущая отметка времени"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2197
+msgid "Debug Data Type"
+msgstr "Тип отладочных данных"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2183
+msgid "Posts Titles and Meta"
+msgstr "Заголовки записей и мета"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2182
+msgid "Posts Titles"
+msgstr "Заголовки записей"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2179
+msgid "Items Only"
+msgstr "Только элементы"
+
+#: inc_php/unitecreator_helperhtml.class.php:980
+msgid "No parent attribute (dropdown, checkbox or radio) exists in this category"
+msgstr "В данной категории не существует родительского атрибута (выпадающего списка, флажка или радио)"
+
+#: inc_php/unitecreator_dialog_param.class.php:1003
+msgid "Show Image Sizes Select"
+msgstr "Показать выбор размеров изображений"
+
+#: provider/functions_wordpress.class.php:2841
+msgid "Full Size"
+msgstr "Полный размер"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1940
+msgid "Size"
+msgstr "Размер"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:430
+msgid "Not Chosen"
+msgstr "Не выбрано"
+
+#: provider/provider_settings.class.php:710
+#: provider/provider_settings.class.php:2070
+msgid "Debug Options"
+msgstr "Параметры отладки"
+
+#: inc_php/unitecreator_dialog_param.class.php:616
+msgid "Add Image Size Select"
+msgstr "Добавить выбор размеров изображений"
+
+#: provider/provider_settings.class.php:705
+#: provider/provider_settings.class.php:2065
+msgid "Basic"
+msgstr "Базовый"
+
+#: inc_php/unitecreator_client_text.php:109
+#: inc_php/unitecreator_dialog_param.class.php:225
+msgid "Border Radius"
+msgstr "Скругление углов"
+
+#: provider/provider_settings.class.php:1279
+msgid "Recently Viewed Produts (woo)"
+msgstr "Недавно просмотренные товары (woo)"
+
+#: provider/provider_settings.class.php:1278
+msgid "Out Of Stock Products Only (woo)"
+msgstr "Только товары, отсутствующие на складе (woo)"
+
+#: provider/provider_settings.class.php:1277
+msgid "Cross Sells Products (woo)"
+msgstr "Cross Sell товары (woo)"
+
+#: provider/provider_settings.class.php:1276
+msgid "Up Sells Products (woo)"
+msgstr "Up Sell товары (woo)"
+
+#: provider/provider_settings.class.php:1275
+msgid "Products On Sale Only (woo)"
+msgstr "Только товары на распродаже (woo)"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:870
+msgid "Add the value of this attribute to the class list of your html element"
+msgstr "Добавить значение этого атрибута в список классов вашего html элемента"
+
+#: inc_php/unitecreator_helperhtml.class.php:997
+#: inc_php/unitecreator_helperhtml.class.php:1015
+msgid "Not Equal"
+msgstr "Не равно"
+
+#: inc_php/unitecreator_helperhtml.class.php:996
+#: inc_php/unitecreator_helperhtml.class.php:1014
+msgid "Equal"
+msgstr "Равно"
+
+#: inc_php/unitecreator_helperhtml.class.php:986
+msgid "Show When"
+msgstr "Показать, когда"
+
+#: inc_php/unitecreator_helperhtml.class.php:970
+msgid "Enable Condition"
+msgstr "Включить условие"
+
+#: inc_php/unitecreator_dialog_param.class.php:990
+msgid "Default Max Posts"
+msgstr "Макс записей по умолчанию"
+
+#: inc_php/unitecreator_client_text.php:111
+#: inc_php/unitecreator_dialog_param.class.php:227
+msgid "Hover Animations"
+msgstr "Анимация при наведении"
+
+#: inc_php/unitecreator_client_text.php:110
+#: inc_php/unitecreator_dialog_param.class.php:226
+msgid "Css Filters"
+msgstr "CSS фильтры"
+
+#: provider/provider_settings.class.php:487
+#: provider/provider_settings.class.php:1433
+#: provider/provider_settings.class.php:2423
+msgid "Meta Key"
+msgstr "Мета ключ"
+
+#: provider/provider_settings.class.php:510
+#: provider/provider_settings.class.php:633
+#: provider/provider_settings.class.php:832
+#: provider/provider_settings.class.php:1459
+msgid "Meta Value"
+msgstr "Мета значение"
+
+#: provider/functions_wordpress.class.php:1355
+msgid "Count - (number of posts associated)"
+msgstr "Количество - (число связанных сообщений)"
+
+#: provider/provider_settings.class.php:857
+msgid "&nbsp;&nbsp;Meta Field Name"
+msgstr "&nbsp;&nbsp;Название мета поля"
+
+#: provider/provider_settings.class.php:634
+#: provider/provider_settings.class.php:833
+msgid "Meta Value - Numeric"
+msgstr "Мета значение - числовое"
+
+#: provider/provider_settings.class.php:632
+msgid "Include - (specific terms order)"
+msgstr "Включить - (порядок определенных терминов)"
+
+#: provider/provider_settings.class.php:619
+msgid "Max Number of Terms"
+msgstr "Макс количество терминов"
+
+#: provider/provider_settings.class.php:616
+msgid "100 terms if empty"
+msgstr "100 терминов, если пусто"
+
+#: provider/provider_settings.class.php:602
+msgid "Exclude With All Children Tree"
+msgstr "Исключить со всеми дочерними деревьями"
+
+#: provider/provider_settings.class.php:575
+msgid "Hide Empty Terms"
+msgstr "Скрыть пустые термины"
+
+#: provider/provider_settings.class.php:573
+msgid "Current Term (for archive only)"
+msgstr "Текущий термин (только для архива)"
+
+#: provider/provider_settings.class.php:560
+msgid "Include by Search"
+msgstr "Включить по поиску"
+
+#: provider/provider_settings.class.php:556
+msgid "Search Text"
+msgstr "Текст поиска"
+
+#: provider/provider_settings.class.php:550
+msgid "Is Direct Parent"
+msgstr "Является прямым родителем"
+
+#: provider/provider_settings.class.php:547
+msgid "If turned off, all the terms tree will be selected"
+msgstr "Если выключить, то будет выбрано все дерево терминов"
+
+#: provider/provider_settings.class.php:541
+msgid "Select Parent Term"
+msgstr "Выбрать родительский термин"
+
+#: provider/provider_settings.class.php:528
+msgid "Select Specific Terms"
+msgstr "Выбрать определенные термины"
+
+#: provider/provider_settings.class.php:520
+msgid "Only those selected terms will be loaded"
+msgstr "Будут загружены только выбранные термины"
+
+#: provider/provider_settings.class.php:514
+#: provider/provider_settings.class.php:1467
+msgid "Include by Meta Value"
+msgstr "Включить по мета значению"
+
+#: provider/provider_settings.class.php:503
+#: provider/provider_settings.class.php:1453
+msgid "Include by Meta Compare"
+msgstr "Включить по мета сравнению"
+
+#: provider/provider_settings.class.php:497
+#: provider/provider_settings.class.php:1446
+msgid "Get only those terms that has the meta key/value. For IN, NOT IN, BETWEEN, NOT BETWEEN compares, use coma saparated values"
+msgstr "Получите только те термины, которые имеют мета ключ/значение. Для сравнения В, НЕ В, МЕЖДУ, НЕ МЕЖДУ, используйте значения, разделенные запятыми"
+
+#: provider/provider_settings.class.php:490
+#: provider/provider_settings.class.php:1440
+msgid "Include by Meta Key"
+msgstr "Включить по мета ключу"
+
+#: provider/provider_settings.class.php:471
+msgid "Term Meta"
+msgstr "Термин мета"
+
+#: provider/provider_settings.class.php:470
+msgid "Not a Child of Other Term"
+msgstr "Не является дочерним другого мета"
+
+#: provider/provider_settings.class.php:469
+msgid "Only Childless"
+msgstr "Только без дочерних"
+
+#: provider/provider_settings.class.php:468
+msgid "By Search Text"
+msgstr "По поиску текста"
+
+#: provider/provider_settings.class.php:464
+#: provider/provider_settings.class.php:572
+msgid "Specific Terms"
+msgstr "Определенные термины"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:113
+msgid "CSS Selector 3 Value"
+msgstr "Значение CSS селектора 3"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:105
+msgid "CSS Selector 3"
+msgstr "CSS селектор 3"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:95
+msgid "CSS Selector 2 Value"
+msgstr "Значение CSS селектора 2"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:87
+msgid "CSS Selector 2"
+msgstr "CSS селектор 2"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:79
+msgid "Show More Selectors"
+msgstr "Показать больше селекторов"
+
+#: provider/provider_settings.class.php:323
+msgid "Additional Meta Data Keys"
+msgstr "Дополнительные ключи метаданных"
+
+#: provider/provider_settings.class.php:318
+msgid "Get additional meta data by given meta keys comma separated"
+msgstr "Получение дополнительных метаданных по заданным мета ключам, разделенным запятыми"
+
+#: provider/provider_settings.class.php:992
+msgid "All Products"
+msgstr "Все товары"
+
+#: provider/provider_helper.class.php:87
+msgid "Draft"
+msgstr "Черновик"
+
+#: provider/provider_settings.class.php:1788
+#: provider/provider_settings.class.php:1873
+msgid "Offset"
+msgstr "Смещение"
+
+#: provider/provider_settings.class.php:1915
+msgid "Post Status"
+msgstr "Статус записи"
+
+#: provider/provider_settings.class.php:2328
+#: provider/provider_settings.class.php:2348
+#: provider/provider_settings_multisource.class.php:48
+msgid "Post Title"
+msgstr "Заголовок записи"
+
+#: provider/provider_settings.class.php:1070
+#: provider/provider_settings.class.php:2608
+#: provider/provider_settings_multisource.class.php:207
+msgid "Posts"
+msgstr "Записи"
+
+#: provider/provider_operations.class.php:186
+#: provider/provider_settings.class.php:1075
+msgid "Product"
+msgstr "Товар"
+
+#: provider/provider_settings.class.php:1074
+#: provider/provider_settings.class.php:2612
+msgid "Products"
+msgstr "Товары"
+
+#: provider/provider_helper.class.php:105
+#: provider/provider_settings_multisource.class.php:109
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: provider/provider_helper.class.php:108
+#: provider/provider_settings_multisource.class.php:110
+msgid "Email"
+msgstr "Email"
+
+#: provider/provider_settings.class.php:1934
+#: provider/provider_settings.class.php:1962
+msgid "Max %s"
+msgstr "Макс %s"
+
+#: provider/provider_helper.class.php:103
+msgid "User ID"
+msgstr "ID пользователя"
+
+#: provider/provider_helper.class.php:111
+msgid "Number of Posts"
+msgstr "Количество записей"
+
+#: provider/provider_helper.class.php:110
+msgid "Registered Date"
+msgstr "Дата регистрации"
+
+#: provider/provider_helper.class.php:109
+msgid "User Url"
+msgstr "URL пользователя"
+
+#: provider/provider_helper.class.php:107
+msgid "Nice Name"
+msgstr "Красивое имя"
+
+#: provider/provider_helper.class.php:106
+msgid "User Login"
+msgstr "Авторизация пользователя"
+
+#: provider/provider_helper.class.php:104
+msgid "Display Name"
+msgstr "Отображаемое имя"
+
+#: provider/provider_helper.class.php:90
+msgid "Inherit"
+msgstr "Наследуемый"
+
+#: provider/provider_helper.class.php:89
+msgid "Private"
+msgstr "Приватный"
+
+#: provider/provider_helper.class.php:88
+msgid "Pending Review"
+msgstr "На рассмотрении"
+
+#: provider/provider_helper.class.php:86
+msgid "Future"
+msgstr "Будущее"
+
+#: provider/provider_helper.class.php:85
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: provider/provider_helper.class.php:67
+msgid "Past Year"
+msgstr "Прошлый год"
+
+#: provider/provider_helper.class.php:66
+msgid "Past 3 Months"
+msgstr "Прошлые 3 месяца"
+
+#: provider/provider_helper.class.php:65
+msgid "Past Month"
+msgstr "Прошлый месяц"
+
+#: provider/provider_helper.class.php:64
+msgid "Past Week"
+msgstr "Прошлая неделя"
+
+#: provider/provider_helper.class.php:59
+msgid "Past 2 days"
+msgstr "Прошлые 2 дня"
+
+#: provider/provider_helper.class.php:58
+msgid "Past Day"
+msgstr "Прошлый день"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:707
+msgid "Show Time Picker"
+msgstr "Показать выбор времени"
+
+#: provider/provider_settings.class.php:1909
+msgid "Select one or more statuses"
+msgstr "Выбрать один или несколько статусов"
+
+#: provider/provider_settings.class.php:1892
+msgid "Specific %s To Exclude"
+msgstr "Определенные %s для исключения"
+
+#: provider/provider_settings.class.php:1865
+msgid "Use this setting to skip over posts, not showing first posts to the offset given"
+msgstr "Используйте эту настройку, чтобы пропускать записи, не показывая первые записи до заданного смещения"
+
+#: provider/provider_settings.class.php:1858
+msgid "Exclude By Author"
+msgstr "Исключить по автору"
+
+#: provider/provider_settings.class.php:1787
+msgid "%s With Current Tags"
+msgstr "%s с текущими тегами"
+
+#: provider/provider_settings.class.php:1786
+msgid "%s with Current Category"
+msgstr "%s с текущей категорией"
+
+#: provider/provider_settings.class.php:1785
+msgid "%s Without Featured Image"
+msgstr "%s без миниатюры"
+
+#: provider/provider_settings.class.php:1783
+msgid "Specific %s"
+msgstr "Определенный %s"
+
+#: provider/provider_settings.class.php:1782
+msgid "Current %s"
+msgstr "Текущий %s"
+
+#: provider/provider_settings.class.php:1778
+msgid "Products On Sale (woo)"
+msgstr "Товары на распродаже (woo)"
+
+#: provider/provider_settings.class.php:1777
+msgid "Out Of Stock Products (woo)"
+msgstr "Отсутствующие товары (woo)"
+
+#: provider/provider_settings.class.php:1728
+msgid "Seach And Select %s"
+msgstr "Поиск и выбор %s"
+
+#: provider/provider_settings.class.php:1397
+msgid "Select %s Parents"
+msgstr "Выбрать %s родителей"
+
+#: provider/provider_settings.class.php:1362
+msgid "Published After Date"
+msgstr "Опубликовано после даты"
+
+#: provider/provider_settings.class.php:1360
+msgid "Show all the posts published since the chosen date, inclusive."
+msgstr "Показать все записи, опубликованные с выбранной даты включительно."
+
+#: provider/provider_settings.class.php:1358
+msgid "Published Before Date"
+msgstr "Опубликовано до даты"
+
+#: provider/provider_settings.class.php:1352
+msgid "Choose Date"
+msgstr "Выбрать дату"
+
+#: provider/provider_settings.class.php:1351
+msgid "Show all the posts published until the chosen date, inclusive."
+msgstr "Показать все записи, опубликованные до выбранной даты включительно."
+
+#: provider/provider_settings.class.php:1345
+msgid "Include By Date"
+msgstr "Включить по дате"
+
+#: provider/provider_settings.class.php:1329
+msgid "Include By Author"
+msgstr "Включить по автору"
+
+#: provider/provider_settings.class.php:1320
+#: provider/provider_settings.class.php:1851
+msgid "Select one or more authors"
+msgstr "Выбрать одного или нескольких авторов"
+
+#: provider/provider_settings.class.php:1283
+msgid "Add Specific %s"
+msgstr "Добавить определенные %s"
+
+#: provider/provider_settings.class.php:1261
+msgid "Post Parent"
+msgstr "Родительская запись"
+
+#: provider/provider_settings.class.php:1175
+msgid "%s Source"
+msgstr "%s источник"
+
+#: provider/provider_settings.class.php:1172
+msgid "Related %s"
+msgstr "Похожие %s"
+
+#: provider/provider_settings.class.php:1171
+msgid "Custom %s"
+msgstr "Пользовательский %s"
+
+#: provider/provider_settings.class.php:1170
+msgid "Current Query %s"
+msgstr "Текущий запрос %s"
+
+#: provider/provider_settings.class.php:278
+msgid "Max Number of Users"
+msgstr "Макс количество пользователей"
+
+#: provider/provider_settings.class.php:274
+msgid "all users if empty"
+msgstr "все пользователи, если пусто"
+
+#: provider/provider_settings.class.php:259
+msgid "Select Specific Users"
+msgstr "Выбрать определенных пользователей"
+
+#: provider/provider_settings.class.php:249
+msgid "Exclude By Specific Users"
+msgstr "Исключить по определенным пользователям"
+
+#: provider/provider_settings.class.php:244
+#: provider/provider_settings.class.php:256
+msgid "Select one or more users"
+msgstr "Выбрать одного или нескольких пользователей"
+
+#: provider/provider_settings.class.php:203
+msgid "Leave empty for all the roles"
+msgstr "Оставить пустым для всех ролей"
+
+#: provider/provider_settings.class.php:189
+msgid "Select Users By"
+msgstr "Выбрать пользователей по"
+
+#: provider/provider_settings.class.php:184
+msgid "Custom Query"
+msgstr "Пользовательский запрос"
+
+#: provider/provider_helper.class.php:73
+msgid "Custom"
+msgstr "Произвольно"
+
+#: provider/provider_settings.class.php:1882
+msgid "Exclude Terms With Children"
+msgstr "Исключить термины с дочерними"
+
+#: provider/provider_settings.class.php:1844
+msgid "Exclude By Terms"
+msgstr "Исключить по терминам"
+
+#: provider/provider_settings.class.php:1781
+#: provider/provider_settings_multisource.class.php:223
+msgid "Terms"
+msgstr "Термины"
+
+#: provider/provider_settings.class.php:1254
+msgid "Get Only Sticky Posts"
+msgstr "Получить только закрепленные записи"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2152
+msgid "Advanced"
+msgstr "Расширенные"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1031
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1044
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:452
+#: provider/provider_settings.class.php:996
+msgid "Loading Data..."
+msgstr "Загрузка данных..."
+
+#: inc_php/unitecreator_actions.class.php:395
+#: inc_php/unitecreator_actions.class.php:397
+msgid "Widget Updated"
+msgstr "Виджет обновлен"
+
+#: inc_php/unitecreator_actions.class.php:384
+msgid "Widget Installed"
+msgstr "Виджет установлен"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2173
+#: provider/functions_wordpress.class.php:1299
+#: provider/functions_wordpress.class.php:1335
+#: provider/functions_wordpress.class.php:1348
+#: provider/provider_helper.class.php:102
+msgid "Default"
+msgstr "По умолчанию"
+
+#: provider/provider_settings.class.php:985
+msgid "Search and Select Posts"
+msgstr "Поиск и выбор записей"
+
+#: provider/provider_settings.class.php:989
+msgid "All Posts"
+msgstr "Все записи"
+
+#: provider/provider_settings.class.php:909
+msgid "Include Specific Categories"
+msgstr "Включить определенные категории"
+
+#: provider/provider_settings.class.php:903
+msgid "Include specific categories by slug"
+msgstr "Включить определенные категории по короткой ссылке"
+
+#: provider/provider_settings.class.php:902
+msgid "Example: cat1, cat2"
+msgstr "Напр: cat1, cat2"
+
+#: provider/provider_settings.class.php:750
+msgid "Selection Type"
+msgstr "Тип выбора"
+
+#: provider/provider_settings.class.php:185
+#: provider/provider_settings.class.php:741
+#: provider/provider_settings.class.php:1173
+msgid "Manual Selection"
+msgstr "Ручной выбор"
+
+#: provider/provider_settings.class.php:740
+msgid "Categories Query"
+msgstr "Запрос категорий"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2539
+msgid "No Settings for this Widget"
+msgstr "Нет настроек для этого виджета"
+
+#: inc_php/unitecreator_settings_output.class.php:390
+msgid "For the preview svg icon put preview_icon.svg file in the assets folder"
+msgstr "Для предпросмотра svg значка поместите preview_icon.svg файл в папку assets"
+
+#: inc_php/unitecreator_assets.class.php:1265
+msgid "View"
+msgstr "Вид"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:628
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:581
+msgid "Background Image Size"
+msgstr "Размер фонового изображения"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:646
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1936
+msgid "Image Size"
+msgstr "Размер изображения"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:574
+msgctxt "previous set of posts"
+msgid "Previous"
+msgstr "Предыдущая"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:571
+msgctxt "next set of posts"
+msgid "Next"
+msgstr "Следующая"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:76
+msgid "Using Pagination Widget"
+msgstr "Использование виджета пагинации"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:60
+msgid "When turned on, the pagination will appear in archive or single pages, you have option to use the \"Posts Pagination\" widget for all the styling options"
+msgstr "Если включено, пагинация будет отображаться в архиве или на отдельных страницах, у вас есть возможность использовать виджет \"Пагинация записей\" для всех вариантов стилизации"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:639
+msgid "Image Repeat"
+msgstr "Повтор изображения"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:568
+msgid "Background Image Repeat"
+msgstr "Повтор фонового изображения"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:554
+msgid "Background Image Position"
+msgstr "Положение фонового изображения"
+
+#: provider/provider_settings.class.php:1253
+msgid "Include Sticky Posts"
+msgstr "Включить закреплённые записи"
+
+#: inc_php/unitecreator_settings.class.php:370
+msgid "Number Of Items"
+msgstr "Количество элементов"
+
+#: inc_php/unitecreator_settings.class.php:366
+msgid "Number of instagram items. Leave empty for default number ( %d ) set by the widget"
+msgstr "Количество элементов instagram. Оставьте пустым для числа по умолчанию ( %d ), установленного виджетом"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:632
+msgid "Image Position"
+msgstr "Позиция изображения"
+
+#: inc_php/framework/instagram/helper.class.php:118
+msgid " ago"
+msgstr " назад"
+
+#. translators: Admin screen title. 1: Admin screen name, 2: Network or site
+#. name
+#: provider/functions_wordpress.class.php:3688
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
+
+#: provider/provider_settings.class.php:369
+msgid "1"
+msgstr "1"
+
+#: provider/provider_settings.class.php:370
+msgid "2"
+msgstr "2"
+
+#: provider/provider_settings.class.php:371
+msgid "3"
+msgstr "3"
+
+#: views/objects/activation_view.class.php:99
+msgid "Activating"
+msgstr "Активация"
+
+#: views/system/video_dialog.php:173
+msgid "Add Video"
+msgstr "Добавить видео"
+
+#: provider/core/plugins/create_addons/plugin.php:85
+msgid "Add Widget"
+msgstr "Добавить виджет"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:40
+msgid "All Templates"
+msgstr "Все шаблоны"
+
+#: provider/functions_wordpress.class.php:1337
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: views/assets.php:11
+msgid "Assets Manager"
+msgstr "Менеджер скриптов"
+
+#: inc_php/unitecreator_params_editor.class.php:209
+msgid "Attribute"
+msgstr "Атрибут"
+
+#: views/objects/addon_view.class.php:477
+msgid "Attributes"
+msgstr "Атрибуты"
+
+#: provider/functions_wordpress.class.php:1312
+#: provider/provider_settings.class.php:1257
+#: provider/provider_settings.class.php:1784
+msgid "Author"
+msgstr "Автор"
+
+#: inc_php/unitecreator_dialog_param.class.php:218
+msgid "Background"
+msgstr "Фон"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:932
+msgid "Background Type"
+msgstr "Тип фона"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:312
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:334
+msgid "Border Type"
+msgstr "Тип рамки"
+
+#: inc_php/framework/settings_advances.class.php:193
+#: inc_php/framework/settings_advances.class.php:222
+msgid "Center"
+msgstr "Центр"
+
+#: views/system/video_dialog.php:152 views/system/video_dialog.php:161
+msgid "change"
+msgstr "изменить"
+
+#: views/objects/layouts_view.class.php:211
+msgid "Clear Filter"
+msgstr "Очистить фильтр"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:151
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc_php/unitecreator_addon_config.class.php:142
+msgid "Config"
+msgstr "Конфигурация"
+
+#: inc_php/framework/settings_output.class.php:652
+msgid "Configure"
+msgstr "Настроить"
+
+#: views/objects/addon_view.class.php:495
+msgid "CSS"
+msgstr "CSS"
+
+#: provider/functions_wordpress.class.php:1301
+#: provider/provider_settings.class.php:1258
+msgid "Date"
+msgstr "Дата"
+
+#: inc_php/unitecreator_dialog_param.class.php:612
+msgid "Default Image"
+msgstr "Изображение по умолчанию"
+
+#: views/templates/test_addon.php:51
+msgid "Delete Data"
+msgstr "Удалить данные"
+
+#: provider/functions_wordpress.class.php:1336
+msgid "Descending"
+msgstr "По убыванию"
+
+#: provider/admin_notices.class.php:113
+msgid "Dismiss"
+msgstr "Отклонить"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:28
+msgid "Example"
+msgstr "Пример"
+
+#: inc_php/unitecreator_dialog_param.class.php:432
+#: views/system/video_dialog.php:62 views/system/video_dialog.php:85
+#: views/system/video_dialog.php:135
+msgid "example"
+msgstr "пример"
+
+#: provider/provider_settings.class.php:811
+msgid "Exclude"
+msgstr "Исключить"
+
+#: views/objects/layouts_view.class.php:514
+#: views/objects/objects_list_view.class.php:190
+msgid "Export"
+msgstr "Экспорт"
+
+#: views/objects/layouts_view.class.php:210
+msgid "Filter"
+msgstr "Фильтр"
+
+#: inc_php/unitecreator_dialog_param.class.php:431
+msgid "filter"
+msgstr "фильтр"
+
+#: inc_php/unitecreator_dialog_param.class.php:202
+msgid "Form"
+msgstr "Форма"
+
+#: views/objects/layouts_view.class.php:55
+#: views/objects/objects_list_view.class.php:132
+msgid "Found"
+msgstr "Найдено"
+
+#: views/system/video_dialog.php:32
+msgid "HTML5"
+msgstr "HTML5"
+
+#: inc_php/unitecreator_dialog_param.class.php:203
+#: provider/provider_settings.class.php:2605
+#: provider/provider_settings_multisource.class.php:230
+msgid "Instagram"
+msgstr "Instagram"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:56
+msgid "It's a temporary deactivation"
+msgstr "Это временная деактивация"
+
+#: views/objects/mappicker_view.class.php:141
+msgid "Language"
+msgstr "Язык"
+
+#: provider/functions_wordpress.class.php:1313
+msgid "Last Modified"
+msgstr "Последнее изменение"
+
+#: views/objects/addon_view.class.php:619
+msgid "Libraries"
+msgstr "Библиотеки"
+
+#: provider/views/layout_outer.php:12
+msgid "New Page"
+msgstr "Новая страница"
+
+#: provider/provider_settings.class.php:295
+#: provider/provider_settings.class.php:644
+#: provider/provider_settings.class.php:844
+#: provider/provider_settings.class.php:1991
+msgid "Order By"
+msgstr "Сортировать по"
+
+#: provider/functions_wordpress.class.php:1354
+msgid "Parent"
+msgstr "Родительский"
+
+#: provider/provider_settings.class.php:1235
+msgid "Post Types"
+msgstr "Типы записей"
+
+#: provider/provider_settings_multisource.class.php:66
+#: provider/woocommerce_integrate.class.php:958
+msgid "Product Name"
+msgstr "Название товара"
+
+#: views/objects/settings_view.class.php:41
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: inc_php/unitecreator_actions.class.php:266
+#: inc_php/unitecreator_actions.class.php:270
+msgid "Saved"
+msgstr "Сохранено"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2819
+msgid "Select Style"
+msgstr "Выбрать стиль"
+
+#: inc_php/unitecreator_actions.class.php:322
+#: inc_php/unitecreator_actions.class.php:328
+#: inc_php/unitecreator_actions.class.php:429
+msgid "Settings Saved"
+msgstr "Настройки сохранены"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:412
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:454
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1068
+msgid "Step"
+msgstr "Шаг"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:457
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:3040
+msgid "Styles"
+msgstr "Стили"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1157
+msgid "Tablet"
+msgstr "Планшет"
+
+#: provider/core/plugins/unlimited_elements/addontype_elementor_template.class.php:46
+#: provider/provider_operations.class.php:189
+msgid "Template"
+msgstr "Шаблон"
+
+#: provider/core/plugins/unlimited_elements/addontype_elementor_template.class.php:45
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:109
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: inc_php/unitecreator_params_editor.class.php:206
+#: provider/core/plugins/unlimited_elements/addontype_cpt.class.php:27
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1207
+msgid "Type"
+msgstr "Тип"
+
+#: provider/provider_functions.class.php:786
+#: provider/provider_functions.class.php:828
+msgid "Update Plugin"
+msgstr "Обновить плагин"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:84
+#: views/system/video_dialog.php:29
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: provider/core/plugins/unlimited_elements/addontype_elementor.class.php:29
+#: views/objects/addon_view.class.php:1753
+msgid "Widget"
+msgstr "Виджет"
+
+#: views/objects/addon_view.class.php:874
+#: views/objects/addon_view.class.php:1767
+msgid "Widget Title"
+msgstr "Заголовок виджета"
+
+#: provider/core/plugins/unlimited_elements/addontype_elementor.class.php:28
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:100
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1242
+msgid "Width"
+msgstr "Ширина"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:330
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:395
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:421
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:475
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:855
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2163
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:90
+msgid "Yes"
+msgstr "Да"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:83
+#: views/system/video_dialog.php:26
+msgid "Youtube"
+msgstr "Youtube"
+
+#: views/objects/layouts_view.class.php:50
+msgid "  file..."
+msgstr " файл..."
+
+#: views/objects/addon_view.class.php:1059
+msgid " CSS"
+msgstr " CSS"
+
+#: views/objects/addon_view.class.php:1147
+msgid " Defaults"
+msgstr " По умолчанию"
+
+#: views/objects/layouts_view.class.php:59
+msgid " export file"
+msgstr " экспорт файла"
+
+#: views/objects/addon_view.class.php:994
+msgid " HTML"
+msgstr " HTML"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:151
+#: views/license.php:22
+msgid " License"
+msgstr " Лицензия"
+
+#: views/objects/addon_view.class.php:1146 views/templates/test_addon.php:30
+msgid " List"
+msgstr " Список"
+
+#: inc_php/unitecreator_dialog_param.class.php:1823
+msgid " under \"downloads\" section."
+msgstr " в разделе \"загрузки\"."
+
+#. translators: Admin screen title. 1: Admin screen name
+#: provider/functions_wordpress.class.php:3685
+msgid "%1$s &#8212; WordPress"
+msgstr "%1$s &#8212; WordPress"
+
+#: provider/core/plugins/unlimited_elements/addontype_elementor_template.class.php:49
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:16
+msgid "Activate Plugin"
+msgstr "Активировать плагин"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:105
+msgid "Activate Unlimited Elements"
+msgstr "Активировать Unlimited Elements"
+
+#: views/system/video_dialog.php:23
+msgid "Choose video type"
+msgstr "Выбрать тип видео"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:942
+#: views/objects/addon_view.class.php:907
+msgid "click here"
+msgstr "нажмите здесь"
+
+#: inc_php/framework/settings_output.class.php:971
+#: views/objects/addon_view.class.php:822
+msgid "Item"
+msgstr "Элемент"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:411
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:444
+msgid "Max"
+msgstr "Макс"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:410
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:434
+msgid "Min"
+msgstr "Мин"
+
+#: provider/functions_wordpress.class.php:1300
+msgid "Post ID"
+msgstr "ID записи"
+
+#: provider/provider_settings.class.php:217
+msgid "Select Roles"
+msgstr "Выбрать роли"
+
+#: provider/provider_settings.class.php:459
+msgid "Select Taxonomy"
+msgstr "Выбрать таксономию"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:596
+#: provider/provider_settings.class.php:944
+msgid "Solid"
+msgstr "Сплошной"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1031
+msgid "Suffix"
+msgstr "Суффикс"
+
+#: views/system/video_dialog.php:173
+msgid "Update Video"
+msgstr "Обновить видео"
+
+#: inc_php/unitecreator_dialog_param.class.php:403
+#: inc_php/unitecreator_dialog_param.class.php:1271
+#: inc_php/unitecreator_dialog_param.class.php:1374
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:265
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:409
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:422
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:856
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:963
+msgid "Default Value"
+msgstr "Значение по умолчанию"
+
+#: views/settings.php:21
+msgid "Change Log"
+msgstr "Журнал изменений"
+
+#: views/master_view.php:82
+msgid "view change log"
+msgstr "просмотр журнала изменений"
+
+#: views/master_view.php:78
+msgid "upress"
+msgstr "upress"
+
+#: views/master_view.php:76
+msgid "Plugin version"
+msgstr "Версия плагина"
+
+#: views/master_view.php:64
+msgid "Version Release Log. Current Version: "
+msgstr "Журнал выпуска версий. Текущая версия: "
+
+#: views/system/video_dialog.php:197
+msgid "Video not found or error occured. Please search again."
+msgstr "Видео не найдено или произошла ошибка. Пожалуйста, выполните поиск снова."
+
+#: views/system/video_dialog.php:161
+msgid "Select new thumb image"
+msgstr "Выбрать новое изображение миниатюры"
+
+#: views/system/video_dialog.php:159
+msgid "Thumb Image Url"
+msgstr "URL миниатюры"
+
+#: views/system/video_dialog.php:152
+msgid "Select new preview image"
+msgstr "Выбрать новое изображение предпросмотра"
+
+#: views/system/video_dialog.php:150
+msgid "Preview Image Url"
+msgstr "URL предпросмотра изображения"
+
+#: views/system/video_dialog.php:123
+msgid "Enter Wistia ID"
+msgstr "Введите Wistia ID"
+
+#: views/system/video_dialog.php:112
+msgid "Video OGV Url"
+msgstr "URL OGV видео"
+
+#: views/system/video_dialog.php:105
+msgid "Video WEBM Url"
+msgstr "URL WEBM видео"
+
+#: views/system/video_dialog.php:98 views/system/video_dialog.php:106
+#: views/system/video_dialog.php:113
+msgid "put example"
+msgstr "пример"
+
+#: views/system/video_dialog.php:97
+msgid "Video MP4 Url"
+msgstr "URL MP4 видео"
+
+#: views/system/video_dialog.php:73
+msgid "Enter Vimeo ID or URL"
+msgstr "Введите Vimeo ID или URL"
+
+#: views/system/video_dialog.php:50
+msgid "Enter Youtube ID or URL"
+msgstr "Введите Youtube ID или URL"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:85
+#: views/system/video_dialog.php:35
+msgid "Wistia"
+msgstr "Wistia"
+
+#: views/system/video_dialog.php:16
+msgid "Loading Item Data..."
+msgstr "Загрузка данных элемента..."
+
+#: views/system/video_dialog.php:11
+msgid "Add Media"
+msgstr "Добавить медиа"
+
+#: views/library.php:65
+msgid "My Library"
+msgstr "Моя библиотека"
+
+#: views/library.php:46
+msgid "Background Addons"
+msgstr "Фоновые аддоны"
+
+#: views/objects/addons_view.class.php:66
+msgid "Manage"
+msgstr "Управление"
+
+#: views/objects/mappicker_view.class.php:405
+msgid "Choose Map"
+msgstr "Выбрать карту"
+
+#: views/objects/mappicker_view.class.php:394
+msgid "No Map Chosen"
+msgstr "Карта не выбрана"
+
+#: views/objects/mappicker_view.class.php:201
+msgid "For edit the map, please enter your google map API Key in"
+msgstr "Для редактирования карты, пожалуйста, введите ваш API ключ карты Google в"
+
+#: views/objects/mappicker_view.class.php:138
+msgid "Language and Controls"
+msgstr "Язык и элементы управления"
+
+#: views/objects/mappicker_view.class.php:99
+msgid "Marker Image"
+msgstr "Изображение маркера"
+
+#: views/objects/mappicker_view.class.php:85
+msgid "Marker"
+msgstr "Маркер"
+
+#: views/objects/mappicker_view.class.php:81
+msgid "Goto My Location"
+msgstr "Перейти к моему местоположению"
+
+#: views/objects/mappicker_view.class.php:74
+msgid "Map Height"
+msgstr "Высота карты"
+
+#: views/objects/mappicker_view.class.php:73
+msgid "Map Width"
+msgstr "Ширина карты"
+
+#: views/objects/mappicker_view.class.php:71
+msgid "Size and Location"
+msgstr "Размер и положение"
+
+#: views/objects/layouts_view.class.php:244
+msgid "Categories Message"
+msgstr "Категории сообщения"
+
+#: views/objects/layouts_view.class.php:235
+msgid "Set Category to Page"
+msgstr "Установить категорию на страницу"
+
+#: views/objects/layouts_view.class.php:215
+msgid "Sort: "
+msgstr "Сотрировать: "
+
+#: views/objects/layouts_view.class.php:58
+msgid " Categories"
+msgstr " Категории"
+
+#: views/objects/layouts_view.class.php:58
+msgid "Manage "
+msgstr "Управление "
+
+#: views/objects/layouts_view.class.php:56
+msgid "Are you sure to delete this ?"
+msgstr "Вы уверены, что хотите удалить это?"
+
+#: views/objects/layouts_view.class.php:52
+msgid "My "
+msgstr "Мой "
+
+#: views/library.php:45 views/objects/views_chooser.class.php:55
+msgid "Page Templates"
+msgstr "Шаблоны страницы"
+
+#: views/library.php:41 views/library.php:92
+#: views/objects/layouts_view.class.php:317
+#: views/objects/views_chooser.class.php:51
+msgid "My Addons"
+msgstr "Мои аддоны"
+
+#: views/objects/addon_view_childparams.class.php:1198
+msgid "Large (max width 780)"
+msgstr "Большой (макс ширина 780)"
+
+#: views/objects/addon_view_childparams.class.php:1191
+msgid "Thumb (max width 300)"
+msgstr "Миниатюра (макс ширина 300)"
+
+#: views/objects/layouts_view.class.php:461
+#: views/objects/objects_list_view.class.php:149
+msgid "Actions"
+msgstr "Действия"
+
+#: views/objects/objects_list_view.class.php:121
+#: views/objects/objects_list_view.class.php:237
+msgid "Are you sure you want to delete this"
+msgstr "Вы уверены, что хотите удалить это"
+
+#: views/objects/addon_view.class.php:1824
+msgid "Delete From Widgets"
+msgstr "Удалить из виджетов"
+
+#: views/objects/addon_view.class.php:1820
+msgid "Add / Update in Widgets"
+msgstr "Добавить / Обновить в виджетах"
+
+#: views/objects/addon_view.class.php:1788
+msgid "exists"
+msgstr "существует"
+
+#: views/objects/addon_view.class.php:1786
+msgid "not exists"
+msgstr "не существует"
+
+#: views/objects/addon_view.class.php:1768
+msgid "Status"
+msgstr "Статус"
+
+#: views/objects/addon_view.class.php:1765
+msgid "Select All Addons"
+msgstr "Выбрать все аддоны"
+
+#: views/objects/addon_view.class.php:1759
+msgid "Updating Addons"
+msgstr "Обновление аддонов"
+
+#: views/objects/addon_view.class.php:1751
+msgid "attribute"
+msgstr "атрибут"
+
+#: views/objects/addon_view.class.php:1706
+msgid "Bulk Operations"
+msgstr "Массовые операции"
+
+#: views/objects/addon_view.class.php:1197
+msgid "Update From Catalog"
+msgstr "Обновить из каталога"
+
+#: views/objects/addon_view.class.php:1089
+msgid " Javascript"
+msgstr " Javascript"
+
+#: views/objects/addon_view.class.php:1068
+msgid "Item CSS"
+msgstr "CSS элемент"
+
+#: views/objects/addon_view.class.php:1034
+msgid "Item HTML 2"
+msgstr "HTML элемент 2"
+
+#: views/objects/addon_view.class.php:1021
+msgid "Item HTML"
+msgstr "HTML элемент"
+
+#: views/objects/addon_view.class.php:1000
+msgid " Content"
+msgstr " Контент"
+
+#: views/objects/addon_view.class.php:905
+msgid "To show code examples in right panel "
+msgstr "Чтобы показать примеры кода в правой панели "
+
+#: views/objects/addon_view.class.php:904
+msgid "show documentation"
+msgstr "показать документацию"
+
+#: views/objects/addon_view.class.php:903
+msgid "Powered by Twig Template Engine. "
+msgstr "Работает на Twig Template Engine. "
+
+#: views/objects/addon_view.class.php:885
+msgid "Widget Icon"
+msgstr "Значок виджета"
+
+#: views/objects/addon_view.class.php:883
+msgid "Link to resource"
+msgstr "Ссылка на ресурс"
+
+#: views/objects/addon_view.class.php:877
+msgid "Widget Description"
+msgstr "Описание виджета"
+
+#: views/objects/addon_view.class.php:746
+msgid "expand"
+msgstr "расширить"
+
+#: views/objects/addon_view.class.php:730
+msgid "Unset"
+msgstr "Сброс"
+
+#: views/objects/addon_view.class.php:729
+msgid "Set"
+msgstr "Установить"
+
+#: views/objects/addon_view.class.php:727
+msgid " Assets Path: "
+msgstr " Путь к файлам (assets): "
+
+#: views/objects/addon_view.class.php:714
+msgid "[not set]"
+msgstr "[не установлено]"
+
+#: views/objects/addon_view.class.php:656
+msgid "equals"
+msgstr "равно"
+
+#: views/objects/addon_view.class.php:646
+msgid "Include When:"
+msgstr "Включить, когда:"
+
+#: views/objects/addon_view.class.php:605
+msgid "JS / Css Includes"
+msgstr "Включает JS / Css"
+
+#: views/objects/addon_view.class.php:600
+msgid "Choose From Browser"
+msgstr "Выбрать из браузера"
+
+#: views/objects/addon_view.class.php:513
+msgid "Assets"
+msgstr "Ресурсы (assets)"
+
+#: views/objects/addon_view.class.php:507
+msgid "js/css Includes"
+msgstr "включает js/css"
+
+#: views/objects/addon_view.class.php:501
+msgid "Javascript"
+msgstr "Javascript"
+
+#: views/objects/addon_view.class.php:483
+msgid "Item Attributes"
+msgstr "Атрибуты элемента"
+
+#: views/objects/addon_view.class.php:457
+#: views/objects/addon_view.class.php:997
+msgid "SVG Content"
+msgstr "SVG контент"
+
+#: inc_php/unitecreator_dialog_param.class.php:942
+#: views/objects/addon_view.class.php:395
+msgid "Widget Type"
+msgstr "Тип виджета"
+
+#: views/objects/addon_view.class.php:106
+msgid "Enable Items"
+msgstr "Включить элементы"
+
+#: views/objects/activation_view.class.php:244
+msgid "Activate Your Pro Account"
+msgstr "Активируйте свою учетную запись Pro"
+
+#: views/objects/activation_view.class.php:210
+msgid "Deactivate Pro Version"
+msgstr "Деактивировать Pro версию"
+
+#: views/objects/activation_view.class.php:208
+msgid "This pro version is active!"
+msgstr "Pro версия активна!"
+
+#: views/objects/activation_view.class.php:190
+msgid "Thank you for purchasing from us and good luck"
+msgstr "Спасибо за покупку у нас и удачи"
+
+#: views/objects/activation_view.class.php:183
+msgid "Refresh page to View Your Pro Catalog"
+msgstr "Обновить страницу для просмотра Pro каталога"
+
+#: views/objects/activation_view.class.php:179
+msgid "DAYS"
+msgstr "ДНЕЙ"
+
+#: views/objects/activation_view.class.php:174
+msgid "Hi Five"
+msgstr "Дай пять"
+
+#: views/objects/activation_view.class.php:164
+msgid "support center"
+msgstr "центром поддержки"
+
+#: views/objects/activation_view.class.php:164
+msgid "or contact our"
+msgstr "или свяжитесь с нашим"
+
+#: views/objects/activation_view.class.php:161
+msgid "Activation Failed"
+msgstr "Активация не удалось"
+
+#: views/objects/activation_view.class.php:161
+msgid "Ooops"
+msgstr "Упс"
+
+#: views/objects/activation_view.class.php:59
+#: views/objects/activation_view.class.php:188
+msgid "Your pro account is activated lifetime for this site"
+msgstr "Ваша учетная запись pro активирована пожизненно для этого сайта"
+
+#: views/objects/activation_view.class.php:57
+msgid "You probably got your activation code wrong"
+msgstr "Возможно, вы ошиблись с кодом активации"
+
+#: views/objects/activation_view.class.php:54
+msgid "Go to My Account"
+msgstr "Перейти в личный кабинет"
+
+#: views/objects/activation_view.class.php:53
+msgid "If you already purchased, get the key from my account?"
+msgstr "Если вы уже приобрели, получить ключ из личного кабинета?"
+
+#: views/objects/activation_view.class.php:51
+msgid "Don't have a pro activation key?"
+msgstr "У вас нет ключа активации pro?"
+
+#: views/objects/activation_view.class.php:49
+msgid "View our pricing plans"
+msgstr "Ознакомьтесь с нашими тарифными планами"
+
+#: views/objects/activation_view.class.php:46
+msgid "Paste your activation key here"
+msgstr "Вставьте ключ активации здесь"
+
+#: views/objects/activation_view.class.php:44
+msgid "+100 page templates and +50 section designs"
+msgstr "+100 шаблонов страниц и +50 дизайнов разделов"
+
+#: views/objects/activation_view.class.php:42
+msgid "Unleash access to +700 addons,"
+msgstr "Получите доступ к +700 аддонам,"
+
+#: views/objects/activation_view.class.php:41
+msgid "GO PRO"
+msgstr "Перейти на Pro"
+
+#: views/templates/addon_defaults.php:54
+msgid "Back to Widgets List"
+msgstr "Вернуться к списку виджетов"
+
+#: views/templates/addon_defaults.php:51
+msgid "Edit This Widget"
+msgstr "Редактировать этот виджет"
+
+#: views/templates/addon_defaults.php:39
+msgid "Save Defaults"
+msgstr "Сохранить значения по умолчанию"
+
+#: views/templates/addon_defaults.php:40 views/templates/test_addon.php:56
+msgid "saving..."
+msgstr "сохранение..."
+
+#: views/templates/test_addon.php:55
+msgid "Save Data"
+msgstr "Сохранить данные"
+
+#: views/templates/test_addon.php:50
+msgid "loading..."
+msgstr "загрузка..."
+
+#: views/templates/test_addon.php:49
+msgid "Restore Data"
+msgstr "Восстановить данные"
+
+#: views/templates/addon_defaults.php:47 views/templates/test_addon.php:46
+msgid "Preview New Tab"
+msgstr "Предпросмотр новой вкладки"
+
+#: views/templates/addon_defaults.php:44 views/templates/test_addon.php:44
+msgid "Hide Preview"
+msgstr "Скрыть предпросмотр"
+
+#: views/templates/addon_defaults.php:43 views/templates/test_addon.php:43
+msgid "To Preview"
+msgstr "К предпросмотру"
+
+#: views/objects/addon_view.class.php:1146 views/templates/test_addon.php:30
+msgid "Back To "
+msgstr "Назад к "
+
+#: views/templates/test_addon.php:28
+msgid "Edit This "
+msgstr "Редактировать этот "
+
+#: views/addondefaults.php:37
+msgid "Widget Defaults"
+msgstr "Виджеты по умолчанию"
+
+#: provider/views/layout_outer.php:15
+msgid "Edit Page"
+msgstr "Редактировать страницу"
+
+#: provider/views/general_settings.php:15
+msgid "Theme Developers"
+msgstr "Разработчики тем"
+
+#: provider/views/master_view.php:83
+msgid "Select Audio"
+msgstr "Выбрать аудио"
+
+#: provider/views/master_view.php:77
+msgid "Selected Audio: "
+msgstr "Выбранное аудио: "
+
+#: provider/views/master_view.php:40
+msgid "Selected Image: "
+msgstr "Выбранное изображение: "
+
+#: provider/views/provider_activation_view.class.php:59
+msgid "Have Envato Market Activation Key? "
+msgstr "У вас есть ключ активации Envato Market? "
+
+#: provider/views/provider_activation_view.class.php:56
+msgid "Activate With Envato Key"
+msgstr "Активировать с помощью ключа Envato"
+
+#: provider/views/provider_activation_view.class.php:42
+msgid "Don't have Envato Activation Key? "
+msgstr "Нет ключа активации Envato? "
+
+#: provider/views/provider_activation_view.class.php:40
+msgid "Activate With Blox Key"
+msgstr "Активировать с помощью ключа Blox"
+
+#: provider/views/provider_activation_view.class.php:32
+msgid "You probably got your purchase code wrong"
+msgstr "Возможно, вы ошиблись с кодом покупки"
+
+#: provider/views/provider_activation_view.class.php:30
+msgid "We used to sell this product in codecanyon.net <br> Activate from this screen only if you bought it there."
+msgstr "Мы продавали этот продукт на codecanyon.net <br> Активируйте с этого экрана только в том случае, если вы купили его там."
+
+#: provider/views/provider_activation_view.class.php:24
+msgid "Paste your envato purchase code here <br> from the pro version item"
+msgstr "Вставьте код покупки envato здесь <br> из pro версии"
+
+#: provider/views/provider_activation_view.class.php:22
+msgid "Activate Blox Pro - Envato"
+msgstr "Активировать Blox Pro - Envato"
+
+#: provider/views/provider_activation_view.class.php:19
+#: provider/views/provider_activation_view.class.php:72
+#: views/objects/activation_view.class.php:39
+msgid "Activate Blox Pro"
+msgstr "Активировать Blox Pro"
+
+#: provider/provider_settings_output.class.php:74
+msgid "Please type post title"
+msgstr "Пожалуйста, введите заголовок поста"
+
+#: provider/provider_helper.class.php:574
+msgid "Page Name"
+msgstr "Название страницы"
+
+#. translators: User dashboard screen title. 1: Network name
+#: provider/functions_wordpress.class.php:3678
+msgid "User Dashboard: %s"
+msgstr "Панель пользователя: %s"
+
+#. translators: Network admin screen title. 1: Network name
+#: provider/functions_wordpress.class.php:3675
+msgid "Network Admin: %s"
+msgstr "Сетевой администратор: %s"
+
+#: provider/functions_wordpress.class.php:3228
+msgid "[All Roles]"
+msgstr "[Все роли]"
+
+#: provider/provider_settings.class.php:706
+#: provider/provider_settings.class.php:2066
+msgid "Full"
+msgstr "Полный"
+
+#: provider/functions_wordpress.class.php:1352
+msgid "Term ID"
+msgstr "ID термина"
+
+#: provider/functions_wordpress.class.php:1351
+msgid "Term Group"
+msgstr "Группа терминов"
+
+#: provider/functions_wordpress.class.php:1318
+#: provider/provider_settings_multisource.class.php:496
+msgid "Parent Post"
+msgstr "Родительская запись"
+
+#: provider/functions_wordpress.class.php:1317
+msgid "Menu Order"
+msgstr "Порядок меню"
+
+#: provider/functions_wordpress.class.php:1316
+msgid "Unsorted"
+msgstr "Неотсортировано"
+
+#: provider/functions_wordpress.class.php:1314
+msgid "Number Of Comments"
+msgstr "Количество комментариев"
+
+#: provider/functions_wordpress.class.php:1311
+#: provider/functions_wordpress.class.php:1350
+msgid "Slug"
+msgstr "Короткая ссылка"
+
+#: provider/functions_wordpress.class.php:1306
+msgid "Sale Price (WooCommerce)"
+msgstr "Цена распродажи (WooCommerce)"
+
+#: provider/functions_wordpress.class.php:1305
+msgid "Price (WooCommerce)"
+msgstr "Цена (WooCommerce)"
+
+#: provider/functions_wordpress.class.php:1151
+msgid "[All Categories]"
+msgstr "[Все категории]"
+
+#: provider/woocommerce_integrate.class.php:959
+msgid "Price"
+msgstr "Цена"
+
+#: provider/provider_params_processor.class.php:4394
+msgid "menu not selected"
+msgstr "меню не выбрано"
+
+#: provider/provider_operations.class.php:244
+msgid "[please select post]"
+msgstr "[пожалуйста, выберите запись]"
+
+#: provider/core/plugins/create_addons/plugin.php:99
+msgid "Export Category "
+msgstr "Экспорт категории "
+
+#: provider/core/plugins/unlimited_elements/views/templates_elementor.php:37
+msgid "Elementor Templates"
+msgstr "Шаблоны Elementor"
+
+#: provider/core/plugins/unlimited_elements/views/templates_elementor.php:22
+msgid "Manage Templates for Elementor"
+msgstr "Управление шаблонами для Elementor"
+
+#: provider/core/plugins/unlimited_elements/views/backgrounds.php:22
+msgid "Manage Background Widgets"
+msgstr "Управление фоновыми виджетами"
+
+#: provider/core/plugins/unlimited_elements/views/custom_posttypes.php:22
+msgid "Manage Custom Post Types"
+msgstr "Управление пользовательскими типами записей"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:226
+msgid "Change License"
+msgstr "Изменить лицензию"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:185
+msgid "The Unlimited Elements UPress license is not active"
+msgstr "Unlimited Elements UPress лицензия неактивна"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:180
+msgid "The Unlimited Elements UPress license is active"
+msgstr "Unlimited Elements UPress лицензия активна"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:141
+msgid "Unlimited Elements is activated lifetime for this site!"
+msgstr "Unlimited Elements активирован пожизненно для этого сайта!"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:111
+msgid "Unleash access to +700 widgets for Elementor"
+msgstr "Получите доступ к +700 виджетам для Elementor"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:109
+#: provider/views/provider_activation_view.class.php:25
+msgid "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+msgstr "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:50
+msgid "The activation key (product key) is located in <br> downloads section in CodeCanyon."
+msgstr "Ключ активации (ключ продукта) находится в <br> разделе загрузок в CodeCanyon."
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:42
+msgid "Paste your envato activation key here"
+msgstr "Вставьте ключ активации envato здесь"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:24
+msgid "Activate In UPress"
+msgstr "Активировать в UPress"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:22
+msgid "Activate Unlimited Elements Plugin UPress version"
+msgstr "Активировать плагин Unlimited Elements UPress версии"
+
+#: provider/core/plugins/unlimited_elements/views/addons_elementor.php:22
+msgid "Manage Widgets for Elementor"
+msgstr "Управление виджетами для Elementor"
+
+#: provider/core/plugins/unlimited_elements/views/svg_shapes.php:22
+msgid "Manage SVG Shapes"
+msgstr "Управление SVG формами"
+
+#: provider/core/plugins/unlimited_elements/addontype_elementor_template.class.php:50
+msgid "This template is available<br>when the plugin is activated."
+msgstr "Этот шаблон доступен,<br>когда плагин активирован."
+
+#: inc_php/unitecreator_client_text.php:97
+#: inc_php/unitecreator_dialog_param.class.php:199
+#: provider/core/plugins/unlimited_elements/addontype_elementor_template.class.php:47
+msgid "Elementor Template"
+msgstr "Шаблон Elementor"
+
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:118
+msgid "Upress License"
+msgstr "Upress лицензия"
+
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:64
+msgid "The category name is unchangable, because of the addons consolidation, if changed it could break the layout."
+msgstr "Название категории неизменяемо из-за консолидации аддонов, если его изменить, это может нарушить верстку."
+
+#: provider/core/plugins/unlimited_elements/addontype_elementor.class.php:30
+msgid "Elementor Widget"
+msgstr "Виджет Elementor"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:64
+msgid "Unlimited Elements Template"
+msgstr "Шаблон Unlimited Elements"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:39
+msgid "No Template found in trash"
+msgstr "Шаблон не найдены в корзине"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:38
+msgid "No Template Found"
+msgstr "Шаблон не найден"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:37
+msgid "Search Template"
+msgstr "Поиск шаблона"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:34
+msgid "New Template"
+msgstr "Новый шаблон"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:33
+msgid "Edit Template"
+msgstr "Редактировать шаблон"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:32
+msgid "Add New Template"
+msgstr "Добавить новый шаблон"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:30
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:31
+msgid "Unlimited Elements Library"
+msgstr "Unlimited Elements библиотека"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1235
+msgid "The selector that the typography field will be related to. Can be related to several html tags."
+msgstr "Селектор, с которым будет связано поле типографики. Может быть связан с несколькими html тегами."
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1229
+msgid "CSS Selector 3 (optional)"
+msgstr "CSS селектор 3 (необязательно)"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1218
+msgid "CSS Selector 2 (optional)"
+msgstr "CSS селектор 2 (необязательно)"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1144
+msgid "Desktop"
+msgstr "Компьютер"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1138
+msgid " Default Values"
+msgstr " Стандартные значения"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1092
+msgid "* You can use those placeholders: {{VALUE}} &nbsp; {{CURRENT_ITEM}}"
+msgstr "* Вы можете использовать эти заполнители: {{VALUE}} &nbsp; {{CURRENT_ITEM}}"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1072
+msgid "* Those settings are for the attribute up and down arrows only."
+msgstr "* Эти настройки предназначены только для атрибутов со стрелками вверх и вниз."
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1063
+msgid "Max Value"
+msgstr "Макс значение"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1058
+msgid "Min Value"
+msgstr "Мин значение"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:972
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:994
+msgid "Example: .my-box"
+msgstr "Напр: .my-box"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:701
+msgid "* The default value can be empty as well"
+msgstr "* Значение по умолчанию также может быть пустым"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:394
+msgid "VH, PX"
+msgstr "VH, PX"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:393
+msgid "PX, %, EM"
+msgstr "PX, %, EM"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:392
+msgid "PX, %"
+msgstr "PX, %"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:389
+msgid "VH"
+msgstr "VH"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:366
+msgid "Border Width - Mobile"
+msgstr "Ширина рамки - Мобильный"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:358
+msgid "Border Width - Tablet"
+msgstr "Ширина рамки - Планшет"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:286
+msgid "SVG Output"
+msgstr "Вывод SVG"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:282
+msgid "Put SVG as"
+msgstr "Поместить SVG как"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:275
+msgid "Enable SVG Select"
+msgstr "Включить выбор SVG"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:247
+msgid "Include Avatar"
+msgstr "Включить аватар"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:240
+msgid "Include User Meta Data"
+msgstr "Включить метаданные пользователя"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:232
+msgid "Use this attribute to get the WP Users List"
+msgstr "Используйте этот атрибут для получения списка пользователей WP"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:208
+msgid "WP Menu Reference"
+msgstr "WP Menu Reference"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:206
+msgid "Information about menu classes you can find here"
+msgstr "Информацию о классах меню вы можете найти здесь"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:168
+msgid "Default Value - Mobile"
+msgstr "Значение по умолчанию — Мобильный"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:161
+msgid "Default Value - Tablet"
+msgstr "Значение по умолчанию — Планшет"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:148
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1132
+msgid "Responsive Control"
+msgstr "Контроль адаптивности"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:70
+msgid "CSS Selector Value"
+msgstr "Значение CSS селектора"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:53
+msgid "* You can use those placeholders: "
+msgstr "* Вы можете использовать эти заполнители: "
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:45
+msgid "Example .my-price"
+msgstr "Напр: .my-price"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:32
+msgid "* This attribute generate css only within the css selectors, it don't have placeholder in the widget editor"
+msgstr "* Этот атрибут генерирует css только в css селекторах, у него нет заполнителя в редакторе виджетов"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:25
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:62
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1207
+msgid "CSS Selector"
+msgstr "CSS селектор"
+
+#: provider/core/plugins/unlimited_elements/addontype_cpt.class.php:26
+msgid "Custom Post Types"
+msgstr "Пользовательские типы записей"
+
+#: provider/core/plugins/unlimited_elements/elementor/controls/control_shape.php:50
+msgid "Choose Shape"
+msgstr "Выбрать форму"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_background_widget.class.php:72
+msgid "No settings for this background"
+msgstr "Нет настроек для этого фона"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1420
+msgid "Export With Images"
+msgstr "Экспорт с изображениями"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1170
+msgid "Choose an Elementor template .zip file, that you exported using \"export with images\" button"
+msgstr "Выберите .zip файл шаблона Elementor, который вы экспортировали с помощью кнопки \"экспорт с изображениями\""
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1167
+msgid "Import Template With Images"
+msgstr "Импорт шаблона с изображениями"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1120
+msgid "Layout Imported Successfully"
+msgstr "Макет успешно импортирован"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1119
+msgid "Uploading layout file..."
+msgstr "Загрузка файла макета..."
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1118
+msgid "Import VC Layout"
+msgstr "Импорт макета VC"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1108
+#: views/objects/layouts_view.class.php:279
+msgid "Overwrite Addons"
+msgstr "Перезаписать аддоны"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1094
+msgid "Select vc layout export file (zip)"
+msgstr "Выбрать файл экспорта макета vc (zip)"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1085
+msgid "Import Unlimited Elements Layout to Elementor"
+msgstr "Импорт макета Unlimited Elements в Elementor"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:941
+msgid "To install more backgrounds"
+msgstr "Чтобы установить больше фонов"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:925
+msgid "Unlimited Background"
+msgstr "Неограниченный фон"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_layout_exporter.class.php:413
+msgid "Imported Template: "
+msgstr "Импортированный шаблон: "
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_layout_exporter.class.php:407
+msgid "templates import failed"
+msgstr "не удалось импортировать шаблоны"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2506
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2637
+msgid "Posts Query"
+msgstr "Запрос записей"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2504
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2746
+msgid "Products Query"
+msgstr "Запрос товаров"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2253
+msgid "Section "
+msgstr "Раздел "
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2168
+msgid "Show widget data for debugging purposes. Please turn off this option when you releasing the widget"
+msgstr "Показывать данные виджета в целях отладки. Пожалуйста, отключите эту опцию при релизе виджета"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2161
+msgid "Show Widget Data For Debug"
+msgstr "Показать данные виджета для отладки"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:224
+msgid "Space Between"
+msgstr "Расстояние между"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:75
+msgid "Numbers"
+msgstr "Числа"
+
+#: inc_php/unitecreator_entrance_animations.class.php:56
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:591
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:74
+msgid "None"
+msgstr "Нет"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:70
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:131
+msgid "Pagination"
+msgstr "Пагинация"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:39
+msgid "Posts Pagination"
+msgstr "Пагинация записей"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:70
+msgid "Please describe the reason you are deactivating the plugin"
+msgstr "Пожалуйста, опишите причину, по которой вы деактивируете плагин"
+
+#: inc_php/unitecreator_dialog_param.class.php:796
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:331
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:396
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:422
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:476
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:856
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2164
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:91
+#: provider/provider_settings.class.php:1406
+#: views/objects/layouts_view.class.php:55
+#: views/objects/objects_list_view.class.php:132
+msgid "No"
+msgstr "Нет"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:69
+msgid "Other"
+msgstr "Другое"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:64
+msgid "I found to many bugs"
+msgstr "Я нашел слишком много ошибок"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:53
+msgid "Do you mind writing us the name of the diffrent plugin you intend to use?"
+msgstr "Вы не против написать нам название другого плагина, который вы собираетесь использовать?"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:52
+msgid "I found a better plugin that has the same features"
+msgstr "Я нашел лучший плагин, который имеет те же функции"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:48
+msgid "I don't need the plugin anymore"
+msgstr "Мне больше не нужен плагин"
+
+#: provider/admin_notices.class.php:114
+msgid "Dismiss unlimited elements message"
+msgstr "Закрыть unlimited elements сообщение"
+
+#: provider/provider_actions.class.php:36
+msgid "Updated"
+msgstr "Обновлено"
+
+#: provider/provider_actions.class.php:31
+msgid "Layout Created, redirecting..."
+msgstr "Макет создан, перенаправление..."
+
+#: provider/provider_admin.class.php:300
+msgid "this view not allowed in the plugin"
+msgstr "этот вид не разрешен в плагине"
+
+#: provider/provider_browser.class.php:22
+msgid "This addon is available<br>when blox is activated."
+msgstr "Этот аддон доступен<br>при активации blox."
+
+#: provider/provider_browser.class.php:21
+msgid "Activate Blox"
+msgstr "Активировать Blox"
+
+#: provider/provider_web_api.class.php:225
+msgid "Please enter page name"
+msgstr "Пожалуйста, введите название страницы"
+
+#: provider/provider_settings.class.php:338
+#: provider/provider_settings.class.php:686
+#: provider/provider_settings.class.php:924
+#: provider/provider_settings.class.php:2056
+msgid "Show Query Debug"
+msgstr "Показать отладку запроса"
+
+#: provider/provider_settings.class.php:336
+#: provider/provider_settings.class.php:684
+#: provider/provider_settings.class.php:922
+#: provider/provider_settings.class.php:2054
+msgid "Show the query for debugging purposes. Don't forget to turn it off before page release"
+msgstr "Показать запрос в целях отладки. Не забудьте отключить это перед публикацией страницы"
+
+#: provider/provider_settings.class.php:2042
+msgid "Query ID (pro)"
+msgstr "ID запроса (pro)"
+
+#: provider/provider_settings.class.php:692
+#: provider/provider_settings.class.php:2036
+msgid "Query ID"
+msgstr "ID запроса"
+
+#: provider/provider_settings.class.php:2016
+msgid "&nbsp;&nbsp;Order By Direction"
+msgstr "&nbsp;&nbsp;Порядок по направлению"
+
+#: provider/provider_settings.class.php:657
+#: provider/provider_settings.class.php:2005
+msgid "&nbsp;&nbsp;Custom Field Name"
+msgstr "&nbsp;&nbsp;Название пользовательского поля"
+
+#: provider/provider_settings.class.php:1927
+msgid "100 posts if empty"
+msgstr "100 записей, если пусто"
+
+#: provider/provider_settings.class.php:583
+#: provider/provider_settings.class.php:1804
+msgid "Exclude By"
+msgstr "Исключить по"
+
+#: provider/provider_settings.class.php:1724
+msgid "Include Terms Children"
+msgstr "Включить дочерние термины"
+
+#: provider/provider_settings.class.php:1712
+msgid "Include By Terms Relation"
+msgstr "Включить по терминам связи"
+
+#: provider/provider_settings.class.php:1696
+msgid "Include By Terms"
+msgstr "Включить по терминам"
+
+#: provider/provider_settings.class.php:480
+#: provider/provider_settings.class.php:1296
+msgid "Include By"
+msgstr "Включить по"
+
+#: provider/provider_settings.class.php:1181
+msgid "Choose the source of the posts list"
+msgstr "Выбрать источник списка записей"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:666
+#: provider/provider_settings.class.php:970
+msgid "Gradient Color2"
+msgstr "Градиент 2"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:660
+#: provider/provider_settings.class.php:969
+msgid "Gradient Color1"
+msgstr "Градиент 1"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:616
+#: provider/provider_settings.class.php:962
+msgid "Solid Color"
+msgstr "Сплошной цвет"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:601
+#: provider/provider_settings.class.php:945
+msgid "Gradient"
+msgstr "Градиент"
+
+#: provider/provider_settings.class.php:943
+msgid "No Background"
+msgstr "Без фона"
+
+#: provider/provider_settings.class.php:819
+msgid "Exclude Uncategorized Category"
+msgstr "Исключить некатегоризированную категорию"
+
+#: provider/provider_settings.class.php:812
+msgid "Don't Exclude"
+msgstr "Не исключать"
+
+#: provider/provider_settings.class.php:803
+msgid "Exclude Categories"
+msgstr "Исключить категории"
+
+#: provider/provider_settings.class.php:789
+msgid "Include Children"
+msgstr "Включить дочерние"
+
+#: provider/provider_settings.class.php:779
+msgid "Include"
+msgstr "Включить"
+
+#: provider/provider_settings.class.php:778
+msgid "Don't Include"
+msgstr "Не включать"
+
+#: provider/provider_settings.class.php:770
+msgid "Parent Category"
+msgstr "Родительская категория"
+
+#: provider/provider_settings.class.php:765
+msgid "Write parent category slug, if no parent leave empty"
+msgstr "Запишите короткую ссылку родительской категории, если родительской нет, оставьте пустым"
+
+#: provider/provider_settings.class.php:764
+msgid "Example: cat1"
+msgstr "Напр: cat1"
+
+#: provider/provider_settings.class.php:888
+msgid "Hide Empty"
+msgstr "Скрыть пустые"
+
+#: provider/provider_settings.class.php:305
+#: provider/provider_settings.class.php:671
+#: provider/provider_settings.class.php:872
+msgid "Order Direction"
+msgstr "Порядок сортировки"
+
+#: provider/provider_settings.class.php:594
+msgid "Exclude Terms"
+msgstr "Исключить термины"
+
+#: provider/provider_settings.class.php:438
+msgid "Select Post Type"
+msgstr "Выбрать тип записи"
+
+#: provider/provider_settings.class.php:376
+msgid "Max Depth"
+msgstr "Макс глубина"
+
+#: provider/provider_settings.class.php:368
+msgid "All Depths"
+msgstr "Все глубины"
+
+#: provider/provider_settings.class.php:364
+msgid "Select Menu"
+msgstr "Выбрать меню"
+
+#: provider/provider_settings.class.php:235
+msgid "Exclude Roles"
+msgstr "Исключить роли"
+
+#: provider/provider_settings.class.php:214
+msgid "All Roles"
+msgstr "Все роли"
+
+#: provider/provider_settings.class.php:85
+msgid "All Categories"
+msgstr "Все категории"
+
+#: provider/provider_functions.class.php:821
+msgid "Choose the update file:"
+msgstr "Выбрать файл обновления:"
+
+#: provider/provider_functions.class.php:811
+msgid "You can change those settings in php.ini or contact your hosting provider"
+msgstr "Вы можете изменить эти настройки в php.ini или свяжитесь с вашим провайдером"
+
+#: provider/provider_functions.class.php:809
+msgid "Max Upload Size"
+msgstr "Макс размер загрузки"
+
+#: provider/provider_functions.class.php:807
+msgid "Post Max Size"
+msgstr "Макс размер записи"
+
+#: provider/provider_functions.class.php:803
+msgid "File example: unlimited-elements0.x.x.zip"
+msgstr "Пример файла: unlimited-elements0.x.x.zip"
+
+#: provider/provider_functions.class.php:801
+msgid "The files will be overwriten"
+msgstr "Файлы будут перезаписаны"
+
+#: provider/provider_functions.class.php:798
+msgid "To update the plugin please select the plugin install package."
+msgstr "Для обновления плагина выберите пакет установки плагина."
+
+#: provider/provider_functions.class.php:776
+msgid "Unlimited Elements Plugin"
+msgstr "Unlimited Elements плагин"
+
+#: provider/provider_functions.class.php:525
+msgid "All rights reserved"
+msgstr "Все права защищены"
+
+#: inc_php/unitecreator_categories.class.php:767
+msgid "This category is installed"
+msgstr "Эта категория установлена"
+
+#: inc_php/unitecreator_categories.class.php:757
+msgid "This category not installed yet in your catalog"
+msgstr "Эта категория еще не установлена в вашем каталоге"
+
+#: inc_php/unitecreator_categories.class.php:393
+msgid "[From Gallery Settings]"
+msgstr "[Из настроек галереи]"
+
+#: inc_php/unitecreator_categories.class.php:390
+msgid "[Add New Category]"
+msgstr "[Добавить новую категорию]"
+
+#: inc_php/unitecreator_categories.class.php:387
+#: provider/provider_layouts.class.php:246
+msgid "[Not Selected]"
+msgstr "[Не выбрано]"
+
+#: inc_php/unitecreator_addon_config.class.php:137
+msgid "Addon Title"
+msgstr "Заголовок аддона"
+
+#: inc_php/unitecreator_dialog_param.class.php:1976
+msgid "Edit Variable"
+msgstr "Редактировать переменную"
+
+#: inc_php/unitecreator_dialog_param.class.php:1975
+msgid "Update Variable"
+msgstr "Обновить переменную"
+
+#: inc_php/unitecreator_dialog_param.class.php:1973
+#: inc_php/unitecreator_dialog_param.class.php:1974
+#: views/objects/addon_view.class.php:830
+msgid "Add Variable"
+msgstr "Добавить переменную"
+
+#: inc_php/unitecreator_dialog_param.class.php:1821
+msgid "The PRO version (unlimited-elements-pro) is available for download in the "
+msgstr "PRO версия (unlimited-elements-pro) доступна для скачивания в "
+
+#: inc_php/unitecreator_dialog_param.class.php:1817
+msgid "This attribute is available only in the ."
+msgstr "Этот атрибут доступен только в ."
+
+#: inc_php/unitecreator_dialog_param.class.php:1810
+msgid "Show attribute content on admin side"
+msgstr "Показать содержимое атрибута в админке"
+
+#: inc_php/unitecreator_dialog_param.class.php:1807
+msgid "Admin Label"
+msgstr "Ярлык администратора"
+
+#: inc_php/unitecreator_dialog_param.class.php:1729
+msgid "PRO version"
+msgstr "Pro версия"
+
+#: inc_php/unitecreator_dialog_param.class.php:1728
+msgid "client panel"
+msgstr "панель клиента"
+
+#: inc_php/unitecreator_dialog_param.class.php:1690
+msgid "Attribute Type: "
+msgstr "Тип атрибута: "
+
+#: inc_php/unitecreator_dialog_param.class.php:1651
+msgid "Update Attribute"
+msgstr "Обновить атрибут"
+
+#: inc_php/unitecreator_dialog_param.class.php:1650
+msgid "Edit Attribute"
+msgstr "Редактировать атрибут"
+
+#: inc_php/unitecreator_dialog_param.class.php:1645
+msgid "Update Form Item"
+msgstr "Обновить элемент формы"
+
+#: inc_php/unitecreator_dialog_param.class.php:1644
+msgid "Edit Form Item"
+msgstr "Редактировать элемент формы"
+
+#: inc_php/unitecreator_dialog_param.class.php:1489
+msgid "Checked By Default"
+msgstr "Отмечено по умолчанию"
+
+#: inc_php/unitecreator_dialog_param.class.php:1373
+msgid "Sanitize Type"
+msgstr "Тип очистки"
+
+#: inc_php/unitecreator_dialog_param.class.php:1361
+msgid "This parameter will go from GET query string"
+msgstr "Этот параметр будет идти из строки запроса GET"
+
+#: inc_php/unitecreator_dialog_param.class.php:1330
+msgid "Select Item Attribute"
+msgstr "Выбрать атрибут элемента"
+
+#: inc_php/unitecreator_dialog_param.class.php:1326
+msgid "Select Main Attribute"
+msgstr "Выбрать главный атрибут"
+
+#: inc_php/unitecreator_dialog_param.class.php:1313
+msgid "The %numitem% is 1,2,3,4... numbers serials"
+msgstr "The %numitem% - это 1,2,3,4... серии чисел"
+
+#: inc_php/unitecreator_dialog_param.class.php:1300
+msgid "Value for Last Item"
+msgstr "Значение для последнего элемента"
+
+#: inc_php/unitecreator_dialog_param.class.php:1283
+msgid "Value for First Item"
+msgstr "Значение для первого элемента"
+
+#: inc_php/unitecreator_dialog_param.class.php:1276
+#: inc_php/unitecreator_dialog_param.class.php:1291
+#: inc_php/unitecreator_dialog_param.class.php:1308
+msgid "Add Numitem"
+msgstr "Добавить нумерация"
+
+#: inc_php/unitecreator_dialog_param.class.php:1234
+msgid "Html Output"
+msgstr "Вывод HTML"
+
+#: inc_php/unitecreator_dialog_param.class.php:1233
+msgid "Attribute Value"
+msgstr "Значение атрибута"
+
+#: inc_php/unitecreator_dialog_param.class.php:998
+msgid "For WooCommerce Products"
+msgstr "Для WooCommerce товаров"
+
+#: inc_php/unitecreator_dialog_param.class.php:980
+msgid "Use Post Category"
+msgstr "Использовать категорию записи"
+
+#: inc_php/unitecreator_dialog_param.class.php:969
+msgid "Post Example For Custom Fields"
+msgstr "Пример записи для настраиваемых полей"
+
+#: inc_php/unitecreator_dialog_param.class.php:967
+msgid "Choose some post for the custom fields to appear in attributes list in the right"
+msgstr "Выбрать какую-нибудь запись, чтобы пользовательские поля отображались в списке атрибутов справа"
+
+#: inc_php/unitecreator_dialog_param.class.php:808
+#: inc_php/unitecreator_dialog_param.class.php:975
+msgid "Use Custom Fields"
+msgstr "Использовать настраиваемые поля"
+
+#: inc_php/unitecreator_dialog_param.class.php:793
+msgid "Post terms are post categories / tags and other custom types. Also called as taxonomies "
+msgstr "Термины записей - это категории записей/теги и другие пользовательские типы. Также называются таксономиями "
+
+#: inc_php/unitecreator_dialog_param.class.php:763
+msgid "Choose Addon Type"
+msgstr "Выбрать тип аддона"
+
+#: inc_php/unitecreator_dialog_param.class.php:739
+msgid "Choose Query"
+msgstr "Выбрать запрос"
+
+#: inc_php/unitecreator_dialog_param.class.php:721
+msgid "Choose Dataset Type"
+msgstr "Выбрать тип набора данных"
+
+#: inc_php/unitecreator_dialog_param.class.php:695
+msgid "Default Audio File Url"
+msgstr "URL аудиофайла по умолчанию"
+
+#: inc_php/unitecreator_dialog_param.class.php:1218
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:501
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:508
+msgid "Default Item"
+msgstr "Элемент по умолчанию"
+
+#: inc_php/unitecreator_dialog_param.class.php:1206
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:493
+msgid "Item Value"
+msgstr "Значение элемента"
+
+#: inc_php/unitecreator_dialog_param.class.php:1205
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:492
+msgid "Item Text"
+msgstr "Элемент текста"
+
+#: inc_php/unitecreator_dialog_param.class.php:549
+msgid "(text near)"
+msgstr "(текст рядом)"
+
+#: inc_php/unitecreator_dialog_param.class.php:487
+#: inc_php/unitecreator_dialog_param.class.php:1555
+msgid "Use this font override in css tab using special function"
+msgstr "Используйте это переопределение шрифта на вкладке css с помощью специальной функции"
+
+#: inc_php/unitecreator_dialog_param.class.php:431
+msgid "To allow html tags, use"
+msgstr "Чтобы разрешить html теги, используйте"
+
+#: inc_php/unitecreator_dialog_param.class.php:368
+msgid "Field Required"
+msgstr "Обязательное поле"
+
+#: inc_php/unitecreator_dialog_param.class.php:349
+msgid "Allow edit font for this field in font style tab. Must be put with the {{fieldname|raw}} in html"
+msgstr "Разрешить редактирование шрифтов для этого поля на вкладке стиль шрифта. Должно быть помещено с {{fieldname|raw}} в html"
+
+#: inc_php/unitecreator_dialog_param.class.php:346
+msgid "Allow Font Edit"
+msgstr "Разрешить редактирование шрифтов"
+
+#: inc_php/unitecreator_dialog_param.class.php:317
+msgid "No default value for this attribute"
+msgstr "Нет значения по умолчанию для этого атрибута"
+
+#: inc_php/unitecreator_dialog_param.class.php:306
+msgid "Form Params Goes Here"
+msgstr "Параметры формы здесь"
+
+#: inc_php/unitecreator_dialog_param.class.php:293
+msgid "Defaults for google map"
+msgstr "Значения по умолчанию для карты Google"
+
+#: inc_php/unitecreator_dialog_param.class.php:276
+msgid "Put number of items (1-12), or empty for all the items (12)"
+msgstr "Укажите количество элементов (1-12) или оставьте пустым для всех элементов (12)"
+
+#: inc_php/unitecreator_dialog_param.class.php:270
+msgid "Max Items"
+msgstr "Макс элементов"
+
+#: inc_php/unitecreator_dialog_param.class.php:215
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1107
+msgid "Margins"
+msgstr "Отступы (Margins)"
+
+#: inc_php/unitecreator_dialog_param.class.php:213
+msgid "GET Param"
+msgstr "GET Param"
+
+#: inc_php/unitecreator_dialog_param.class.php:210
+msgid "Item Attribute Related"
+msgstr "Элемент связанного атрибута"
+
+#: inc_php/unitecreator_dialog_param.class.php:209
+msgid "Attribute Related"
+msgstr "Связанный атрибут"
+
+#: inc_php/unitecreator_dialog_param.class.php:208
+msgid "Simple Variable"
+msgstr "Простая переменная"
+
+#: inc_php/unitecreator_dialog_param.class.php:205
+msgid "Dataset"
+msgstr "Набор данных (Dataset)"
+
+#: inc_php/unitecreator_dialog_param.class.php:204
+msgid "Google Map"
+msgstr "Карта Google"
+
+#: inc_php/unitecreator_dialog_param.class.php:195
+msgid "WooCommerce Categories"
+msgstr "WooCommerce категории"
+
+#: inc_php/unitecreator_dialog_param.class.php:194
+msgid "Posts Terms"
+msgstr "Термины записи"
+
+#: inc_php/unitecreator_dialog_param.class.php:188
+msgid "Icon (deprecated)"
+msgstr "Значок (устарело)"
+
+#: inc_php/unitecreator_client_text.php:101
+#: inc_php/unitecreator_dialog_param.class.php:182
+msgid "HR Line"
+msgstr "HR линия"
+
+#: inc_php/framework/db.class.php:518
+msgid "not found"
+msgstr "не найдено"
+
+#: inc_php/framework/db.class.php:516
+msgid "Record"
+msgstr "Запись"
+
+#: inc_php/framework/functions.class.php:1011
+msgid "No Sanitize (not recomended)"
+msgstr "Без очистки (не рекомендуется)"
+
+#: inc_php/framework/functions.class.php:1010
+msgid "Sanitize Text Field"
+msgstr "Очистка текстового поля"
+
+#: inc_php/framework/functions.class.php:1009
+msgid "Sanitize KEY"
+msgstr "Очистка КЛЮЧА"
+
+#: inc_php/framework/functions.class.php:1008
+msgid "Sanitize ID"
+msgstr "Очистка ID"
+
+#: inc_php/framework/settings_output.class.php:1393
+msgid "The typography setting will be visible in Elementor Page Builder"
+msgstr "Настройка оформления будет видна в Elementor Page Builder"
+
+#: inc_php/framework/settings_output.class.php:982
+msgid "Duplicate Item"
+msgstr "Дублировать элемент"
+
+#: inc_php/framework/settings_output.class.php:978
+#: inc_php/unitecreator_dialog_param.class.php:1216
+msgid "Delete Item"
+msgstr "Удалить элемент"
+
+#: inc_php/framework/settings_output.class.php:949
+msgid "No Items Found"
+msgstr "Ничего не найдено"
+
+#: inc_php/framework/settings_output.class.php:675
+msgid "Select Map"
+msgstr "Выбрать карту"
+
+#: inc_php/framework/table.class.php:548
+#: views/objects/layouts_view.class.php:53
+msgid "Search"
+msgstr "Поиск"
+
+#: inc_php/framework/table.class.php:493
+msgid "Last Page"
+msgstr "Последняя страница"
+
+#: inc_php/framework/table.class.php:492
+msgid "Next Page"
+msgstr "Следующая страница"
+
+#: inc_php/framework/table.class.php:448 provider/provider_helper.class.php:127
+msgid "First"
+msgstr "Первый"
+
+#: inc_php/framework/table.class.php:409
+msgid "Filter Category"
+msgstr "Фильтр категории"
+
+#: inc_php/framework/instagram/helper.class.php:175
+msgid "Clear Access Data"
+msgstr "Очистить данные доступа"
+
+#: inc_php/framework/instagram/helper.class.php:174
+msgid "The instagram access token are already set up"
+msgstr "Токен доступа к instagram уже настроен"
+
+#: inc_php/framework/instagram/helper.class.php:155
+msgid "Connect With Instagram"
+msgstr "Подключение к Instagram"
+
+#: inc_php/framework/instagram/helper.class.php:121
+msgid " days. Don't worry, it should auto renew."
+msgstr " дней. Не волнуйтесь, он должен автоматически обновиться."
+
+#: inc_php/framework/instagram/helper.class.php:121
+msgid "The token will expire in "
+msgstr "Срок действия токена истекает через "
+
+#: inc_php/framework/instagram/helper.class.php:118
+msgid "The token has expired "
+msgstr "Срок действия токена истек "
+
+#: inc_php/framework/settings_advances.class.php:306
+msgid "&nbsp;Custom Content"
+msgstr "&nbsp;Пользовательский контент"
+
+#: inc_php/unitecreator_actions.class.php:471
+msgid "Template Imported"
+msgstr "Шаблон импортирован"
+
+#: inc_php/unitecreator_actions.class.php:409
+msgid "Screenshot Saved"
+msgstr "Скриншот сохранен"
+
+#: inc_php/unitecreator_actions.class.php:388
+msgid "Template Installed"
+msgstr "Шаблон установлен"
+
+#: inc_php/unitecreator_actions.class.php:363
+msgid "Product Activated"
+msgstr "Продукт активирован"
+
+#: inc_php/unitecreator_actions.class.php:292
+msgid "Addons Imported"
+msgstr "Аддоны импортированы"
+
+#: inc_php/unitecreator_actions.class.php:278
+msgid "Test data deleted"
+msgstr "Тестовые данные удалены"
+
+#: inc_php/unitecreator_actions.class.php:233
+msgid "Duplicated Successfully"
+msgstr "Успешно продублировано"
+
+#: inc_php/unitecreator_actions.class.php:229
+msgid "Done Operation"
+msgstr "Операция выполнена"
+
+#: inc_php/unitecreator_actions.class.php:219
+#: inc_php/unitecreator_actions.class.php:224
+msgid "Order Saved"
+msgstr "Порядок сохранен"
+
+#: inc_php/unitecreator_actions.class.php:214
+msgid "Addons Removed"
+msgstr "Аддоны удалены"
+
+#: inc_php/unitecreator_actions.class.php:209
+msgid "Addons updated successfully"
+msgstr "Аддоны успешно обновлены"
+
+#: inc_php/unitecreator_actions.class.php:204
+msgid "Addon updated successfully"
+msgstr "Аддон успешно обновлен"
+
+#: inc_php/unitecreator_actions.class.php:199
+msgid "Addon added successfully"
+msgstr "Аддон успешно добавлен"
+
+#: inc_php/unitecreator_actions.class.php:186
+msgid "The addon deleted successfully"
+msgstr "Аддон успешно удален"
+
+#: inc_php/unitecreator_actions.class.php:173
+msgid "Updated."
+msgstr "Обновлено."
+
+#: inc_php/unitecreator_actions.class.php:133
+msgid "Order updated"
+msgstr "Порядок обновлен"
+
+#: inc_php/unitecreator_actions.class.php:129
+msgid "Category updated"
+msgstr "Категория обновлена"
+
+#: inc_php/unitecreator_actions.class.php:125
+msgid "The category deleted successfully"
+msgstr "Категория успешно удалена"
+
+#: inc_php/unitecreator_params_editor.class.php:228
+msgid "Add Image Base Fields"
+msgstr "Добавить поля базы изображения"
+
+#: inc_php/unitecreator_dialog_param.class.php:1648
+#: inc_php/unitecreator_dialog_param.class.php:1649
+#: inc_php/unitecreator_params_editor.class.php:224
+msgid "Add Attribute"
+msgstr "Добавить атрибут"
+
+#: inc_php/unitecreator_params_editor.class.php:221
+msgid "No Attributes Found"
+msgstr "Атрибуты не найдены"
+
+#: inc_php/unitecreator_params_editor.class.php:212
+msgid "Operations"
+msgstr "Операции"
+
+#: inc_php/unitecreator_params_editor.class.php:194
+msgid "Select / Deselect All"
+msgstr "Выбрать все / Снять выбор"
+
+#: inc_php/unitecreator_params_editor.class.php:179
+msgid "clear copied"
+msgstr "очистить скопированное"
+
+#: inc_php/unitecreator_params_editor.class.php:178
+msgid "Clear the copied section"
+msgstr "Очистить скопированный раздел"
+
+#: inc_php/unitecreator_params_editor.class.php:173
+msgid "to style"
+msgstr "к стилю"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:202
+msgid "Active"
+msgstr "Активен"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:342
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:350
+msgid "Border Width"
+msgstr "Толщина границы"
+
+#: provider/core/plugins/unlimited_elements/addontype_cpt.class.php:28
+msgid "Custom Post Type"
+msgstr "Произвольные записи"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:182
+msgid "Hover"
+msgstr "Наведение"
+
+#: views/objects/addon_view.class.php:455
+msgid "HTML"
+msgstr "HTML-код"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:60
+msgid "I couldn't get the plugin to work"
+msgstr "Я не смог работать с плагином"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1176
+msgid "Import Now"
+msgstr "Импортировать"
+
+#: inc_php/framework/settings_advances.class.php:207
+#: inc_php/framework/settings_advances.class.php:225
+msgid "Middle"
+msgstr "Посередине"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1167
+msgid "Mobile"
+msgstr "Телефон"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:162
+msgid "Normal"
+msgstr "Обычное"
+
+#: inc_php/framework/table.class.php:449
+msgid "Previous"
+msgstr "Назад"
+
+#: provider/functions_wordpress.class.php:1315
+msgid "Random"
+msgstr "Случайный"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2181
+#: inc_php/manager/unitecreator_manager_addons.class.php:2241
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc_php/manager/unitecreator_manager_inline.class.php:151
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2042
+msgid "Add Images"
+msgstr "Добавить изображения"
+
+#: inc_php/framework/settings_output.class.php:943
+#: inc_php/manager/unitecreator_manager_inline.class.php:123
+#: inc_php/manager/unitecreator_manager_inline.class.php:146
+#: inc_php/unitecreator_client_text.php:45
+#: inc_php/unitecreator_dialog_param.class.php:1217
+msgid "Add Item"
+msgstr "Добавить элемент"
+
+#: inc_php/unitecreator_params_editor.class.php:41
+#: inc_php/unitecreator_params_editor.class.php:43
+#: inc_php/unitecreator_params_editor.class.php:44
+#: inc_php/unitecreator_params_editor.class.php:68
+#: inc_php/unitecreator_params_editor.class.php:109
+#: inc_php/unitecreator_params_editor.class.php:133
+msgid "Add Section"
+msgstr "Добавить раздел"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1803
+#: inc_php/unitecreator_filters_process.class.php:1567
+#: provider/provider_helper.class.php:56
+msgid "All"
+msgstr "Все"
+
+#: inc_php/unitecreator_client_text.php:12
+msgid "All Items"
+msgstr "Все элементы"
+
+#: inc_php/unitecreator_client_text.php:123
+msgid "Always"
+msgstr "Всегда"
+
+#: inc_php/unitecreator_client_text.php:90
+#: inc_php/unitecreator_dialog_param.class.php:187
+msgid "Audio"
+msgstr "Аудио"
+
+#: inc_php/unitecreator_client_text.php:108
+#: inc_php/unitecreator_dialog_param.class.php:220
+msgid "Box Shadow"
+msgstr "Тень блока"
+
+#: inc_php/framework/settings_output.class.php:480
+#: inc_php/unitecreator_settings_output.class.php:521
+msgid "Change"
+msgstr "Изменить"
+
+#: inc_php/framework/settings_output.class.php:517
+#: inc_php/unitecreator_settings_output.class.php:577
+msgid "Choose"
+msgstr "Выбрать"
+
+#: inc_php/framework/settings_output.class.php:479
+#: inc_php/framework/settings_output.class.php:648
+#: inc_php/framework/table.class.php:551
+#: inc_php/unitecreator_browser.class.php:254
+#: inc_php/unitecreator_settings_output.class.php:520
+#: views/objects/objects_list_view.class.php:84
+#: views/templates/test_addon.php:58
+msgid "Clear"
+msgstr "Очистить"
+
+#: inc_php/unitecreator_params_editor.class.php:152
+msgid "clear"
+msgstr "очистить"
+
+#: inc_php/unitecreator_client_text.php:48
+msgid "Close"
+msgstr "Закрыть"
+
+#: inc_php/unitecreator_settings_output.class.php:1007
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1218
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1333
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:169
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:189
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:209
+msgid "Color"
+msgstr "Цвет"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2089
+msgid "Copied"
+msgstr "Скопировано"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1578
+#: inc_php/manager/unitecreator_manager_addons.class.php:1618
+#: inc_php/manager/unitecreator_manager_addons.class.php:2176
+#: inc_php/manager/unitecreator_manager_addons.class.php:2221
+#: inc_php/manager/unitecreator_manager_addons.class.php:2405
+#: inc_php/manager/unitecreator_manager_inline.class.php:101
+#: inc_php/manager/unitecreator_manager_inline.class.php:112
+#: inc_php/manager/unitecreator_manager_inline.class.php:164
+#: inc_php/unitecreator_assets.class.php:1253
+#: inc_php/unitecreator_client_text.php:117
+#: inc_php/unitecreator_helperhtml.class.php:106
+#: views/objects/layouts_view.class.php:510
+#: views/objects/objects_list_view.class.php:183
+msgid "Delete"
+msgstr "Удалить"
+
+#: inc_php/unitecreator_client_text.php:128
+msgid "Delete Row"
+msgstr "Удалить строку"
+
+#: inc_php/addontypes/unitecreator_addontype_shape_devider.class.php:19
+msgid "Divider"
+msgstr "Разделитель"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2177
+#: inc_php/manager/unitecreator_manager_inline.class.php:102
+#: inc_php/manager/unitecreator_manager_inline.class.php:113
+#: inc_php/manager/unitecreator_manager_inline.class.php:163
+#: inc_php/unitecreator_client_text.php:118
+#: inc_php/unitecreator_helperhtml.class.php:108
+#: provider/core/plugins/create_addons/plugin.php:49
+#: provider/core/plugins/create_addons/plugin.php:69
+#: provider/core/plugins/create_addons/plugin.php:114
+#: views/objects/layouts_view.class.php:512
+#: views/objects/objects_list_view.class.php:187
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: inc_php/unitecreator_client_text.php:83
+#: inc_php/unitecreator_dialog_param.class.php:175
+msgid "Editor"
+msgstr "Редактор"
+
+#: inc_php/unitecreator_assets.class.php:1110
+msgid "File Name"
+msgstr "Имя файла"
+
+#: inc_php/unitecreator_settings_output.class.php:1021
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: inc_php/unitecreator_settings_output.class.php:969
+msgid "Font Weight"
+msgstr "Толщина шрифта"
+
+#: inc_php/unitecreator_addon.class.php:1889
+msgid "Fonts"
+msgstr "Шрифты"
+
+#: inc_php/framework/settings_output.class.php:459
+#: inc_php/unitecreator_settings_output.class.php:505
+#: provider/provider_settings_multisource.class.php:163
+msgid "Image Url"
+msgstr "URL изображения"
+
+#: inc_php/unitecreator_client_text.php:54
+msgid "Import"
+msgstr "Импорт"
+
+#: inc_php/unitecreator_browser.class.php:698
+msgid "Installing"
+msgstr "Установка"
+
+#: inc_php/addontypes/unitecreator_addontype_layout_general.class.php:23
+msgid "Layout"
+msgstr "Макет"
+
+#: inc_php/unitecreator_settings_output.class.php:993
+msgid "Line Height"
+msgstr "Высота строки"
+
+#: inc_php/unitecreator_client_text.php:80
+#: inc_php/unitecreator_dialog_param.class.php:180
+#: provider/provider_settings_multisource.class.php:149
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1236
+#: inc_php/manager/unitecreator_manager_inline.class.php:198
+msgid "Loading Settings"
+msgstr "Настройки загрузки"
+
+#: inc_php/unitecreator_assets.class.php:1160 views/master_view.php:67
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: inc_php/unitecreator_client_text.php:100
+#: inc_php/unitecreator_dialog_param.class.php:200
+#: provider/provider_settings_multisource.class.php:225
+msgid "Menu"
+msgstr "Меню"
+
+#: inc_php/unitecreator_client_text.php:149
+msgid "More Actions"
+msgstr "Больше действий"
+
+#: inc_php/unitecreator_assets.class.php:1260
+msgid "Move"
+msgstr "Переместить"
+
+#: inc_php/unitecreator_globals.class.php:264
+msgid "Page"
+msgstr "Страница"
+
+#: inc_php/unitecreator_client_text.php:91
+#: inc_php/unitecreator_dialog_param.class.php:192
+#: provider/provider_settings.class.php:1071
+msgid "Post"
+msgstr "Запись"
+
+#: inc_php/unitecreator_browser.class.php:246
+#: inc_php/unitecreator_browser.class.php:634
+msgid "Pro"
+msgstr "Pro"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1182
+#: inc_php/manager/unitecreator_manager_addons.class.php:1572
+#: inc_php/manager/unitecreator_manager_addons.class.php:2400
+msgid "Quick Edit"
+msgstr "Быстрое редактирование"
+
+#: inc_php/unitecreator_client_text.php:63
+msgid "Removing..."
+msgstr "Удаление..."
+
+#: inc_php/unitecreator_assets.class.php:1140
+#: inc_php/unitecreator_assets.class.php:1258
+msgid "Rename"
+msgstr "Переименовать"
+
+#: inc_php/unitecreator_client_text.php:51
+msgid "Restore"
+msgstr "Восстановить"
+
+#: inc_php/unitecreator_client_text.php:148
+msgid "Row Layout"
+msgstr "Макет строки"
+
+#: inc_php/unitecreator_client_text.php:116
+msgid "Save"
+msgstr "Сохранить"
+
+#: inc_php/unitecreator_settings_output.class.php:128
+#: views/objects/settings_view.class.php:55
+msgid "Saving..."
+msgstr "Сохранение..."
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1926
+msgid "Search..."
+msgstr "Поиск..."
+
+#: inc_php/unitecreator_params_editor.class.php:52
+msgid "Section Title"
+msgstr "Заголовок раздела"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1604
+#: inc_php/manager/unitecreator_manager_inline.class.php:124
+#: inc_php/manager/unitecreator_manager_inline.class.php:162
+#: inc_php/unitecreator_assets.class.php:1249
+msgid "Select All"
+msgstr "Выбрать все"
+
+#: inc_php/unitecreator_params_editor.class.php:149
+#: views/objects/addon_view.class.php:1815
+msgid "selected"
+msgstr "выбранный"
+
+#: inc_php/unitecreator_form.class.php:133
+msgid "Send"
+msgstr "Отправить"
+
+#: inc_php/unitecreator_client_text.php:145
+#: provider/provider_admin.class.php:624
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc_php/addontypes/unitecreator_addontype_shape.class.php:20
+#: inc_php/unitecreator_dialog_param.class.php:190
+msgid "Shape"
+msgstr "Форма"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2279
+#: views/objects/layouts_view.class.php:454
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: inc_php/unitecreator_browser.class.php:243
+msgid "Show All"
+msgstr "Показать все"
+
+#: inc_php/unitecreator_assets.class.php:1215
+msgid "Skip"
+msgstr "Пропустить"
+
+#: inc_php/unitecreator_client_text.php:103
+#: inc_php/unitecreator_dialog_param.class.php:222
+msgid "Slider"
+msgstr "Слайдер"
+
+#: inc_php/unitecreator_params_editor.class.php:131
+#: views/objects/mappicker_view.class.php:103
+msgid "Style"
+msgstr "Стиль"
+
+#: inc_php/unitecreator_client_text.php:72
+#: inc_php/unitecreator_dialog_param.class.php:171
+msgid "Text Field"
+msgstr "Текстовое поле"
+
+#: inc_php/unitecreator_categories.class.php:219
+#: inc_php/unitecreator_client_text.php:11
+msgid "Uncategorized"
+msgstr "Без категории"
+
+#: inc_php/unitecreator_settings_output.class.php:690
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:414
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:463
+msgid "Units"
+msgstr "Единицы"
+
+#: inc_php/unitecreator_client_text.php:50
+#: views/objects/addon_view.class.php:1168
+msgid "Update"
+msgstr "Обновить"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1277
+#: provider/provider_functions.class.php:791
+#: provider/provider_functions.class.php:794
+msgid "Update "
+msgstr "Обновить "
+
+#: inc_php/unitecreator_assets.class.php:1248
+msgid "Upload"
+msgstr "Загрузить"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1340
+msgid " Description"
+msgstr " Описание"
+
+#: inc_php/unitecreator_form.class.php:311
+msgid " field"
+msgstr " поле"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1081
+msgid " file..."
+msgstr " файл..."
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1152
+msgid " Log"
+msgstr " Журнал"
+
+#: inc_php/unitecreator_params_processor.class.php:1450
+msgid " menu"
+msgstr " меню"
+
+#: inc_php/layouts/unitecreator_layout.class.php:99
+#: inc_php/manager/unitecreator_manager_addons.class.php:1316
+#: views/objects/addon_view.class.php:385
+msgid " Name"
+msgstr " Название"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1261
+msgid " Properties"
+msgstr " Свойства"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1307
+#: views/objects/addon_view.class.php:375
+msgid " Title"
+msgstr " Заголовок"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1279
+msgid " Updated"
+msgstr " Обновлено"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1575
+#: inc_php/manager/unitecreator_manager_addons.class.php:2403
+msgid "Copy"
+msgstr "Копировать"
+
+#: inc_php/addontypes/unitecreator_addontype_bgaddon.class.php:29
+#: provider/core/plugins/unlimited_elements/addontype_elementor.class.php:32
+#: provider/provider_admin.class.php:628
+msgid "Go Pro"
+msgstr "Перейти на Pro"
+
+#: inc_php/unitecreator_client_text.php:89
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:285
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:82
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1334
+#: provider/provider_settings_multisource.class.php:147
+msgid "Image"
+msgstr "Изображение"
+
+#: inc_php/unitecreator_addon.class.php:1472
+#: inc_php/unitecreator_dialog_param.class.php:850
+#: inc_php/unitecreator_params_processor.class.php:570
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:500
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:3077
+#: provider/provider_settings_multisource.class.php:206
+msgid "Items"
+msgstr "Элементы"
+
+#: inc_php/framework/settings_output.class.php:475
+#: inc_php/unitecreator_settings_output.class.php:516
+#: provider/views/master_view.php:46
+msgid "Select Image"
+msgstr "Выбрать изображение"
+
+#: inc_php/unitecreator_params_editor.class.php:172
+msgid "Paste section in style tab"
+msgstr "Вставить раздел на вкладке Стиль"
+
+#: inc_php/unitecreator_params_editor.class.php:169
+msgid "to content"
+msgstr "к контенту"
+
+#: inc_php/unitecreator_params_editor.class.php:168
+msgid "Paste section in content tab"
+msgstr "Вставить раздел на вкладке Контент"
+
+#: inc_php/unitecreator_params_editor.class.php:162
+msgid "section copied"
+msgstr "раздел скопирован"
+
+#: inc_php/unitecreator_params_editor.class.php:151
+msgid "Clear Selected Attributes"
+msgstr "Очистить выбранные атрибуты"
+
+#: inc_php/unitecreator_params_editor.class.php:143
+msgid "Stop Move Mode"
+msgstr "Режим остановки перемещения"
+
+#: inc_php/unitecreator_params_editor.class.php:141
+msgid "Move Mode"
+msgstr "Режим перемещения"
+
+#: inc_php/unitecreator_params_editor.class.php:70
+msgid "Please fill the section title"
+msgstr "Пожалуйста, заполните заголовок раздела"
+
+#: inc_php/unitecreator_params_editor.class.php:45
+msgid "Update Section"
+msgstr "Обновить раздел"
+
+#: inc_php/unitecreator_assets.class.php:1361
+msgid "Loading File list..."
+msgstr "Загрузка списка файлов..."
+
+#: inc_php/unitecreator_assets.class.php:1283
+msgid "Active Path"
+msgstr "Активный путь"
+
+#: inc_php/unitecreator_assets.class.php:1263
+msgid "unzipping..."
+msgstr "разархивация..."
+
+#: inc_php/unitecreator_assets.class.php:1262
+msgid "Unzip"
+msgstr "Разархивировать"
+
+#: inc_php/unitecreator_assets.class.php:1254 views/templates/test_addon.php:52
+msgid "deleting..."
+msgstr "удаление..."
+
+#: inc_php/unitecreator_assets.class.php:1214
+msgid "Overwrite"
+msgstr "Перезаписать"
+
+#: inc_php/unitecreator_assets.class.php:1204
+msgid "Files Moved"
+msgstr "Файлы перемещены"
+
+#: inc_php/unitecreator_assets.class.php:1203
+msgid "Moving Files..."
+msgstr "Перемещение файлов..."
+
+#: inc_php/unitecreator_assets.class.php:1190
+msgid "Move %1 files to"
+msgstr "Переместить %1 файлов в"
+
+#: inc_php/unitecreator_assets.class.php:1186
+#: inc_php/unitecreator_assets.class.php:1202
+msgid "Move Files"
+msgstr "Переместить файлы"
+
+#: inc_php/unitecreator_assets.class.php:1166
+msgid "File Saved..."
+msgstr "Файл сохранен..."
+
+#: inc_php/unitecreator_assets.class.php:1165
+msgid "Saving File..."
+msgstr "Сохранение файла..."
+
+#: inc_php/unitecreator_assets.class.php:1142
+msgid "File/Dir Renamed"
+msgstr "Файл / папка переименованна"
+
+#: inc_php/unitecreator_assets.class.php:1141
+msgid "Renaming..."
+msgstr "Переименование..."
+
+#: inc_php/unitecreator_assets.class.php:1135
+msgid "Rename this file/folder to"
+msgstr "Переименовать этот файл / папку в"
+
+#: inc_php/unitecreator_assets.class.php:1133
+msgid "Rename File / Folder"
+msgstr "Переименовать файл / папку"
+
+#: inc_php/unitecreator_assets.class.php:1118
+msgid "File Created"
+msgstr "Файл создан"
+
+#: inc_php/unitecreator_assets.class.php:1117
+msgid "Creating File..."
+msgstr "Создание файла..."
+
+#: inc_php/unitecreator_assets.class.php:1107
+#: inc_php/unitecreator_assets.class.php:1116
+#: inc_php/unitecreator_assets.class.php:1251
+msgid "Create File"
+msgstr "Создать файл"
+
+#: inc_php/unitecreator_assets.class.php:1090
+msgid "Folder Created"
+msgstr "Папка создана"
+
+#: inc_php/unitecreator_assets.class.php:1089
+msgid "Creating Folder..."
+msgstr "Создание папки..."
+
+#: inc_php/unitecreator_assets.class.php:1082
+msgid "Folder Name"
+msgstr "Название папки"
+
+#: inc_php/unitecreator_assets.class.php:1079
+#: inc_php/unitecreator_assets.class.php:1088
+#: inc_php/unitecreator_assets.class.php:1250
+msgid "Create Folder"
+msgstr "Создать папку"
+
+#: inc_php/unitecreator_assets.class.php:1037
+msgid "Upload to folder: "
+msgstr "Загрузить в папку: "
+
+#: inc_php/unitecreator_assets.class.php:1032
+msgid "Upload Files"
+msgstr "Загрузить файлы"
+
+#: inc_php/unitecreator_assets.class.php:607
+msgid "empty folder"
+msgstr "пустая папка"
+
+#: inc_php/unitecreator_browser.class.php:1214
+msgid "Checking Update"
+msgstr "Проверка обновления"
+
+#: inc_php/unitecreator_browser.class.php:1210
+msgid "Check And Update Catalog"
+msgstr "Отметить и обновить каталог"
+
+#: inc_php/unitecreator_browser.class.php:622
+msgid "You can install this "
+msgstr "Вы можете установить это "
+
+#: inc_php/unitecreator_browser.class.php:621
+msgid "Web"
+msgstr "Веб"
+
+#: inc_php/unitecreator_browser.class.php:616
+#: inc_php/unitecreator_browser.class.php:622
+msgid "To use it click install"
+msgstr "Чтобы использовать, нажмите Установить"
+
+#: inc_php/unitecreator_browser.class.php:616
+msgid " Is Free"
+msgstr " Бесплатно"
+
+#: inc_php/unitecreator_browser.class.php:616
+msgid "This "
+msgstr "Это "
+
+#: inc_php/unitecreator_browser.class.php:593
+msgid "widget"
+msgstr "виджет"
+
+#: inc_php/unitecreator_browser.class.php:442
+msgid "No pages in this category"
+msgstr "Нет страниц в этой категории"
+
+#: inc_php/unitecreator_browser.class.php:440
+msgid "No addons in this category"
+msgstr "Нет аддонов в этой категории"
+
+#: inc_php/unitecreator_browser.class.php:253
+msgid "Check Catalog Update"
+msgstr "Проверить обновление каталога"
+
+#: inc_php/unitecreator_browser.class.php:251
+msgid "The product is Active!"
+msgstr "Продукт активен!"
+
+#: inc_php/unitecreator_browser.class.php:250
+msgid "Already bought Blox PRO?"
+msgstr "Уже купили Blox PRO?"
+
+#: inc_php/unitecreator_browser.class.php:245
+#: inc_php/unitecreator_browser.class.php:615
+msgid "Free"
+msgstr "Бесплатная"
+
+#: inc_php/unitecreator_browser.class.php:244
+msgid "Installed"
+msgstr "Установлено"
+
+#: inc_php/unitecreator_browser.class.php:242
+msgid "Blox"
+msgstr "Blox"
+
+#: inc_php/unitecreator_browser.class.php:46
+msgid "This addon is available<br>for Blox PRO users only."
+msgstr "Этот аддон доступен<br>только для пользователей Blox PRO."
+
+#: inc_php/unitecreator_browser.class.php:45
+msgid "Buy PRO"
+msgstr "Купить PRO"
+
+#: inc_php/addontypes/unitecreator_addontype_bgaddon.class.php:30
+#: provider/core/plugins/unlimited_elements/addontype_elementor.class.php:33
+msgid "Upgrade to PRO version <br> to use this widget"
+msgstr "Обновите до версии PRO <br> для использования этого виджета"
+
+#: inc_php/addontypes/unitecreator_addontype_bgaddon.class.php:19
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:106
+msgid "Background Widgets"
+msgstr "Фоновые виджеты"
+
+#: inc_php/addontypes/unitecreator_addontype_bgaddon.class.php:18
+msgid "Background Widget"
+msgstr "Фоновый виджет"
+
+#: inc_php/addontypes/unitecreator_addontype_layout_general.class.php:24
+msgid "General Layouts"
+msgstr "Общие макеты"
+
+#: inc_php/addontypes/unitecreator_addontype_layout.class.php:44
+#: inc_php/addontypes/unitecreator_addontype_layout_general.class.php:42
+#: inc_php/addontypes/unitecreator_addontype_layout_section.class.php:42
+msgid "Preview Image Settings"
+msgstr "Настройки предпросмотра изображений"
+
+#: inc_php/addontypes/unitecreator_addontype.class.php:57
+#: provider/core/plugins/unlimited_elements/addontype_elementor_template.class.php:36
+#: views/objects/addon_view.class.php:823
+msgid "Main"
+msgstr "Главная"
+
+#: inc_php/addontypes/unitecreator_addontype.class.php:56
+msgid "Regular Addon"
+msgstr "Обычный аддон"
+
+#: inc_php/addontypes/unitecreator_addontype.class.php:55
+msgid "Addons"
+msgstr "Аддоны"
+
+#: inc_php/addontypes/unitecreator_addontype_shape.class.php:21
+#: views/library.php:43 views/objects/views_chooser.class.php:53
+msgid "Shapes"
+msgstr "Формы"
+
+#: inc_php/addontypes/unitecreator_addontype_shape_devider.class.php:20
+#: views/library.php:42 views/objects/views_chooser.class.php:52
+msgid "Dividers"
+msgstr "Разделители"
+
+#: inc_php/unitecreator_settings.class.php:1024
+msgid "New Category"
+msgstr "Новая категория"
+
+#: inc_php/unitecreator_settings.class.php:359
+msgid "Instagram User"
+msgstr "Пользователь Instagram"
+
+#: inc_php/unitecreator_settings.class.php:351
+msgid "Type instagram user (@username). This method is deprecated. Please connect with your instagram user from general settings"
+msgstr "Введите пользователя instagram (@username). Этот метод устарел. Пожалуйста, свяжитесь со своим пользователем instagram из общих настроек"
+
+#: inc_php/unitecreator_settings.class.php:332
+msgid "Get data from instagram user: "
+msgstr "Получить данные от instagram пользователя: "
+
+#: inc_php/unitecreator_addon.class.php:1905
+msgid "no settings for this widget"
+msgstr "нет настроек для этого виджета"
+
+#: inc_php/unitecreator_addon.class.php:383
+msgid "Double Name, please remove"
+msgstr "Задвоенное название, пожалуйста, удалите"
+
+#: inc_php/unitecreator_addon.class.php:115
+#: views/objects/addon_view.class.php:875
+msgid "Widget Name"
+msgstr "Название виджета"
+
+#: inc_php/manager/unitecreator_manager.class.php:862
+msgid "items selected"
+msgstr "выбранные элементы"
+
+#: inc_php/manager/unitecreator_manager.class.php:861
+msgid "Getting Items"
+msgstr "Получение элементов"
+
+#: inc_php/manager/unitecreator_manager.class.php:557
+msgid "Update Catalog"
+msgstr "Обновить каталог"
+
+#: inc_php/manager/unitecreator_manager.class.php:551
+msgid "Show Debug Data"
+msgstr "Показать данные отладки"
+
+#: inc_php/manager/unitecreator_manager.class.php:510
+msgid "Move To"
+msgstr "Переместить в"
+
+#: inc_php/manager/unitecreator_manager.class.php:362
+msgid "Add Category"
+msgstr "Добавить категорию"
+
+#: inc_php/manager/unitecreator_manager.class.php:289
+msgid "Category and it's addons Deleted"
+msgstr "Категория и ее аддоны удалены"
+
+#: inc_php/manager/unitecreator_manager.class.php:288
+msgid "Deleting Category..."
+msgstr "Удаление категории..."
+
+#: inc_php/manager/unitecreator_manager.class.php:283
+msgid " category and all it's widgets?"
+msgstr " категорию и все ее виджеты?"
+
+#: inc_php/manager/unitecreator_manager.class.php:279
+msgid "Are you sure you want to delete the: "
+msgstr "Вы уверены, что хотите удалить: "
+
+#: inc_php/manager/unitecreator_manager.class.php:260
+#: inc_php/unitecreator_categories.class.php:982
+msgid "Category Added"
+msgstr "Категория добавлена"
+
+#: inc_php/manager/unitecreator_manager.class.php:259
+msgid "Adding Category..."
+msgstr "Добавление категории..."
+
+#: inc_php/manager/unitecreator_manager.class.php:258
+#: views/objects/layouts_view.class.php:230
+msgid "Create Category"
+msgstr "Создать категорию"
+
+#: inc_php/manager/unitecreator_manager.class.php:252
+msgid "Enter Category Name"
+msgstr "Введите название категории"
+
+#: inc_php/manager/unitecreator_manager.class.php:249
+#: views/objects/layouts_view.class.php:227
+msgid "Add New Category"
+msgstr "Добавить новую категорию"
+
+#: inc_php/manager/unitecreator_manager.class.php:226
+msgid "Edit Title"
+msgstr "Редактировать заголовок"
+
+#: inc_php/manager/unitecreator_manager.class.php:222
+msgid "Category ID"
+msgstr "ID категории"
+
+#: inc_php/manager/unitecreator_manager.class.php:148
+msgid "No Items"
+msgstr "Нет элементов"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2249
+msgid "Make Thumbs"
+msgstr "Создать миниатюры"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2248
+msgid "Make Thumb"
+msgstr "Создать миниатюру"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2182
+#: inc_php/manager/unitecreator_manager_addons.class.php:2242
+#: inc_php/unitecreator_browser.class.php:252
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: inc_php/manager/unitecreator_manager.class.php:572
+#: inc_php/manager/unitecreator_manager_addons.class.php:2091
+#: inc_php/unitecreator_params_editor.class.php:123
+msgid "Move Here"
+msgstr "Переместить сюда"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2067
+msgid "Back To Category"
+msgstr "Вернуться в категорию"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1963
+msgid "Not active state only"
+msgstr "Только неактивное состояние"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1962
+msgid "Active state only"
+msgstr "Только активное состояние"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1961
+msgid "Show all states"
+msgstr "Показать все состояния"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1935
+msgid "Clear Search"
+msgstr "Очистить поиск"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1933
+msgid "Search Widget"
+msgstr "Виджет поиска"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1914
+msgid "Show Only Installed"
+msgstr "Показать только установленные"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1875
+msgid "Category Icon"
+msgstr "Значок категории"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1874
+msgid "Category Name"
+msgstr "Название категории"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1873
+msgid "Category Title"
+msgstr "Заголовок категории"
+
+#: inc_php/manager/unitecreator_manager.class.php:118
+#: inc_php/manager/unitecreator_manager.class.php:129
+#: inc_php/manager/unitecreator_manager.class.php:305
+#: inc_php/manager/unitecreator_manager.class.php:366
+#: inc_php/manager/unitecreator_manager.class.php:600
+#: inc_php/manager/unitecreator_manager_addons.class.php:1642
+msgid "No Action"
+msgstr "Без действия"
+
+#: inc_php/manager/unitecreator_manager.class.php:275
+#: inc_php/manager/unitecreator_manager.class.php:287
+#: inc_php/manager/unitecreator_manager_addons.class.php:1636
+msgid "Delete Category"
+msgstr "Удалить категорию"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1621
+msgid "Make Thumbnails"
+msgstr "Создать миниатюры"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1585
+#: inc_php/manager/unitecreator_manager_addons.class.php:2412
+#: provider/core/plugins/create_addons/plugin.php:53
+#: provider/core/plugins/create_addons/plugin.php:124
+#: views/objects/addon_view.class.php:1149
+msgid "Export "
+msgstr "Экспорт "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1582
+#: inc_php/manager/unitecreator_manager_addons.class.php:2409
+msgid "Test In New Tab"
+msgstr "Тест в новой вкладке"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1581
+#: inc_php/manager/unitecreator_manager_addons.class.php:2408
+#: views/objects/addon_view.class.php:1144
+#: views/objects/addon_view.class.php:1145 views/testaddon.php:38
+msgid "Test "
+msgstr "Тест "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1569
+#: inc_php/manager/unitecreator_manager_addons.class.php:2398
+msgid "Make Thumbnail"
+msgstr "Создать миниатюру"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1566
+#: inc_php/manager/unitecreator_manager_addons.class.php:2395
+msgid "View Thumbnail"
+msgstr "Просмотр миниатюр"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1554
+#: inc_php/manager/unitecreator_manager_addons.class.php:2389
+msgid "Edit In New Tab"
+msgstr "Редактировать в новой вкладке"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1522
+msgid "You can purchase a pro version here"
+msgstr "Вы можете приобрести pro версию здесь"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1518
+msgid "This template is available only for the PRO version users of Unlimited Elements plugin."
+msgstr "Этот шаблон доступен только для пользователей PRO версии плагина Unlimited Elements."
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1490
+msgid "Create Page"
+msgstr "Создать страницу"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1489
+msgid "Enter Page Name"
+msgstr "Введите название страницы"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1485
+msgid "Create Page From Template"
+msgstr "Создать страницу из шаблона"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1479
+msgid "Edit With Elementor"
+msgstr "Редактировать с помощью Elementor"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1478
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:35
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:36
+msgid "View Template"
+msgstr "Просмотр шаблона"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1478
+msgid "View Page"
+msgstr "Просмотр страницы"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1474
+msgid "Template Already Imported"
+msgstr "Шаблон уже импортирован"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1473
+msgid "Template Imported Successfully"
+msgstr "Шаблон успешно импортирован"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1450
+msgid "Import Template Again"
+msgstr "Импортировать шаблон снова"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1444
+msgid "After import is completed the template will show under Elementor Saved Templates list for future use."
+msgstr "После завершения импорта шаблон будет отображаться в списке Сохраненные шаблоны Elementor для дальнейшего использования."
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1443
+msgid "To get started click the \"Import Template\" button."
+msgstr "Для начала работы нажмите кнопку \"Импортировать шаблон\"."
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1430
+msgid "Back To Catalog"
+msgstr "Вернуться в каталог"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1428
+msgid "To Next Template"
+msgstr "К следующему шаблону"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1426
+msgid "To Previous Template"
+msgstr "К предыдущему шаблону"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1404
+msgid "This import will overwrite the existing imported template. Continue?"
+msgstr "Этот импорт перезапишет существующий импортированный шаблон. Продолжать?"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1403
+msgid "Preview Template"
+msgstr "Предпросмотр шаблона"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1350
+msgid "Adding "
+msgstr "Добавление "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1270
+msgid "Loading Properties"
+msgstr "Свойства загрузки"
+
+#: inc_php/manager/unitecreator_manager.class.php:233
+#: inc_php/manager/unitecreator_manager_addons.class.php:1245
+#: inc_php/unitecreator_actions.class.php:338
+#: views/objects/layouts_view.class.php:237
+msgid "Category Updated"
+msgstr "Категория обновлена"
+
+#: inc_php/manager/unitecreator_manager.class.php:232
+#: inc_php/manager/unitecreator_manager_addons.class.php:1244
+#: views/objects/layouts_view.class.php:236
+msgid "Updating Category..."
+msgstr "Обновление категории..."
+
+#: inc_php/manager/unitecreator_manager.class.php:231
+#: inc_php/manager/unitecreator_manager_addons.class.php:1243
+msgid "Update Category"
+msgstr "Обновить категорию"
+
+#: inc_php/manager/unitecreator_manager.class.php:218
+#: inc_php/manager/unitecreator_manager_addons.class.php:1231
+#: inc_php/manager/unitecreator_manager_addons.class.php:1635
+msgid "Edit Category"
+msgstr "Редактировать категорию"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1208
+#: inc_php/unitecreator_dialog_param.class.php:1773
+#: inc_php/unitecreator_settings.class.php:526
+#: provider/functions_wordpress.class.php:1353
+#: provider/provider_settings_multisource.class.php:132
+#: views/system/video_dialog.php:188
+msgid "Description"
+msgstr "Описание"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1187
+#: inc_php/unitecreator_dialog_param.class.php:1755
+#: inc_php/unitecreator_params_editor.class.php:200
+#: provider/core/plugins/unlimited_elements/elementor/control_example.php:32
+#: provider/functions_wordpress.class.php:1302
+#: provider/provider_settings_multisource.class.php:128
+#: views/objects/layouts_view.class.php:54
+#: views/objects/objects_list_view.class.php:142
+#: views/system/video_dialog.php:180
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1130
+msgid "Current Category"
+msgstr "Текущая категория"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1129
+msgid "[Autodetect]"
+msgstr "[Автоопределение]"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1126
+msgid "Import to Category"
+msgstr "Импорт в категорию"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1090
+msgid "Overwrite Widgets"
+msgstr "Перезаписать виджеты"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1088
+msgid "Overwrite Existing "
+msgstr "Перезаписать существующие "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1082
+#: inc_php/manager/unitecreator_manager_addons.class.php:1351
+#: views/objects/layouts_view.class.php:51
+msgid " Added Successfully"
+msgstr " Успешно добавлено"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1081
+#: views/objects/layouts_view.class.php:50
+msgid "Uploading "
+msgstr "Загрузка "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1080
+msgid " export zip file (or files)"
+msgstr " экспорт zip файл (или файлов)"
+
+#: inc_php/framework/settings_output.class.php:610
+#: inc_php/manager/unitecreator_manager_addons.class.php:1080
+#: views/objects/layouts_view.class.php:59
+msgid "Select "
+msgstr "Выбрать "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1079
+#: inc_php/manager/unitecreator_manager_addons.class.php:2198
+#: views/objects/layouts_view.class.php:48
+#: views/objects/layouts_view.class.php:49
+msgid "Import "
+msgstr "Импорт "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:855
+msgid "Duplicate "
+msgstr "Дублировать "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:852
+#: inc_php/manager/unitecreator_manager_addons.class.php:1560
+#: inc_php/manager/unitecreator_manager_addons.class.php:2392
+msgid "Edit Template Kit"
+msgstr "Редактировать комплект шаблонов"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:851
+msgid "Preview Template Kit"
+msgstr "Предпросмотр комплекта шаблонов"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:848
+#: inc_php/manager/unitecreator_manager_addons.class.php:1553
+#: inc_php/manager/unitecreator_manager_addons.class.php:1556
+#: inc_php/manager/unitecreator_manager_addons.class.php:2199
+#: views/objects/addon_view.class.php:276
+msgid "Edit "
+msgstr "Редактировать "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:847
+#: views/objects/addon_view.class.php:1143
+msgid "Preview "
+msgstr "Предпросмотр "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:723
+msgid "Imported"
+msgstr "Импортировано"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:705
+#: inc_php/manager/unitecreator_manager_addons.class.php:2069
+msgid "Template Kit"
+msgstr "Комплект шаблонов"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:274
+msgid "Add "
+msgstr "Добавить "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:182
+msgid " selected"
+msgstr " выбрано"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:181
+msgid "Getting "
+msgstr "Получение "
+
+#: inc_php/manager/unitecreator_manager_inline.class.php:162
+#: inc_php/unitecreator_assets.class.php:1249
+msgid "Unselect All"
+msgstr "Отменить выбор"
+
+#: inc_php/manager/unitecreator_manager_inline.class.php:156
+#: inc_php/unitecreator_dialog_param.class.php:1642
+#: inc_php/unitecreator_dialog_param.class.php:1643
+msgid "Add Form Item"
+msgstr "Добавить элемент формы"
+
+#: inc_php/unitecreator_helper.class.php:1787
+msgid " not found. Please create one in template parts page"
+msgstr " не найдено. Пожалуйста, создайте его на странице частей шаблона"
+
+#: inc_php/unitecreator_helper.class.php:1787
+msgid "Template part"
+msgstr "Часть шаблона"
+
+#: inc_php/unitecreator_addon_validator.class.php:245
+msgid "Not valid fill color!"
+msgstr "Недопустимый цвет заливки!"
+
+#: inc_php/unitecreator_addon_validator.class.php:225
+msgid "Not existing include file!"
+msgstr "Не существующий включаемый файл!"
+
+#: inc_php/unitecreator_addon_validator.class.php:163
+msgid "Missing Preview Link"
+msgstr "Отсутствует ссылка предпросмотра"
+
+#: inc_php/unitecreator_client_text.php:155
+#: inc_php/unitecreator_params_editor.class.php:42
+#: inc_php/unitecreator_params_editor.class.php:119
+msgid "Edit Section"
+msgstr "Редактировать раздел"
+
+#: inc_php/unitecreator_client_text.php:154
+msgid "Section Anchor"
+msgstr "Якорь (анкор) раздела"
+
+#: inc_php/unitecreator_client_text.php:153
+msgid "Hidden Addon"
+msgstr "Скрытый аддон"
+
+#: inc_php/unitecreator_client_text.php:152
+msgid "Hidden Column"
+msgstr "Скрытый столбец"
+
+#: inc_php/unitecreator_client_text.php:151
+msgid "Hidden Row"
+msgstr "Скрытая строка"
+
+#: inc_php/unitecreator_client_text.php:150
+msgid "Less Actions"
+msgstr "Меньше действий"
+
+#: inc_php/unitecreator_client_text.php:146
+msgid "Row"
+msgstr "Строку"
+
+#: inc_php/unitecreator_client_text.php:144
+msgid "Move Addon"
+msgstr "Переместить аддон"
+
+#: inc_php/unitecreator_client_text.php:143
+msgid "Move Column"
+msgstr "Переместить столбец"
+
+#: inc_php/unitecreator_client_text.php:142
+msgid "Move Section"
+msgstr "Переместить раздел"
+
+#: inc_php/unitecreator_client_text.php:141
+msgid "Move Row"
+msgstr "Переместить строку"
+
+#: inc_php/unitecreator_client_text.php:140
+msgid "Add Column"
+msgstr "Добавить столбец"
+
+#: inc_php/unitecreator_client_text.php:139
+msgid "Column Settings"
+msgstr "Настройки столбца"
+
+#: inc_php/unitecreator_client_text.php:138
+msgid "Duplicate Column"
+msgstr "Дублировать столбец"
+
+#: inc_php/unitecreator_client_text.php:137
+msgid "Delete Column"
+msgstr "Удалить столбец"
+
+#: inc_php/unitecreator_client_text.php:136
+msgid "In Buffer"
+msgstr "В буфер"
+
+#: inc_php/unitecreator_client_text.php:134
+msgid "Paste Section"
+msgstr "Вставить раздел"
+
+#: inc_php/unitecreator_client_text.php:133
+#: inc_php/unitecreator_client_text.php:156
+#: inc_php/unitecreator_params_editor.class.php:121
+msgid "Copy Section"
+msgstr "Копировать раздел"
+
+#: inc_php/unitecreator_client_text.php:132
+msgid "Duplicate Section"
+msgstr "Дублировать раздел"
+
+#: inc_php/unitecreator_client_text.php:131
+#: inc_php/unitecreator_client_text.php:157
+msgid "Delete Section"
+msgstr "Удалить раздел"
+
+#: inc_php/unitecreator_client_text.php:130
+msgid "Copy Row"
+msgstr "Копировать строку"
+
+#: inc_php/unitecreator_client_text.php:129
+msgid "Duplicate Row"
+msgstr "Дублировать строку"
+
+#: inc_php/unitecreator_client_text.php:126
+msgid "Choose Addon"
+msgstr "Выбрать аддон"
+
+#: inc_php/unitecreator_browser.class.php:845
+#: inc_php/unitecreator_client_text.php:125
+#: provider/wpml_integrate.class.php:51
+msgid "Not Selected"
+msgstr "Не выбрано"
+
+#: inc_php/unitecreator_client_text.php:124
+msgid "Never Include"
+msgstr "Никогда не включать"
+
+#: inc_php/unitecreator_client_text.php:122
+#: views/objects/addon_view.class.php:643
+msgid "Include Settings"
+msgstr "Настройки включения"
+
+#: inc_php/unitecreator_client_text.php:121
+msgid "Add Include"
+msgstr "Добавить включение"
+
+#: inc_php/unitecreator_client_text.php:120
+msgid "Delete Include"
+msgstr "Удалить включение"
+
+#: inc_php/unitecreator_client_text.php:119
+msgid "Bulk"
+msgstr "Несколько"
+
+#: inc_php/unitecreator_assets.class.php:1156
+#: inc_php/unitecreator_client_text.php:115
+msgid "Edit File"
+msgstr "Редактировать файл"
+
+#: inc_php/unitecreator_client_text.php:114
+#: provider/core/plugins/unlimited_elements/elementor/controls/control_audio.php:40
+msgid "Choose Audio"
+msgstr "Выбрать аудио"
+
+#: inc_php/unitecreator_client_text.php:107
+#: inc_php/unitecreator_dialog_param.class.php:221
+msgid "Text Shadow"
+msgstr "Тень текста"
+
+#: inc_php/unitecreator_client_text.php:106
+#: inc_php/unitecreator_dialog_param.class.php:223
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:694
+msgid "Date Time"
+msgstr "Дата и время"
+
+#: inc_php/unitecreator_client_text.php:104
+msgid "Backgound"
+msgstr "Фон"
+
+#: inc_php/unitecreator_client_text.php:99
+msgid "Image Fields"
+msgstr "Поля изображений"
+
+#: inc_php/unitecreator_client_text.php:98
+#: inc_php/unitecreator_dialog_param.class.php:184
+msgid "Font Override"
+msgstr "Переопределение шрифта"
+
+#: inc_php/unitecreator_client_text.php:96
+#: inc_php/unitecreator_dialog_param.class.php:198
+msgid "Users List"
+msgstr "Список пользователей"
+
+#: inc_php/unitecreator_client_text.php:95
+msgid "Post Terms"
+msgstr "Термины записи"
+
+#: inc_php/unitecreator_client_text.php:92
+#: inc_php/unitecreator_dialog_param.class.php:193
+msgid "Posts List"
+msgstr "Список записей"
+
+#: inc_php/unitecreator_client_text.php:88
+msgid "Google Map Picker"
+msgstr "Выбор карт Google"
+
+#: inc_php/unitecreator_client_text.php:87
+#: inc_php/unitecreator_dialog_param.class.php:185
+msgid "Addon Picker"
+msgstr "Выбор аддонов"
+
+#: inc_php/unitecreator_client_text.php:86
+msgid "Shape Picker"
+msgstr "Выбор форм"
+
+#: inc_php/unitecreator_client_text.php:84
+msgid "Icon Picker"
+msgstr "Выбор значков"
+
+#: inc_php/unitecreator_client_text.php:82
+#: inc_php/unitecreator_dialog_param.class.php:179
+msgid "Color Picker"
+msgstr "Выбор цвета"
+
+#: inc_php/unitecreator_client_text.php:77
+#: inc_php/unitecreator_dialog_param.class.php:173
+msgid "Radio Boolean"
+msgstr "Радио (логический)"
+
+#: inc_php/unitecreator_client_text.php:75
+#: inc_php/unitecreator_dialog_param.class.php:177
+msgid "Dropdown"
+msgstr "Выпадающий список"
+
+#: inc_php/unitecreator_client_text.php:74
+#: inc_php/unitecreator_dialog_param.class.php:176
+msgid "Checkbox"
+msgstr "Чекбокc"
+
+#: inc_php/unitecreator_client_text.php:73
+#: inc_php/unitecreator_dialog_param.class.php:174
+msgid "Text Area"
+msgstr "Текстовая область"
+
+#: inc_php/unitecreator_client_text.php:70
+msgid "Are you sure you want to delete these addons?"
+msgstr "Вы уверены, что хотите удалить эти аддоны?"
+
+#: inc_php/unitecreator_client_text.php:69
+msgid "Moving..."
+msgstr "Перемещение ..."
+
+#: inc_php/unitecreator_client_text.php:68
+msgid "Copying..."
+msgstr "Копирование..."
+
+#: inc_php/unitecreator_client_text.php:66
+msgid "Updating Order..."
+msgstr "Обновление порядка ..."
+
+#: inc_php/unitecreator_client_text.php:65
+msgid "Duplicating..."
+msgstr "Дублирование..."
+
+#: inc_php/unitecreator_client_text.php:64
+msgid "Updating Title..."
+msgstr "Обновление заголовка..."
+
+#: inc_php/unitecreator_client_text.php:62
+msgid "Add Addon To Column"
+msgstr "Добавить аддон в столбец"
+
+#: inc_php/unitecreator_client_text.php:61
+msgid "Set Addon"
+msgstr "Установить аддон"
+
+#: inc_php/unitecreator_client_text.php:60
+msgid "Updating Categories Order..."
+msgstr "Обновление порядка категорий ..."
+
+#: inc_php/unitecreator_client_text.php:59
+msgid "Duplicate Addon"
+msgstr "Дублировать аддон"
+
+#: inc_php/unitecreator_client_text.php:58
+msgid "Delete Addon"
+msgstr "Удалить аддон"
+
+#: inc_php/unitecreator_client_text.php:57
+msgid "Addon Container Settings"
+msgstr "Настройки контейнера аддона"
+
+#: inc_php/unitecreator_client_text.php:56
+msgid "Edit Addon"
+msgstr "Редактировать аддон"
+
+#: inc_php/unitecreator_client_text.php:53
+msgid "Restoring..."
+msgstr "Восстановление..."
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1278
+#: inc_php/unitecreator_client_text.php:52
+#: inc_php/unitecreator_client_text.php:67
+#: views/objects/addon_view.class.php:1172
+#: views/objects/addon_view.class.php:1198
+msgid "Updating..."
+msgstr "Обновление..."
+
+#: inc_php/manager/unitecreator_manager_inline.class.php:100
+#: inc_php/manager/unitecreator_manager_inline.class.php:165
+#: inc_php/manager/unitecreator_manager_inline.class.php:187
+#: inc_php/unitecreator_client_text.php:47
+msgid "Edit Item"
+msgstr "Редактировать элемент"
+
+#: inc_php/unitecreator_client_text.php:46
+msgid "Update Item"
+msgstr "Обновить элемент"
+
+#: inc_php/unitecreator_client_text.php:38
+msgid "Search Layout"
+msgstr "Поиск макета"
+
+#: inc_php/unitecreator_client_text.php:37
+msgid "Addon Library"
+msgstr "Библиотека аддонов"
+
+#: inc_php/unitecreator_client_text.php:36
+msgid "Are you sure to delete this layout?"
+msgstr "Вы уверены, что хотите удалить этот макет?"
+
+#: inc_php/unitecreator_client_text.php:35
+msgid "Select layouts export file"
+msgstr "Выберите файл экспорта макетов"
+
+#: inc_php/unitecreator_client_text.php:34
+msgid "Set Category To Layout"
+msgstr "Установить категорию в макет"
+
+#: inc_php/unitecreator_client_text.php:33
+msgid "Manage Layout Categories"
+msgstr "Управление категориями макета"
+
+#: inc_php/unitecreator_client_text.php:32
+msgid "Preview Layout"
+msgstr "Предпросмотр макета"
+
+#: inc_php/unitecreator_client_text.php:31
+msgid "Layout Saved"
+msgstr "Макет сохранен"
+
+#: inc_php/unitecreator_client_text.php:30
+msgid "Layout Imported"
+msgstr "Макет импортирован"
+
+#: inc_php/unitecreator_actions.class.php:344
+#: inc_php/unitecreator_client_text.php:29
+msgid "Layout Updated"
+msgstr "Макет обновлен"
+
+#: inc_php/unitecreator_client_text.php:28
+msgid "Layout Created"
+msgstr "Макет создан"
+
+#: inc_php/unitecreator_client_text.php:27
+msgid "Uploading Layouts file..."
+msgstr "Загрузка файла макетов..."
+
+#: inc_php/unitecreator_client_text.php:26
+msgid "Layouts Added Successfully"
+msgstr "Макеты успешно добавлены"
+
+#: inc_php/unitecreator_client_text.php:25
+msgid "All Layouts"
+msgstr "Все макеты"
+
+#: inc_php/unitecreator_client_text.php:24
+msgid "Layout Duplicated"
+msgstr "Макет дублирован"
+
+#: inc_php/unitecreator_client_text.php:23
+msgid "Layout Deleted"
+msgstr "Макет удален"
+
+#: inc_php/unitecreator_client_text.php:22
+msgid "My Layouts"
+msgstr "Мои макеты"
+
+#: inc_php/unitecreator_client_text.php:21
+msgid "Back to layouts list"
+msgstr "Вернуться к списку макетов"
+
+#: inc_php/unitecreator_client_text.php:20
+msgid "Edit Layout"
+msgstr "Редактировать макет"
+
+#: inc_php/unitecreator_client_text.php:19
+msgid "Layout Title"
+msgstr "Заголовок макета"
+
+#: inc_php/unitecreator_client_text.php:18
+msgid "No Layouts Found"
+msgstr "Макеты не найдены"
+
+#: inc_php/unitecreator_client_text.php:17
+msgid "Save Layout Settings"
+msgstr "Сохранить настройки макета"
+
+#: inc_php/unitecreator_client_text.php:16
+msgid "Layouts Global Settings"
+msgstr "Глобальные настройки макетов"
+
+#: inc_php/unitecreator_client_text.php:15
+msgid "Import Layouts"
+msgstr "Импорт макетов"
+
+#: inc_php/unitecreator_client_text.php:14
+msgid "Import Layout"
+msgstr "Импорт макета"
+
+#: inc_php/unitecreator_client_text.php:13
+msgid "New Layout"
+msgstr "Новый макет"
+
+#: inc_php/unitecreator_assets_work.class.php:430
+msgid "File Saved"
+msgstr "Файл сохранен"
+
+#: inc_php/unitecreator_assets_work.class.php:333
+msgid "files moved successfully"
+msgstr "файлы успешно перемещены"
+
+#: inc_php/layouts/unitecreator_layout.class.php:1763
+msgid "Error in "
+msgstr "Ошибка в "
+
+#: inc_php/layouts/unitecreator_layout.class.php:1621
+msgid "sections"
+msgstr "разделы"
+
+#: inc_php/layouts/unitecreator_layout.class.php:1621
+msgid "layout with"
+msgstr "макет с"
+
+#: inc_php/layouts/unitecreator_layout.class.php:1605
+msgid "empty layout"
+msgstr "пустой макет"
+
+#: inc_php/layouts/unitecreator_layouts.class.php:533
+msgid "Title Saved"
+msgstr "Заголовок сохранен"
+
+#: inc_php/unitecreator_helperhtml.class.php:541
+msgid "only dropdown and radio boolean field types are used for conditional inputs"
+msgstr "для условного ввода используются только выпадающий список и радио-логические поля"
+
+#: inc_php/unitecreator_helperhtml.class.php:111
+msgid "Saving to library"
+msgstr "Сохранение в библиотеку"
+
+#: inc_php/unitecreator_client_text.php:135
+#: inc_php/unitecreator_helperhtml.class.php:110
+msgid "Save To Library"
+msgstr "Сохранить в библиотеку"
+
+#: inc_php/unitecreator_helperhtml.class.php:109
+#: views/objects/layouts_view.class.php:513
+#: views/objects/objects_list_view.class.php:188
+msgid "Duplicating"
+msgstr "Дублирование"
+
+#: inc_php/unitecreator_helperhtml.class.php:107
+#: views/objects/layouts_view.class.php:511
+#: views/objects/objects_list_view.class.php:184
+msgid "Deleting"
+msgstr "Удаление"
+
+#: inc_php/unitecreator_assets.class.php:1256
+#: inc_php/unitecreator_client_text.php:55
+#: inc_php/unitecreator_helperhtml.class.php:105
+#: views/objects/layouts_view.class.php:57
+#: views/objects/objects_list_view.class.php:181
+msgid "Edit"
+msgstr "Редактировать"
+
+#: inc_php/unitecreator_helperhtml.class.php:62
+msgid "not chosen"
+msgstr "не выбрано"
+
+#: inc_php/unitecreator_form.class.php:311
+msgid "Please fill"
+msgstr "Пожалуйста, заполните"
+
+#: inc_php/unitecreator_form.class.php:87
+msgid "Thank you text"
+msgstr "Текст Спасибо"
+
+#: inc_php/unitecreator_form.class.php:84
+msgid "Loading Text"
+msgstr "Текст загрузки"
+
+#: inc_php/unitecreator_form.class.php:81
+msgid "Send Button Text"
+msgstr "Текст кнопки Отправить"
+
+#: inc_php/unitecreator_form.class.php:76
+msgid "you can change it in"
+msgstr "вы можете изменить его в"
+
+#: inc_php/unitecreator_form.class.php:76
+msgid "Admin Email"
+msgstr "Email администратора"
+
+#: inc_php/unitecreator_form.class.php:74
+msgid "Please fill admin email in"
+msgstr "Пожалуйста, укажите email администратора в"
+
+#: inc_php/unitecreator_params_processor.class.php:1450
+msgid "No items in "
+msgstr "Нет элементов в "
+
+#: inc_php/unitecreator_params_processor.class.php:1416
+msgid "No menu selected"
+msgstr "Меню не выбрано"
+
+#: inc_php/unitecreator_params_processor.class.php:1125
+msgid "Instagram Gallery Error: "
+msgstr "Ошибка галереи Instagram: "
+
+#: inc_php/unitecreator_settings_output.class.php:1259
+#: inc_php/unitecreator_settings_output.class.php:1261
+msgid "Edit Addon Items"
+msgstr "Редактировать элементы аддона"
+
+#: inc_php/unitecreator_settings_output.class.php:1218
+msgid "Edit Fonts"
+msgstr "Редактировать шрифты"
+
+#: inc_php/unitecreator_settings_output.class.php:1152
+msgid "Enable Styles"
+msgstr "Включить стили"
+
+#: inc_php/unitecreator_settings_output.class.php:1026
+#: inc_php/unitecreator_settings_output.class.php:1186
+msgid "Custom Styles"
+msgstr "Пользовательские стили"
+
+#: inc_php/unitecreator_settings_output.class.php:1002
+msgid "Text Decoration"
+msgstr "Оформление текста"
+
+#: inc_php/unitecreator_settings_output.class.php:987
+msgid "Font Size - Mobile (px)"
+msgstr "Размер шрифта - Мобильный (px)"
+
+#: inc_php/unitecreator_settings_output.class.php:984
+msgid "Font Size - Tablet (px)"
+msgstr "Размер шрифта - Планшет (px)"
+
+#: inc_php/unitecreator_settings_output.class.php:981
+msgid "Font Size (px)"
+msgstr "Размер шрифта (px)"
+
+#: inc_php/unitecreator_settings_output.class.php:964
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: inc_php/unitecreator_settings_output.class.php:958
+msgid "From Page Font"
+msgstr "Со страницы шрифта"
+
+#: inc_php/unitecreator_settings_output.class.php:933
+msgid "Select Text Decoration"
+msgstr "Выбрать оформления текста"
+
+#: inc_php/unitecreator_settings_output.class.php:930
+#: inc_php/unitecreator_settings_output.class.php:932
+#: inc_php/unitecreator_settings_output.class.php:935
+msgid "Select"
+msgstr "Выбрать"
+
+#: inc_php/unitecreator_settings_output.class.php:928
+msgid "Select Font Family"
+msgstr "Выбрать семейство шрифтов"
+
+#: inc_php/unitecreator_settings_output.class.php:926
+msgid "---- Select Page Font----"
+msgstr "---- Выбрать шрифт страницы----"
+
+#: inc_php/unitecreator_settings_output.class.php:528
+#: inc_php/unitecreator_settings_output.class.php:578
+msgid "Please select assets path"
+msgstr "Пожалуйста, выберите путь к ресурсам (assets)"
+
+#: inc_php/unitecreator_settings_output.class.php:156
+msgid "Click Me"
+msgstr "Нажми на меня"
+
+#: inc_php/unitecreator_actions.class.php:415
+#: inc_php/unitecreator_settings_output.class.php:129
+msgid "Section Saved"
+msgstr "Раздел сохранен"
+
+#: inc_php/unitecreator_settings_output.class.php:127
+msgid "Save Section"
+msgstr "Сохранить раздел"
+
+#: inc_php/unitecreator_browser.class.php:363
+#: inc_php/unitecreator_globals.class.php:263
+#: views/objects/addon_view.class.php:400
+#: views/objects/layouts_view.class.php:458
+#: views/objects/objects_list_view.class.php:146
+msgid "Category"
+msgstr "Категория"
+
+#: inc_php/addontypes/unitecreator_addontype.class.php:54
+#: inc_php/unitecreator_globals.class.php:262
+msgid "Addon"
+msgstr "Аддон"
+
+#. Author of the plugin
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:21
+#: provider/provider_client_text.php:10
+msgid "Unlimited Elements"
+msgstr "Unlimited Elements"
+
+#. Description of the plugin
+msgid "Unlimited Elements - Huge Widgets Pack for Elementor Website Builder, with html/css/js widget creator and editor"
+msgstr "Unlimited Elements - Огромный пакет виджетов для конструктора сайтов Elementor, с создателем и редактором виджетов html/css/js"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://unlimited-elements.com"
+msgstr "http://unlimited-elements.com"
+
+#. Plugin Name of the plugin
+#: provider/core/plugins/unlimited_elements/plugin.php:32
+msgid "Unlimited Elements for Elementor"
+msgstr "Unlimited Elements for Elementor"
+
+#: inc_php/unitecreator_client_text.php:105
+#: inc_php/unitecreator_dialog_param.class.php:219
+msgid "Border"
+msgstr "Граница"
+
+#: inc_php/framework/settings_advances.class.php:208
+#: inc_php/framework/settings_advances.class.php:226
+#: inc_php/unitecreator_settings_output.class.php:298
+#: inc_php/unitecreator_settings_output.class.php:308
+#: inc_php/unitecreator_settings_output.class.php:682
+msgid "Bottom"
+msgstr "Низ"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2092
+#: inc_php/unitecreator_assets.class.php:1216
+#: inc_php/unitecreator_client_text.php:49
+msgid "Cancel"
+msgstr "Отменить"
+
+#: inc_php/manager/unitecreator_manager.class.php:192
+#: inc_php/unitecreator_browser.class.php:381
+msgid "Categories"
+msgstr "Рубрики"
+
+#: inc_php/unitecreator_client_text.php:113
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:160
+msgid "Choose Image"
+msgstr "Выберите изображение"
+
+#: inc_php/unitecreator_dialog_param.class.php:191
+#: inc_php/unitecreator_params_editor.class.php:107
+#: provider/core/plugins/unlimited_elements/elementor/control_example.php:26
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc_php/unitecreator_client_text.php:43
+msgid "Empty"
+msgstr "Пусто"
+
+#: inc_php/unitecreator_addon.class.php:1851
+#: inc_php/unitecreator_params_editor.class.php:115
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2249
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2531
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:3119
+#: views/objects/addon_view.class.php:471
+msgid "General"
+msgstr "Общие"
+
+#: inc_php/unitecreator_form.class.php:69
+#: inc_php/unitecreator_settings.class.php:342
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:111
+#: provider/core/plugins/unlimited_elements/views/settingselementor.php:58
+#: views/objects/mappicker_view.class.php:192 views/settings.php:52
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: inc_php/unitecreator_client_text.php:85
+#: inc_php/unitecreator_dialog_param.class.php:189
+msgid "Icon Library"
+msgstr "Библиотека иконок"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1440
+#: inc_php/manager/unitecreator_manager_addons.class.php:1449
+msgid "Import Template"
+msgstr "Импортировать шаблон"
+
+#: inc_php/framework/settings_advances.class.php:192
+#: inc_php/framework/settings_advances.class.php:221
+#: inc_php/unitecreator_settings_output.class.php:299
+#: inc_php/unitecreator_settings_output.class.php:685
+msgid "Left"
+msgstr "Лево"
+
+#: inc_php/unitecreator_client_text.php:94
+msgid "Margin"
+msgstr "Отступ снаружи"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1195
+#: inc_php/unitecreator_dialog_param.class.php:1765
+#: inc_php/unitecreator_params_editor.class.php:203
+#: provider/functions_wordpress.class.php:1349
+#: provider/provider_settings_multisource.class.php:108
+msgid "Name"
+msgstr "Имя"
+
+#: inc_php/unitecreator_client_text.php:44
+#: views/objects/layouts_view.class.php:60
+msgid "New"
+msgstr "Новые"
+
+#: inc_php/unitecreator_client_text.php:81
+#: inc_php/unitecreator_dialog_param.class.php:172
+msgid "Number"
+msgstr "Номер"
+
+#: inc_php/unitecreator_client_text.php:93
+#: inc_php/unitecreator_dialog_param.class.php:216
+msgid "Padding"
+msgstr "Отступ внутри"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1563
+#: inc_php/manager/unitecreator_manager_addons.class.php:2223
+#: inc_php/manager/unitecreator_manager_addons.class.php:2235
+#: inc_php/unitecreator_browser.class.php:604
+#: inc_php/unitecreator_output.class.php:1084
+#: views/objects/layouts_view.class.php:462
+#: views/objects/layouts_view.class.php:518
+#: views/objects/objects_list_view.class.php:150
+#: views/objects/objects_list_view.class.php:195
+msgid "Preview"
+msgstr "Смотреть"
+
+#: inc_php/framework/settings_advances.class.php:194
+#: inc_php/framework/settings_advances.class.php:223
+#: inc_php/unitecreator_settings_output.class.php:297
+#: inc_php/unitecreator_settings_output.class.php:679
+msgid "Right"
+msgstr "Право"
+
+#: inc_php/addontypes/unitecreator_addontype_layout_section.class.php:23
+#: inc_php/unitecreator_client_text.php:147
+msgid "Section"
+msgstr "Секция"
+
+#: inc_php/addontypes/unitecreator_addontype_layout_section.class.php:24
+#: views/library.php:44 views/objects/views_chooser.class.php:54
+msgid "Sections"
+msgstr "Секции"
+
+#: inc_php/framework/settings_advances.class.php:206
+#: inc_php/framework/settings_advances.class.php:224
+#: inc_php/unitecreator_settings_output.class.php:296
+#: inc_php/unitecreator_settings_output.class.php:307
+#: inc_php/unitecreator_settings_output.class.php:676
+msgid "Top"
+msgstr "Верх"
+
+#: inc_php/unitecreator_client_text.php:79
+#: inc_php/unitecreator_dialog_param.class.php:214
+msgid "Typography"
+msgstr "Типографика"

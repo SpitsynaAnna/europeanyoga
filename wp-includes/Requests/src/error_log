@@ -1,0 +1,4 @@
+[26-Aug-2023 19:15:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\HookManager' not found in /home/europea8/public_html/euyws/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/Requests/src/Hooks.php on line 19

@@ -1,0 +1,42 @@
+2023-01-19T22:22:32+00:00 CRITICAL Uncaught Exception: Unable to get range edges in /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/replicastore/class-table-checksum.php:713
+Stack trace:
+#0 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-replicastore.php(1415): Automattic\Jetpack\Sync\Replicastore\Table_Checksum->get_range_edges(NULL, NULL)
+#1 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-replicastore.php(1323): Automattic\Jetpack\Sync\Replicastore->calculate_buckets('postmeta', NULL, NULL)
+#2 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-replicastore.php(288): Automattic\Jetpack\Sync\Replicastore->checksum_histogram('postmeta', NULL, NULL, NULL)
+#3 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/ в /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/replicastore/class-table-checksum.php на строке 713
+
+2023-01-19T22:22:35+00:00 CRITICAL Uncaught Exception: Unable to get range edges in /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/replicastore/class-table-checksum.php:713
+Stack trace:
+#0 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-replicastore.php(1415): Automattic\Jetpack\Sync\Replicastore\Table_Checksum->get_range_edges(NULL, NULL)
+#1 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-replicastore.php(1323): Automattic\Jetpack\Sync\Replicastore->calculate_buckets('postmeta', NULL, NULL)
+#2 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-replicastore.php(288): Automattic\Jetpack\Sync\Replicastore->checksum_histogram('postmeta', NULL, NULL, NULL)
+#3 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/ в /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/replicastore/class-table-checksum.php на строке 713
+
+2023-01-19T22:22:38+00:00 CRITICAL Uncaught Exception: Unable to get range edges in /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/replicastore/class-table-checksum.php:713
+Stack trace:
+#0 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-replicastore.php(1415): Automattic\Jetpack\Sync\Replicastore\Table_Checksum->get_range_edges(NULL, NULL)
+#1 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-replicastore.php(1323): Automattic\Jetpack\Sync\Replicastore->calculate_buckets('postmeta', NULL, NULL)
+#2 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-rest-endpoints.php(432): Automattic\Jetpack\Sync\Replicastore->checksum_histogram('postmeta', 0, NULL, NULL, NULL, true, '', true, false, false)
+#3 /home/triple4k/testing.com.ua/yoga-test/wp-includes/rest-api/class-wp-rest-s в /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/replicastore/class-table-checksum.php на строке 713
+
+2023-01-19T22:22:41+00:00 CRITICAL Uncaught Exception: Unable to get range edges in /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/replicastore/class-table-checksum.php:713
+Stack trace:
+#0 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-replicastore.php(1415): Automattic\Jetpack\Sync\Replicastore\Table_Checksum->get_range_edges(NULL, NULL)
+#1 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-replicastore.php(1323): Automattic\Jetpack\Sync\Replicastore->calculate_buckets('postmeta', NULL, NULL)
+#2 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-rest-endpoints.php(432): Automattic\Jetpack\Sync\Replicastore->checksum_histogram('postmeta', 0, NULL, NULL, NULL, true, '', true, false, false)
+#3 /home/triple4k/testing.com.ua/yoga-test/wp-includes/rest-api/class-wp-rest-s в /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/replicastore/class-table-checksum.php на строке 713
+
+2023-01-19T22:22:48+00:00 CRITICAL Uncaught Exception: Unable to get range edges in /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/replicastore/class-table-checksum.php:713
+Stack trace:
+#0 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-replicastore.php(1415): Automattic\Jetpack\Sync\Replicastore\Table_Checksum->get_range_edges(NULL, NULL)
+#1 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-replicastore.php(1323): Automattic\Jetpack\Sync\Replicastore->calculate_buckets('commentmeta', NULL, NULL)
+#2 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-rest-endpoints.php(432): Automattic\Jetpack\Sync\Replicastore->checksum_histogram('commentmeta', 0, NULL, NULL, NULL, true, '', true, false, false)
+#3 /home/triple4k/testing.com.ua/yoga-test/wp-includes/rest-api/class-wp- в /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/replicastore/class-table-checksum.php на строке 713
+
+2023-01-19T22:22:52+00:00 CRITICAL Uncaught Exception: Unable to get range edges in /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/replicastore/class-table-checksum.php:713
+Stack trace:
+#0 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-replicastore.php(1415): Automattic\Jetpack\Sync\Replicastore\Table_Checksum->get_range_edges(NULL, NULL)
+#1 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-replicastore.php(1323): Automattic\Jetpack\Sync\Replicastore->calculate_buckets('commentmeta', NULL, NULL)
+#2 /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/class-rest-endpoints.php(432): Automattic\Jetpack\Sync\Replicastore->checksum_histogram('commentmeta', 0, NULL, NULL, NULL, true, '', true, false, false)
+#3 /home/triple4k/testing.com.ua/yoga-test/wp-includes/rest-api/class-wp- в /home/triple4k/testing.com.ua/yoga-test/wp-content/plugins/woocommerce-payments/vendor/automattic/jetpack-sync/src/replicastore/class-table-checksum.php на строке 713
+

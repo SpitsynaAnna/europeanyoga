@@ -1,0 +1,21 @@
+[23-Aug-2023 22:04:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/europea8/public_html/euyws/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[27-Aug-2023 07:03:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/europea8/public_html/euyws/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[27-Aug-2023 12:41:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/europea8/public_html/euyws/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[27-Aug-2023 14:28:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/europea8/public_html/euyws/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[28-Aug-2023 05:54:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/europea8/public_html/euyws/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/europea8/public_html/euyws/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16

@@ -1,0 +1,32 @@
+[23-Aug-2023 19:32:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/europea8/public_html/euyws/wp-includes/block-supports/border.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/block-supports/border.php on line 168
+[24-Aug-2023 13:01:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/europea8/public_html/euyws/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/block-supports/settings.php on line 151
+[25-Aug-2023 06:26:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/europea8/public_html/euyws/wp-includes/block-supports/typography.php:619
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/block-supports/typography.php on line 619
+[26-Aug-2023 08:11:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/europea8/public_html/euyws/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/block-supports/position.php on line 145
+[27-Aug-2023 07:23:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/europea8/public_html/euyws/wp-includes/block-supports/layout.php:751
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/block-supports/layout.php on line 751
+[27-Aug-2023 09:16:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/europea8/public_html/euyws/wp-includes/block-supports/dimensions.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/block-supports/dimensions.php on line 82
+[27-Aug-2023 14:08:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/europea8/public_html/euyws/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/block-supports/generated-classname.php on line 66
+[28-Aug-2023 03:10:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/europea8/public_html/euyws/wp-includes/block-supports/elements.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/block-supports/elements.php on line 125

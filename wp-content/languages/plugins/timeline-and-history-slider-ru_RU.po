@@ -1,0 +1,584 @@
+# Translation of Plugins - Timeline and History slider - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Timeline and History slider - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-22 15:51:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Timeline and History slider - Development (trunk)\n"
+
+#: includes/admin/wpostahs-how-it-work.php:45
+#: includes/admin/wpostahs-how-it-work.php:179
+msgid "Grab Now"
+msgstr "Приобрести сейчас"
+
+#: includes/admin/class-wpostahs-admin.php:46
+msgid "Upgrade To Premium"
+msgstr "Обновить до Premium"
+
+#: includes/admin/wpostahs-how-it-work.php:178
+msgid "Gain access to <strong>Timeline and History slider</strong>"
+msgstr "Получите доступ к <strong>Timeline and History slider</strong>"
+
+#: includes/admin/settings/trail-premium.php:15
+msgid "Essential Plugin Bundle Free Trial"
+msgstr "Бесплатная пробная версия - Essential Plugin Bundle"
+
+#: includes/admin/settings/trail-premium.php:15
+msgid "Timeline Slider with "
+msgstr "Timeline Slider with с "
+
+#: includes/admin/wpostahs-how-it-work.php:102
+msgid "Check Documentation"
+msgstr "Ознакомиться с документацией"
+
+#: includes/admin/wpostahs-how-it-work.php:36
+msgid "Need Support & Solutions?"
+msgstr "Нужна поддержка и решения?"
+
+#: includes/admin/wpostahs-how-it-work.php:44
+msgid "Boost design and best solution for your website."
+msgstr "Лучший дизайн и лучшее решение для вашего сайта."
+
+#. Author of the plugin
+msgid "WP OnlineSupport, Essential Plugin"
+msgstr "WP OnlineSupport, Essential Plugin"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.essentialplugin.com/wordpress-plugin/timeline-history-slider/"
+msgstr "https://www.essentialplugin.com/wordpress-plugin/timeline-history-slider/"
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:20
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:30
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:40
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:20
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:28
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:37
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:46
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:55
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:63
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:71
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:79
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:87
+msgid "PRO"
+msgstr "PRO"
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:63
+msgid "Shortcode Generator "
+msgstr "Генератор шорткодов "
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:66
+msgid "Play with all shortcode parameters with preview panel. No documentation required."
+msgstr "Воспроизведение всех параметров шорткада с помощью панели предварительного просмотра. Документация не требуется."
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:74
+msgid "Arrange your desired slides with your desired order and display."
+msgstr "Расположите слайды в нужном порядке и отобразите их."
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:82
+msgid "Gutenberg Block, Elementor, Bevear Builder, SiteOrigin, Divi, Visual Composer and Fusion Page Builder Support"
+msgstr "Поддержка блоков Gutenberg, Elementor, Bevear Builder, SiteOrigin, Divi, Visual Composer и Fusion Page Builder"
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:20
+msgid "Layouts "
+msgstr "Макеты "
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:24
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:24
+msgid "Clear"
+msgstr "Очистить"
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:28
+msgid "Designs "
+msgstr "Дизайны "
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:71
+msgid "Drag & Drop Slide Order Change "
+msgstr "Перетащить и изменить порядок слайдов "
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:79
+msgid "Page Builder Support "
+msgstr "Поддержка Page Builder "
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:40
+msgid "Read More Link "
+msgstr "Ссылка Подробнее "
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:44
+msgid "Enter read more link. You can add external link also. Leave empty to use default post link. ie "
+msgstr "Введите ссылку Подробнее. Вы также можете добавить внешнюю ссылку. Оставьте пустым, чтобы использовать ссылку для публикации по умолчанию. то есть "
+
+#: includes/admin/class-wpostahs-admin.php:77
+msgid "Timeline - Settings"
+msgstr "Временная шкала - Настройки"
+
+#: includes/admin/class-wpostahs-admin.php:79
+msgid "More Premium - Settings"
+msgstr "Премиум - Настройки"
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:20
+msgid "Timeline Custom Icon "
+msgstr "Пользовательский значок временной шкалы "
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:30
+msgid "Timeline Fa Icon "
+msgstr "Fa значок временной шкалы "
+
+#: includes/admin/metabox/wpostahs-post-sett-metabox-pro.php:34
+msgid "For example :"
+msgstr "Например :"
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:46
+msgid "Show/hide post link "
+msgstr "Показать/скрыть ссылку на запись "
+
+#: wpos-plugins/includes/admin/views/dashboard.php:269
+msgid "Last Updated:"
+msgstr "Последнее обновление:"
+
+#. translators: %s: Human-readable time difference.
+#: wpos-plugins/includes/admin/views/dashboard.php:272
+msgid "%s ago"
+msgstr "%s назад"
+
+#. translators: %s: Number of millions.
+#: wpos-plugins/includes/admin/views/dashboard.php:282
+msgctxt "Active plugin installations"
+msgid "%s+ Million"
+msgid_plural "%s+ Million"
+msgstr[0] "Более %s миллиона"
+msgstr[1] "Более %s миллионов"
+msgstr[2] "Более %s миллионов"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:286
+msgctxt "Active plugin installations"
+msgid "Less Than 10"
+msgstr "Менее 10"
+
+#. translators: %s: Number of installations.
+#: wpos-plugins/includes/admin/views/dashboard.php:291
+msgid "%s Active Installations"
+msgstr "%s Активные установки"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:298
+msgid "Untested with your version of WordPress"
+msgstr "Не тестировалось с вашей версией WordPress"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:300
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr "<strong>Несовместимо</strong> с вашей версией WordPress"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:302
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr "<strong>Совместимо</strong> с вашей версией WordPress"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:313
+msgid "Sorry, No result found. Please refine your search."
+msgstr "Извините, ничего не найдено. Уточните свой поиск."
+
+#: includes/admin/wpostahs-how-it-work.php:113
+msgid "Gutenberg Support"
+msgstr "Поддержка Gutenberg"
+
+#: includes/admin/wpostahs-how-it-work.php:121
+msgid "How it Work"
+msgstr "Как это работает"
+
+#: includes/admin/wpostahs-how-it-work.php:125
+msgid "Step-1. Go to the Gutenberg editor of your page."
+msgstr "Шаг 1. Перейдите в редактор Gutenberg вашей страницы."
+
+#: wpos-plugins/includes/admin/class-espbw-admin.php:36
+msgid "Install Popular Plugins From WPOS"
+msgstr "Установка популярных плагинов из WPOS"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:44
+msgid "Sorry, It looks like that you do not have permission to install the plugin."
+msgstr "Извините, похоже, у вас нет разрешения на установку плагина."
+
+#: wpos-plugins/includes/admin/views/dashboard.php:45
+#: wpos-plugins/includes/admin/views/dashboard.php:320
+msgid "You can take a look at our all plugins at"
+msgstr "Вы можете ознакомиться со всеми нашими плагинами на"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:45
+#: wpos-plugins/includes/admin/views/dashboard.php:320
+msgid "here"
+msgstr "здесь"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:59
+msgid "Essential Plugin"
+msgstr "Essential Plugin"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:67
+msgid "All Essential Plugins"
+msgstr "Все основные плагины"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:68
+msgid "Utility Plugins"
+msgstr "Плагины утилит"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:69
+msgid "Inbound Marketing"
+msgstr "Inbound Marketing (входящий маркетинг)"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:70
+msgid "Sliders"
+msgstr "Слайдеры"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:71
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:76
+msgid "Search Plugins e.g popup"
+msgstr "Поиск плагинов, например, popup"
+
+#. translators: %s: Plugin author.
+#: wpos-plugins/includes/admin/views/dashboard.php:111
+msgid "By %s"
+msgstr "Автор %s"
+
+#. translators: %s: Plugin name and version.
+#: wpos-plugins/includes/admin/views/dashboard.php:140
+msgid "Install %s now"
+msgstr "Установить %s сейчас"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:142
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:147
+msgctxt "plugin"
+msgid "Cannot Install"
+msgstr "Невозможно установить"
+
+#. translators: %s: Plugin name and version.
+#: wpos-plugins/includes/admin/views/dashboard.php:162
+msgid "Update %s now"
+msgstr "Обновить %s сейчас"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:164
+msgid "Update Now"
+msgstr "Обновить сейчас"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:169
+msgctxt "plugin"
+msgid "Cannot Update"
+msgstr "Невозможно обновить"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:180
+msgctxt "plugin"
+msgid "Active"
+msgstr "Активные"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:183
+msgid "Activate"
+msgstr "Активировать"
+
+#. translators: %s: Plugin name.
+#: wpos-plugins/includes/admin/views/dashboard.php:185
+msgctxt "plugin"
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:196
+msgid "Network Activate"
+msgstr "Активировать для сети"
+
+#. translators: %s: Plugin name.
+#: wpos-plugins/includes/admin/views/dashboard.php:198
+msgctxt "plugin"
+msgid "Network Activate %s"
+msgstr "Активировать для сети %s"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:211
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Установлен"
+
+#. translators: %s: Plugin name and version.
+#: wpos-plugins/includes/admin/views/dashboard.php:222
+msgid "More information about %s"
+msgstr "Больше информации про %s"
+
+#: includes/admin/wpostahs-how-it-work.php:169
+msgid "WPBakery Page Builder Supports"
+msgstr "Поддержка WPBakery Page Builder"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:224
+msgid "More Details"
+msgstr "Детали"
+
+#: wpos-plugins/includes/admin/class-espbw-admin.php:36
+msgid "Essential Plugins Bundle By WP OnlineSuport"
+msgstr "Essential Plugins Bundle от WP OnlineSuport"
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:55
+msgid "WP Templating Features "
+msgstr "Возможности шаблонов WP "
+
+#: includes/admin/metabox/wpostahs-post-setting-metabox-pro.php:58
+msgid "You can modify plugin html/designs in your current theme."
+msgstr "Вы можете изменить html/дизайн плагина в вашей текущей теме."
+
+#: includes/admin/wpostahs-how-it-work.php:175
+msgid "Fully responsive"
+msgstr "Полная совместимость"
+
+#: includes/admin/wpostahs-how-it-work.php:176
+msgid "100% Multi language"
+msgstr "100% многоязычный"
+
+#: includes/admin/supports/gutenberg-block.php:147
+msgid "WPOS Blocks"
+msgstr "Блоки WPOS"
+
+#: includes/admin/wpostahs-how-it-work.php:143
+msgid "5 stars!"
+msgstr "5 звезд!"
+
+#: includes/admin/wpostahs-how-it-work.php:173
+msgid "WP Templating Features"
+msgstr "Возможности шаблонов WP"
+
+#: includes/admin/wpostahs-how-it-work.php:143
+msgid "Enjoyed this plugin? You can help by rate this plugin "
+msgstr "Понравился этот плагин? Вы можете помочь нам, поставив оценку этому плагину "
+
+#: includes/admin/wpostahs-how-it-work.php:174
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: includes/admin/wpostahs-how-it-work.php:159
+msgid "12+ cool designs"
+msgstr "12+ крутых дизайнов"
+
+#: includes/admin/wpostahs-how-it-work.php:160
+msgid "Create unlimited timeline stories inside your WordPress website or blog."
+msgstr "Создавайте неограниченные истории на временной шкале на своем веб-сайте или в блоге WordPress."
+
+#: includes/admin/wpostahs-how-it-work.php:162
+msgid "Vertical and Horizontal Timeline"
+msgstr "Вертикальная и горизонтальная временная шкала"
+
+#: includes/admin/wpostahs-how-it-work.php:163
+msgid "Also work with WordPress POST"
+msgstr "Также работайте с записью WordPress"
+
+#: includes/admin/wpostahs-how-it-work.php:165
+msgid "Timeline Stories Content Format – Add font awesome icon to display timeline stories format."
+msgstr "Формат содержания временных историй - Добавьте значок font awesome для отображения формата временных историй."
+
+#: includes/admin/wpostahs-how-it-work.php:166
+msgid "Timeline Scrolling Navigation – Quickly and easily navigate your timeline with a beautiful scrolling navigation inside your timeline."
+msgstr "Навигация по временной шкале с прокруткой — быстро и легко перемещайтесь по временной шкале с помощью красивой навигации по временной шкале."
+
+#: includes/admin/wpostahs-how-it-work.php:167
+msgid "Mobile Compatibility View"
+msgstr "Просмотр совместимости с мобильными устройствами"
+
+#: includes/admin/wpostahs-how-it-work.php:168
+msgid "Gutenberg Block Supports."
+msgstr "Поддержка блоков Gutenberg ."
+
+#: includes/admin/wpostahs-how-it-work.php:164
+msgid "Timeline Category Management – Add stories in specific category."
+msgstr "Управление рубриками временной шкалы — добавляйте истории в определенную рубрику."
+
+#: includes/admin/class-wpostahs-admin.php:135
+msgid "Timeline Shortcode"
+msgstr "Шорткод временной шкалы"
+
+#. Description of the plugin
+msgid "Timeline Plugin for WordPress. Easy to add and display history OR timeline for your WordPress website. Also support WordPress POST post type. Also work with Gutenberg shortcode block."
+msgstr "Плагин Timeline для WordPress. Легко добавляет и отображает историю ИЛИ временную шкалу для вашего сайта WordPress. Также поддерживает тип записи WordPress POST. Также работает с блоком шорткодов Gutenberg."
+
+#: timeline-and-history-slider.php:165
+msgid "Thank you for activating %s"
+msgstr "Спасибо за активацию %s"
+
+#: timeline-and-history-slider.php:166
+msgid "It looks like you had PRO version %s of this plugin activated. To avoid conflicts the extra version has been deactivated and we recommend you delete it."
+msgstr "Похоже, у вас активирована PRO версия %s этого плагина. Во избежание конфликтов дополнительная версия была деактивирована, и мы рекомендуем вам удалить ее."
+
+#: includes/admin/class-wpostahs-admin.php:46
+msgid "Upgrade To Premium -  Timeline and History slider"
+msgstr "Обновление до Premium - Timeline and History slider"
+
+#: wpos-analytics/includes/class-anylc-admin.php:224
+msgid "Opt Out"
+msgstr "Отказаться"
+
+#: wpos-analytics/includes/class-anylc-admin.php:230
+msgid "Opt In"
+msgstr "Принять участие"
+
+#: wpos-analytics/wpos-analytics.php:60 wpos-analytics/wpos-analytics.php:72
+#: wpos-plugins/wpos-recommendation.php:60
+#: wpos-plugins/wpos-recommendation.php:72
+msgid "Cheatin&#8217; huh?"
+msgstr "Хакер, что ли?"
+
+#: wpos-analytics/includes/class-anylc-admin.php:405
+#: wpos-analytics/includes/class-anylc-admin.php:424
+#: wpos-analytics/includes/class-anylc-admin.php:443
+#: wpos-plugins/includes/admin/views/dashboard.php:319
+msgid "Sorry, Something happened wrong."
+msgstr "Извините, что-то пошло не так."
+
+#: includes/admin/wpostahs-how-it-work.php:64
+msgid "Geeting Started with Timeline and History Slider"
+msgstr "Начало работы со слайдером временной шкалы и истории"
+
+#: includes/admin/class-wpostahs-admin.php:43
+msgid "How it works, our plugins and offers"
+msgstr "Как это работает, наши плагины и предложения"
+
+#: includes/admin/class-wpostahs-admin.php:43
+#: includes/admin/wpostahs-how-it-work.php:25
+msgid "How It Works"
+msgstr "Как это работает"
+
+#: includes/admin/wpostahs-how-it-work.php:78
+msgid "How Shortcode Works"
+msgstr "Как работает шорткод"
+
+#: includes/admin/wpostahs-how-it-work.php:83
+msgid "Step-2. Put below shortcode as per your need."
+msgstr "Шаг 2. Поместите ниже шорткод в соответствии с вашими потребностями."
+
+#: includes/admin/wpostahs-how-it-work.php:90
+msgid "All Shortcodes"
+msgstr "Все шорткоды"
+
+#: includes/admin/wpostahs-how-it-work.php:99
+msgid "Documentation"
+msgstr "Документация"
+
+#: includes/admin/wpostahs-how-it-work.php:155
+msgid "Upgrate to Pro"
+msgstr "Обновить до Pro"
+
+#: includes/admin/wpostahs-how-it-work.php:139
+msgid "Help to improve this plugin!"
+msgstr "Помогите улучшить плагин!"
+
+#: includes/admin/wpostahs-how-it-work.php:56
+msgid "How It Works - Display and shortcode"
+msgstr "Как это работает - отображение и шорткод"
+
+#: includes/admin/wpostahs-how-it-work.php:93
+msgid "Timeline Slider Shortcode"
+msgstr "Шорткоды Timeline Slider"
+
+#: includes/admin/wpostahs-how-it-work.php:69
+msgid "Step-2. Add Album title, description and featured image and Publish."
+msgstr "Шаг 2. Добавьте заголовок альбома, описание и избранное изображение и опубликуйте."
+
+#: includes/admin/wpostahs-how-it-work.php:70
+msgid "Step-3. Also you can display multiple timeline with category shortcode. Just go to \"Timeline Slider --> category\" and create the category. "
+msgstr "Шаг 3. Также вы можете отображать несколько временных шкал с помощью шорткода рубрики. Просто перейдите в \"Timeline Slider --> рубрики\" и создайте рубрику. "
+
+#: includes/admin/wpostahs-how-it-work.php:82
+msgid "Step-1. Create a page like Timeline OR Post Timeline."
+msgstr "Step-1. Создайте такую страницу, как временная шкала ИЛИ временная шкала записи."
+
+#: includes/admin/wpostahs-how-it-work.php:68
+msgid "Step-1. Go to \"Timeline Slider --> Add slide tab\"."
+msgstr "Шаг 1. Перейдите в раздел \"Timeline Slider --> Add slide\"."
+
+#: includes/admin/wpostahs-how-it-work.php:71
+msgid "Step-4. Asign the timeline post to respective category and use the category shortcode to display"
+msgstr "Шаг-4. Назначьте публикацию на временной шкале соответствующей рубрики и используйте шорткод рубрики для отображения"
+
+#: includes/wpostahs-slider-custom-post.php:71
+msgid "Search Category"
+msgstr "Поиск рубрики"
+
+#: includes/wpostahs-slider-custom-post.php:72
+msgid "All Category"
+msgstr "Все рубрики"
+
+#: includes/wpostahs-slider-custom-post.php:73
+#: includes/wpostahs-slider-custom-post.php:74
+msgid "Parent Category"
+msgstr "Родительская рубрика"
+
+#: includes/wpostahs-slider-custom-post.php:75
+msgid "Edit Category"
+msgstr "Изменить рубрику"
+
+#: includes/wpostahs-slider-custom-post.php:76
+msgid "Update Category"
+msgstr "Обновить рубрику"
+
+#: includes/wpostahs-slider-custom-post.php:77
+msgid "Add New Category"
+msgstr "Добавить новую рубрику"
+
+#: includes/wpostahs-slider-custom-post.php:78
+msgid "New Category Name"
+msgstr "Название новой рубрики"
+
+#: includes/wpostahs-slider-custom-post.php:24
+msgctxt "timeline-and-history-slider"
+msgid "Add Slide"
+msgstr "Добавить слайд"
+
+#: includes/wpostahs-slider-custom-post.php:25
+msgid "Add New slide"
+msgstr "Добавить новый слайд"
+
+#: includes/wpostahs-slider-custom-post.php:69
+#: includes/wpostahs-slider-custom-post.php:70
+msgctxt "timeline-and-history-slider"
+msgid "Category"
+msgstr "Рубрика"
+
+#: includes/wpostahs-slider-custom-post.php:29
+msgid "Search"
+msgstr "Поиск"
+
+#: includes/wpostahs-slider-custom-post.php:26
+msgid "Edit"
+msgstr "Изменить"
+
+#: includes/wpostahs-slider-custom-post.php:28
+msgid "View"
+msgstr "Просмотреть"
+
+#: includes/wpostahs-slider-custom-post.php:22
+#: includes/wpostahs-slider-custom-post.php:23
+msgctxt "timeline-and-history-slider"
+msgid "Timeline Slider"
+msgstr "Timeline Slider"
+
+#: includes/wpostahs-slider-custom-post.php:34
+msgctxt "admin menu"
+msgid "Timeline Slider"
+msgstr "Timeline Slider"
+
+#: includes/wpostahs-slider-custom-post.php:30
+msgid "NoItems found"
+msgstr "Ничего не найдено"
+
+#: includes/wpostahs-slider-custom-post.php:31
+msgid "No Items found in Trash"
+msgstr "В корзине ничего не найдено"
+
+#: includes/wpostahs-slider-custom-post.php:27
+msgid "New"
+msgstr "Новый"
+
+#: includes/wpostahs-slider-custom-post.php:79
+msgid "Timeline Category"
+msgstr "Timeline Category"

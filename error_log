@@ -1,0 +1,30 @@
+[25-Aug-2023 21:29:30 UTC] PHP Fatal error:  Uncaught MollieForms\Exception: Spam in /home/europea8/public_html/euyws/wp-content/plugins/mollie-forms/classes/Form.php:226
+Stack trace:
+#0 /home/europea8/public_html/euyws/wp-content/plugins/mollie-forms/classes/Form.php(65): MollieForms\Form->processSubmit(752)
+#1 /home/europea8/public_html/euyws/wp-includes/shortcodes.php(395): MollieForms\Form->addMollieFormsShortcode(Array, '', 'mollie-forms')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/europea8/public_html/euyws/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(mollie...', 'do_shortcode_ta...', '<p><img decodin...')
+#4 /home/europea8/public_html/euyws/wp-content/plugins/popup-maker/classes/Helpers.php(18): do_shortcode('<p><img decodin...')
+#5 /home/europea8/public_html/euyws/wp-includes/class-wp-hook.php(312): PUM_Helpers::do_shortcode('<p><img decodin...')
+#6 /home/europea8/public_html/euyws/wp-includes/plugin.php(205): WP_Hook->apply_filters('<p><img decodin...', Array)
+#7 /home/europea8/public_html/euyws/wp-content/pl in /home/europea8/public_html/euyws/wp-content/plugins/mollie-forms/classes/Form.php on line 226
+[25-Aug-2023 21:29:32 UTC] PHP Fatal error:  Uncaught MollieForms\Exception: Spam in /home/europea8/public_html/euyws/wp-content/plugins/mollie-forms/classes/Form.php:226
+Stack trace:
+#0 /home/europea8/public_html/euyws/wp-content/plugins/mollie-forms/classes/Form.php(65): MollieForms\Form->processSubmit(752)
+#1 /home/europea8/public_html/euyws/wp-includes/shortcodes.php(395): MollieForms\Form->addMollieFormsShortcode(Array, '', 'mollie-forms')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/europea8/public_html/euyws/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(mollie...', 'do_shortcode_ta...', '<p><img decodin...')
+#4 /home/europea8/public_html/euyws/wp-content/plugins/popup-maker/classes/Helpers.php(18): do_shortcode('<p><img decodin...')
+#5 /home/europea8/public_html/euyws/wp-includes/class-wp-hook.php(312): PUM_Helpers::do_shortcode('<p><img decodin...')
+#6 /home/europea8/public_html/euyws/wp-includes/plugin.php(205): WP_Hook->apply_filters('<p><img decodin...', Array)
+#7 /home/europea8/public_html/euyws/wp-content/pl in /home/europea8/public_html/euyws/wp-content/plugins/mollie-forms/classes/Form.php on line 226
+[25-Aug-2023 21:29:34 UTC] PHP Fatal error:  Uncaught MollieForms\Exception: Spam in /home/europea8/public_html/euyws/wp-content/plugins/mollie-forms/classes/Form.php:226
+Stack trace:
+#0 /home/europea8/public_html/euyws/wp-content/plugins/mollie-forms/classes/Form.php(65): MollieForms\Form->processSubmit(752)
+#1 /home/europea8/public_html/euyws/wp-includes/shortcodes.php(395): MollieForms\Form->addMollieFormsShortcode(Array, '', 'mollie-forms')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/europea8/public_html/euyws/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(mollie...', 'do_shortcode_ta...', '<p><img decodin...')
+#4 /home/europea8/public_html/euyws/wp-content/plugins/popup-maker/classes/Helpers.php(18): do_shortcode('<p><img decodin...')
+#5 /home/europea8/public_html/euyws/wp-includes/class-wp-hook.php(312): PUM_Helpers::do_shortcode('<p><img decodin...')
+#6 /home/europea8/public_html/euyws/wp-includes/plugin.php(205): WP_Hook->apply_filters('<p><img decodin...', Array)
+#7 /home/europea8/public_html/euyws/wp-content/pl in /home/europea8/public_html/euyws/wp-content/plugins/mollie-forms/classes/Form.php on line 226

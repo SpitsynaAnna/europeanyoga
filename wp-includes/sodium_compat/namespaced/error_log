@@ -1,0 +1,8 @@
+[27-Aug-2023 21:28:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/europea8/public_html/euyws/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[28-Aug-2023 03:58:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Crypto' not found in /home/europea8/public_html/euyws/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/sodium_compat/namespaced/Crypto.php on line 4

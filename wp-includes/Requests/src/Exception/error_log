@@ -1,0 +1,8 @@
+[24-Aug-2023 22:33:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Exception' not found in /home/europea8/public_html/euyws/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/Requests/src/Exception/Http.php on line 18
+[27-Aug-2023 21:05:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Exception' not found in /home/europea8/public_html/euyws/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20

@@ -1,0 +1,93 @@
+# Translation of Plugins - WPML to Polylang - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WPML to Polylang - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-25 14:48:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WPML to Polylang - Stable (latest release)\n"
+
+#: src/Strings.php:38
+msgid "Processing strings translations"
+msgstr "Обработка переводов строк"
+
+#: src/Page.php:185
+msgid "Polylang has already been installed on this website. Impossible to run the import."
+msgstr "Polylang уже установлен на этом сайте. Невозможно запустить импорт."
+
+#: src/Page.php:181
+msgid "Your version of Polylang is too old. Please update."
+msgstr "Ваша версия Polylang устарела. Обновите."
+
+#: src/Page.php:178
+msgid "Please install and activate Polylang to run the import."
+msgstr "Установите и активируйте Polylang, чтобы запустить импорт."
+
+#: src/Page.php:174
+msgid "WPML is activated. Please deactivate it."
+msgstr "WPML активирован. Деактивируйте его."
+
+#: src/Page.php:170
+msgid "Your version of WordPress is too old. Please update."
+msgstr "Ваша версия WordPress устарела. Обновите."
+
+#: src/Page.php:123
+msgid "Your website is ready to import WPML data to Polylang."
+msgstr "Ваш сайт готов к импорту данных WPML в Polylang."
+
+#: src/Options.php:38
+msgid "Processing options"
+msgstr "Параметры обработки"
+
+#: src/NoLangObjects.php:41
+msgid "Processing post and terms with no language"
+msgstr "Обработка записи и терминов без языка."
+
+#: src/Menus.php:38
+msgid "Processing navigation menus"
+msgstr "Обработка навигационных меню"
+
+#: src/Languages.php:38
+msgid "Creating languages"
+msgstr "Создание языков"
+
+#: src/AbstractAction.php:109
+msgid "Done!"
+msgstr "Готово!"
+
+#. Author of the plugin
+msgid "WP SYNTEX"
+msgstr "WP SYNTEX"
+
+#. Description of the plugin
+msgid "Import multilingual data from WPML into Polylang"
+msgstr "Импорт многоязычных данных из WPML в Polylang"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://polylang.pro"
+msgstr "https://polylang.pro"
+
+#: src/Page.php:98
+msgid "WPML Importer"
+msgstr "Импортер WPML"
+
+#. Plugin Name of the plugin
+msgid "WPML to Polylang"
+msgstr "WPML to Polylang"
+
+#: src/Page.php:127
+msgid "Import"
+msgstr "Импорт"
+
+#: src/Page.php:165
+msgid "WPML is not installed on this website."
+msgstr "WPML не установлен на этом сайте."
+
+#: src/Page.php:60
+msgid "WPML importer"
+msgstr "Импортер WPML"

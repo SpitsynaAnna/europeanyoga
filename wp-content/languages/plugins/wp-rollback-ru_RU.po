@@ -1,0 +1,132 @@
+# Translation of Plugins - WP Rollback - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WP Rollback - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-07 08:48:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP Rollback - Stable (latest release)\n"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://givewp.com/"
+msgstr "https://givewp.com/"
+
+#. Author of the plugin
+msgid "GiveWP.com"
+msgstr "GiveWP.com"
+
+#: wp-rollback.php:497
+msgid "It appears there are no version to select. This is likely due to the %s author not using tags for their versions and only committing new releases to the repository trunk."
+msgstr "Похоже, нет версии для выбора. Вероятно, это связано с тем, что автор %s не использует теги для своих версий и только фиксирует новые выпуски в репозитории."
+
+#: wp-rollback.php:524
+msgid "View Changelog"
+msgstr "Посмотреть журнал изменений"
+
+#: wp-rollback.php:299
+msgid "Sorry, we couldn't find a changelog entry found for this version. Try checking the <a href=\"%s\" target=\"_blank\">developer log</a> on WP.org."
+msgstr "К сожалению, мы не смогли найти запись журнала изменений для этой версии. Попробуйте проверить <a href=\"%s\" target=\"_blank\">журнал разработчика</a> на WP.org."
+
+#: includes/rollback-menu.php:47
+msgid "Oh no! We're missing required rollback query strings. Please contact support so we can check this bug out and squash it!"
+msgstr "О, нет! Не хватает необходимых строк запроса отката. Пожалуйста, свяжитесь со службой поддержки, чтобы мы могли проверить эту ошибку и устранить ее!"
+
+#. Description of the plugin
+msgid "Rollback (or forward) any WordPress.org plugin or theme like a boss."
+msgstr "Позволяет откатить версию любой темы или плагина на WordPress.org без заморочек."
+
+#: wp-rollback.php:828
+msgid "(WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
+msgstr "(WordPress не удалось установить безопасное соединение с WordPress.org. Обратитесь к администратору сервера.)"
+
+#: wp-rollback.php:828
+msgid "An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"https://wordpress.org/support/\">support forums</a>."
+msgstr "Произошла непредвиденная ошибка. Что-то может быть не так с WordPress.org или конфигурацией этого сервера. Если у вас по-прежнему возникают проблемы, посетите <a href=\"https://wordpress.org/support/\">форумы поддержки</a>."
+
+#: wp-rollback.php:517
+msgid "Installed Version"
+msgstr "Установленная версия"
+
+#: wp-rollback.php:346
+msgid "You do not have sufficient permissions to perform rollbacks for this site."
+msgstr "У вас недостаточно полномочий, чтобы использовать функцию отката версии на этом сайте."
+
+#: wp-rollback.php:300
+msgid "Please select a version number to perform a rollback."
+msgstr "Выберите номер версии, к которой вы хотите откатиться."
+
+#: wp-rollback.php:268
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: wp-rollback.php:267
+msgid "No Rollback Available: This is a non-WordPress.org theme."
+msgstr "Нет возможности откатиться, так как это тема не из репозитория WordPress.org."
+
+#: wp-rollback.php:148 wp-rollback.php:160
+msgid "Cheatin&#8217; huh?"
+msgstr "Хакер, что ли?"
+
+#: includes/rollback-menu.php:130
+msgid "<strong>Notice:</strong> We strongly recommend you <strong>create a complete backup</strong> of your WordPress files and database prior to performing a rollback. We are not responsible for any misuse, deletions, white screens, fatal errors, or any other issue resulting from the use of this plugin."
+msgstr "<strong>Примечание.</strong> Мы настоятельно рекомендуем вам <strong>создать полную резервную копию</strong> ваших файлов и базы данных WordPress перед выполнением отката. Мы не несем ответственности за любое неправильное использование, удаление, белые экраны, фатальные ошибки или любые другие проблемы, возникающие в результате использования этого плагина."
+
+#: includes/rollback-menu.php:120
+msgid "New Version:"
+msgstr "Новая версия:"
+
+#: includes/rollback-menu.php:114
+msgid "Installed Version:"
+msgstr "Установленная версия:"
+
+#: includes/rollback-menu.php:105
+msgid "Theme Name:"
+msgstr "Название темы:"
+
+#: includes/rollback-menu.php:103
+msgid "Plugin Name:"
+msgstr "Название плагина:"
+
+#: includes/rollback-menu.php:92
+msgid "Are you sure you want to perform the following rollback?"
+msgstr "Вы уверены, что хотите откатиться до выбранной версии?"
+
+#: includes/rollback-menu.php:73 includes/rollback-menu.php:135
+msgid "Cancel"
+msgstr "Отменить"
+
+#: includes/rollback-menu.php:72 includes/rollback-menu.php:134
+#: wp-rollback.php:266 wp-rollback.php:582 wp-rollback.php:657
+#: wp-rollback.php:712
+msgid "Rollback"
+msgstr "Откатить назад"
+
+#: includes/rollback-menu.php:26
+msgid "plugin"
+msgstr "плагин"
+
+#: includes/rollback-menu.php:26
+msgid "theme"
+msgstr "тема"
+
+#: includes/rollback-menu.php:26
+msgid "Please select which %1$s version you would like to rollback to from the releases listed below. You currently have version %2$s installed of %3$s."
+msgstr "Выберите версию %1$s, к которой вы хотите выполнить откат, из перечисленных ниже. В настоящее время у вас установлена версия %2$s %3$s."
+
+#. Plugin Name of the plugin
+#: includes/rollback-menu.php:23
+msgid "WP Rollback"
+msgstr "WP Rollback"
+
+#: includes/rollback-menu.php:10
+msgid "WP Rollback is missing necessary parameters to continue. Please contact support."
+msgstr "В WP Rollback отсутствуют необходимые параметры для продолжения. Пожалуйста, свяжитесь со службой поддержки."
+
+#: includes/rollback-action.php:49
+msgid "This rollback request is missing a proper query string. Please contact support."
+msgstr "В этом запросе на откат отсутствует правильная строка запроса. Пожалуйста, свяжитесь со службой поддержки."

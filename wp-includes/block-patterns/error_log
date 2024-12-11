@@ -1,0 +1,4 @@
+[27-Aug-2023 07:40:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/europea8/public_html/euyws/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/block-patterns/query-standard-posts.php on line 9

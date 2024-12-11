@@ -1,0 +1,8 @@
+[25-Aug-2023 10:12:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/europea8/public_html/euyws/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[27-Aug-2023 10:53:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/europea8/public_html/euyws/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4

@@ -1,0 +1,8 @@
+[26-Aug-2023 04:58:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/europea8/public_html/euyws/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[27-Aug-2023 21:28:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/europea8/public_html/euyws/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/europea8/public_html/euyws/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
