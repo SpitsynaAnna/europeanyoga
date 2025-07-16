@@ -113,9 +113,18 @@ class RegistrationsTable extends \WP_List_Table
         global $wpdb;
         switch ($column_name) {
             case 'customer':
-                $name = $wpdb->get_row("SELECT value FROM {$this->mollieForms->getRegistrationFieldsTable()} WHERE type='name' AND registration_id=" .
-                                       $item['id']);
-                return $name->value;
+                // Получаем First name (тип 'name') оба языка
+                $first_name = $wpdb->get_var("SELECT value FROM {$this->mollieForms->getRegistrationFieldsTable()} WHERE type='name' AND registration_id=" .
+                    $item['id']);
+
+                // Получаем Last name - проверяем оба языка
+                $last_name = $wpdb->get_var("SELECT value FROM {$this->mollieForms->getRegistrationFieldsTable()} WHERE (field='Last name' OR field='Nom de famille') AND registration_id=" .
+                    $item['id']);
+
+                // Объединяем имя и фамилию
+                $customer_name = trim(($first_name ?: '') . ' ' . ($last_name ?: ''));
+
+                return $customer_name;
             case 'total_price':
                 return $this->helpers->getCurrencySymbol($item['currency'] ?: 'EUR') . ' ' .
                        number_format($item[$column_name], $this->helpers->getCurrencies($item['currency'] ?:
